@@ -1,28 +1,28 @@
 <color=red>「SCP-173」</color>
-<color=#ff8000>Class-D</color>
-「Spectator」
+<color=#ff8000>Classe-D</color>
+「Espectador」
 <color=red>「SCP-106」</color>
-<color=#00d9ff>Epsilon-11 Specialist</color>
+<color=#00d9ff>Especialista da Epsilon-11</color>
 <color=red>「SCP-049」</color>
-<color=#ffff7c>Scientist</color>
+<color=#ffff7c>Cientista</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#559100>Chaos Recon</color>
+<color=#559100>Soldado de Recon. do Caos</color>
 <color=red>「SCP-096」</color>
 <color=#8d1414>「SCP-049-2」</color>
-<color=#0096ff>Epsilon-11 Sergeant</color>
-<color=#003dca>Epsilon-11 Captain</color>
-<color=#70c3ff>Epsilon-11 Private</color>
-<color=#ff00b0>「Admin Abuse」</color>
-<color=#556278>Facility Guard</color>
+<color=#0096ff>Sargento da Epsilon-11</color>
+<color=#003dca>Capitão da Epsilon-11</color>
+<color=#70c3ff>Cabo da Epsilon-11</color>
+<color=#ff00b0>「AbusodePoder.mp4」</color>
+<color=#556278>Guarda da Instalação</color>
 <color=red>「SCP-939-168」</color>
 -
-<color=#008F1C>Chaos Trooper</color>
-<color=#006826>Chaos Executor</color>
-<color=#0D7D35>Chaos Charger</color>
-Overwatch
-Filmmaker
+<color=#008F1C>Patrulheiro do Caos</color>
+<color=#006826>Executor do Caos</color>
+<color=#0D7D35>Líder do Caos</color>
+Supervisor
+Cineasta
 <color=red>「SCP-3114」</color>
-s1
+Destruído
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-SIGMA」</color>
 <color=#ff0000>「SCP-1507-049」</color>
