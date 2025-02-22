@@ -1,15 +1,15 @@
-Ability Not Found:The ability ID associated with this ability does not exist.
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Rifle, Grenades, a Radio and an Access Card.
-Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
-Breakneck Speeds:No matter where they hide, you will find them in little time, and they will see you for less. Double your movement speed and blink distance, at the cost of your lethality. Lasts until shortly after being witnessed, or cancelled manually.
-Blink:Once they lay eyes on you, make them regret breaking sight, even for a moment. When the eye turns crimson, hold and move the indicator to a desired location. Release to teleport and kill the nearest human within 2 meters.
-Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
-Corrosion:You can move through doors by walking into them.
+Habilidade Não Encontrada: O ID da habilidade associada a essa habilidade não existe.
+Corrida: Aumenta sua velocidade de movimento, mas também aumenta o som feito ao se mover.
+Furtividade:Seus movimentos se tornam silenciosos ao preço de uma velocidade diminuída.
+Inventário:Abra seu inventário e selecione um item que você pegou usando o botão esquerdo, ou solte-o uisando o botão direito.
+Desarmado:Você não tem nada. Ache algo. Qualquer coisa.
+Cartão de Acesso: Você tem um cartão de acesso. Não é o melhor, mas não o perca.
+Protocolo Padrão:Você está equipado com um Rifle, Granadas, um Rádio e um Cartão de Acesso.
+Armado e Perigoso:Você foi confiado com uma Metralhadora Leve, um Dispositivo Hacker (cartão de acesso) e um Kit Médico.
+Velocidade Alucinante:Não importa onde eles se escondam, você os encontrará em pouco tempo, e eles o verão por menos. Duplique sua velocidade de movimento e distância da 'piscada', ao preço de sua letalidade. Dura até pouco depois de ser visto ou cancelado manualmente.
+Piscada:Assim que eles olharem para você, faça-os se arrependerem de desviarem o olhar, mesmo que por um momento. Quando o 'olho' tornar-se carmesim, segure e mova o indicador ao local escolhido. Solte para teletransportar-se e matar o humano mais perto dentro de 2 metros.
+Buraco:Você pode pôr uma poça escura de corrosão e teleportar-se de volta à ela a qualquer momento. Teleportar leva alguns segundos.\nVocê pode mover seu buraco ao repor ele novamente.
+Corrosão:Você pode se mover através de portas ao andar por elas.
 Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
 Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
 Scopophobia:You start docile, and become enraged when you're seen or hurt. Quell your rage by killing transgressors - follow their light before your fury subsides. The indignity of each offender adds to your AHP, preventing harm to you as long as it stands.
