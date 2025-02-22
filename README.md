@@ -15,3 +15,6 @@ Se você quer ver como as traduções se parecem no jogo, vá para: https://stea
 
 Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
+
+# Adendo:
+## Tradução Incompleta.
