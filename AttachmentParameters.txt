@@ -1,22 +1,24 @@
-ADS zoom
+Ampliação da mira
 ---
-Damage
-Penetration
-Fire rate
-Recoil
-Recoil when aiming
-Bullet accuracy
-Hip-firing accuracy
-Aiming accuracy
-Equip time
-Gunshot loudness
-Magazine capacity
-Equip time
-Reload time
+Dano
+Penetração
+Cadência de tiro
+Coice
+Coice mirando
+Precisão das balas
+Precisão s/ mirar
+Precisão mirando
+Tempo p/ equipar
+Barulho do tiro
+Capacidade do pente
+Tempo p/ equipar
+Tempo p/ recarga
 ---
-Aiming speed
-Pellet spread
-Pattern consistency
-Projectiles number
-Reload speed
-Running accuracy
+Velocidade p/ mirar
+Propagação das balas
+Consistência do padrão
+Número de projéteis
+Velocidade de recarga
+---
+Precisão correndo
+Velocidade de ação dupla
