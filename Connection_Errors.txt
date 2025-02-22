@@ -1,38 +1,38 @@
-<size=80>YOU HAVE BEEN KICKED</size>\nThe server was forced to stop the connection.
-<size=80>DISCONNECTED</size>\nThe specified host is not available.
-<size=80>DISCONNECTED</size>\nThe specified connection ID does not exist.
-<size=80>DISCONNECTED</size>\nThe specified channel does not exist.
-<size=80>DISCONNECTED</size>\nServer is full.
-<size=80>DISCONNECTED</size>\nReceived wrong packet.
-<size=80>DISCONNECTED</size>\nConnection lost (timed out).
-<size=80>DISCONNECTED</size>\nConnection lost (timed out).
-<size=80>DISCONNECTED</size>\nOperation is not supported.
-<size=80>DISCONNECTED</size>\nYour game version is different from the server.
-<size=80>DISCONNECTED</size>\nInvalid server config.
-<size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
-<size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
-<size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
-<size=80>ROUND RESTART</size>\n<size=35>The round is restarting...</size>
-<size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
-<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Client - [your]; Server - [server])
-<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
-<size=35>Loading the facility...</size>
-<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
-<size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
-<size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
-<size=80>DISCONNECTED</size>\nYou have been globally banned.
-<size=80>DISCONNECTED</size>\nYou have been globally banned: [reason].
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]
-<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact an server administrator.
-<size=80>DISCONNECTED</size>\nYou have been rate limited. Try again in a few seconds.
-<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
-<size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is a server modification, not a game feature.\nContact an server administrator for more information.
-<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and try again or contact studio technical support.
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nReason: [reason]
-<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]\nReason: [reason]
-<size=80>Please wait</size>\nProcessing server security verification...
-<size=80>DISCONNECTED</size>\nFailed to process server security verification.
-<size=80>DISCONNECTED</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.
-<size=80>AUTH ERROR</size>\nCentral Server Message: [message].
-<size=80>DISCONNECTED</size>\nServer is shutting down.
+<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a interromper a conexão.
+<size=80>DESCONECTADO</size>\nO host especificado não está disponível.
+<size=80>DESCONECTADO</size>\nO ID de conexão especificado não existe.
+<size=80>DESCONECTADO</size>\nO canal especificado não existe.
+<size=80>DESCONECTADO</size>\nServidor está cheio.
+<size=80>DESCONECTADO</size>\nPacote errado recebido.
+<size=80>DESCONECTADO</size>\nConexão perdida (tempo esgotado).
+<size=80>DESCONECTADO</size>\nConexão perdida (tempo esgotado).
+<size=80>DESCONECTADO</size>\nOperação não é suportada.
+<size=80>DESCONECTADO</size>\nVersão do seu jogo é diferente à do servidor.
+<size=80>DESCONECTADO</size>\nConfiguração do servidor inválida.
+<size=80>DESCONECTADO</size>\nO endereço fornecido é inválido ou não pôde ser resolvido.
+<size=80>DESCONECTADO</size>\nUm problema inesperado ocorreu!
+<size=80>ESPERE UM MOMENTO</size>\n<size=35>Estabelecendo conexão...</size>
+<size=80>REINICIANDO PARTIDA</size>\n<size=35>A partida está reiniciando...</size>
+<size=80>ESPERE UM MOMENTO</size>\n<size=35>Carregando tutorial...</size>
+<size=80>VERSÃO INCOMPATÍVEL</size>\nA sua versão do jogo é diferente à do servidor.\n(Cliente - [your]; Servidor - [server])
+<size=80>CONECTANDO</size>\n<size=35>Carregando o nível...</size>
+<size=35>Carregando a instalação...</size>
+<size=80>DESCONECTADO</size>\nUm erro não especificado ocorreu no servidor.
+<size=80>DESCONECTADO</size>\nEste servidor requer autorização dos servidores centrais.
+<size=80>DESCONECTADO</size>\nVocê não está na lista de acesso deste servidor (whitelist).
+<size=80>DESCONECTADO</size>\nVocê foi globalmente banido.
+<size=80>DESCONECTADO</size>\nVocê foi globalmente banido: [reason].
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.\nBanimento expira em: [date] [time]
+<size=80>DESCONECTADO</size>\nSua ficha de autenticação expirou.\nServidor pode ter um horário ou fuso horário inválido definido.\nPor favor, contate um administrador do servidor.
+<size=80>DESCONECTADO</size>\nSua frequência de conexão foi limitada. Tente novamente em alguns segundos.
+<size=80>DESCONECTADO</size>\nServidor não está aceitando conexões da sua localização geográfica.\nO nome do servidor ou sua descrição podem conter mais informações.
+<size=80>DESCONECTADO</size>\nVocê foi expulso por uma modificação do servidor.\n\nMotivo: [reason]\nÉ uma modificação do servidor, não um elemento do jogo em si.\nContate um administrador do servidor para mais detalhes.
+<size=80>DESCONECTADO</size>\nSua ficha de autenticação foi rejeitada pelo servidor.\nPor favor, reinicie o jogo ou entre em contato com o suporte técnico.
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.\nMotivo: [reason]
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.\nO banimento expira em: [date] [time]\nMotivo: [reason]
+<size=80>ESPERE UM MOMENTO</size>\nProcessando a verificação da segurança do servidor...
+<size=80>DESCONECTADO</size>\nFalha ao processar a verificação da segurança do servidor.
+<size=80>DESCONECTADO</size>\nProcessamento de verificação da segurança do servidor foi muito lento.\nPor favor, tente novamente ou contate um administrador do servidor.
+<size=80>ERRO DE AUTENTICAÇÃO</size>\nMensagem do Servidor Central: [message].
+<size=80>DESCONECTADO</size>\nServidor está desligando.
