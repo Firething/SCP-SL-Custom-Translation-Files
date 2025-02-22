@@ -8,7 +8,7 @@ Gerente de Feedback da Northwood
 Recursos Humanos da Northwood
 Diretor de Recursos Humanos da Northwood
 Gerente da Plataforma Publicitária da Northwood
-Equipe da Northwood
+Equipe da Northwood 
 Gerente da Steam da Northwood
 Administrador de Sistema da Northwood
 Gerente da Wiki da Northwood
@@ -27,7 +27,7 @@ Moderador Global do SCP:SL
 Chefe de Design de Jogo do SCP:SL
 Chefe de Programação de Jogabilidade do SCP:SL
 Designer de Nível do SCP:SL
-🦊 Parceiro do SCP:SL (Furro) 🦊
+Parceiro do SCP:SL
 Colaborador no Patreon do SCP:SL
 Gerente da Garantia de Qualidade do SCP:SL
 Designer de Áudio do SCP:SL
