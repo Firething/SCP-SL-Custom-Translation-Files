@@ -1,41 +1,41 @@
-Hotkeys
-Create New Hotkey
-Hotkeys allow items to be assigned to keyboard keys, so you can equip them without having to open your inventory.
-Keycard
-Primary Weapon
-Secondary Weapon
-Medical
-Grenade
-Name
-Assigned key
-Appearance
-Queue mode
-Item selection priority
-Allows to set the starting point of the queued items based on the user-defined conditions.
-Hidden
-Normal Icon
-Small Icon
-Item queue
-Selection is based on the order of elements in the ‘Items’ pool below.
-Inventory order
-Selection is based on their order in the inventory.
-None
-Best medical
-Attempts to equip the best medical item based on your health, stamina amount, or status effects.
-Remember previous
-The sequence starting point will not reset when selecting a different item.
-Door access detection
-Prioritizes keycards that can access nearby doors.
-Skip empty firearms
-Prioritizes loaded firearms over empty ones.
-Items
-Match index
-This option allows the definition of an order as dictated by their position in the inventory. Inventory items not matching the selected filter above will be ignored when determining the order.
-Remove All Custom Hotkeys
-Restore Default (Hold)
-Edit: [hotkey]
-New Unnamed Hotkey
-Any Firearm
-Any Keycard
-Any Throwable
-Any SCP Item
+Atalhos
+Criar Novo Atalho
+Atalhos permitem que itens sejam atribuídos às teclas para que você possa equipá-los sem precisar abrir o inventário.
+Cartão
+Arma Primária
+Arma Secundária
+Médico
+Granada
+Nome
+Tecla Atribuída
+Aparência
+Modo de Fila
+Prioridade de Seleção de Item
+Permite definir o local inicial dos itens na fila baseado nas condições definidas pelo usuário.
+Escondido
+Ícone Normal
+Ícone Pequeno
+Fila de Item
+A seleção é baseada na ordem dos elementos no conjunto de ‘Itens’ abaixo.
+Ordem do Inventário
+A seleção é baseada em sua ordem no inventário.
+Nenhum
+Melhor Medicina
+Tenta equipar o melhor item médico com base em sua saúde, quantia de estâmina ou efeitos de status.
+Lembrar do anterior
+O ponto inicial da sequência não será redefinido ao selecionar um item diferente.
+Detecção de acesso à porta
+Prioriza cartões que podem acessar portas próximas.
+Ignorar armas vazias
+Prioriza armas carregadas ao invés das vazias.
+Itens
+Índice de Coincidência
+Esta opção permite a definição de uma ordem conforme ditada por sua posição no inventário. Os itens do inventário não coincidentes ao filtro selecionado acima serão ignorados ao determinar a ordem.
+Remover Todos Atalhos Personalizados
+Restaurar Padrão (Segure)
+Editar: [hotkey]
+Novo Atalho S/ Nome
+Qualquer Arma
+Qualquer Cartão
+Qualquer Arremessável
+Qualquer Item SCP
