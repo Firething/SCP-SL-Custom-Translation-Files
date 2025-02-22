@@ -1,14 +1,17 @@
-How to download and use:
+# Como instalar e usar:
 
-First - download the ZIP file of the translations.
-Then unzip the folder with the translations into the game files:
+Primeiro - instale o arquivo ZIP das traduções.
+Então, descompacte a pasta com as traduções nos arquivos do jogo:
 
 Steam\steamapps\common\SCP Secret Laboratory\Translations.
 
 
-To find the folder go to Steam Library, right click on SCP:SL, go to Manage section and choose Browse local files, and then go to the folder called Translations
+Para encontrar a pasta, vá até a Biblioteca do Steam, clique com o botão direito em SCP:SL, vá até a seção Gerenciar e escolha Explorar arquivos locais, e então vá até a pasta chamada Translations
 
-Then open up your SL and change your in-game language to: English (Custom)
+Então, abra seu SL e mude o seu idioma em jogo para: Português (Brasil)
 
 
-If you want to see how my translations look in-game go to: https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
+Se você quer ver como as traduções se parecem no jogo, vá para: https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
+
+Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
+Tradução: *Firething*
