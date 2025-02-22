@@ -1,7 +1,7 @@
 <color=#7cf58d><size=90%><b>PROCESSO DE DESCONTAMINAÇÃO COMEÇA EM:</b></size></color>
 <color=red>⚠<b>-POR FAVOR, SAIA DA ÁREA-</b>⚠</color>
 <color=red>⚠<b>-POR FAVOR, EVACUE-</b>⚠</color>
-<size=84%><b>ANÁLISE MACABRA EM PROGRESSO</b></size>
+<size=84%><b>ANÁLISE DE AMEAÇA EM PROGRESSO</b></size>
 <size=85%><b>PREPARANDO SISTEMAS DE SEGURANÇA</b></size>
 <size=84%><b>SISTEMAS PRONTOS PARA COMEÇAR</b></size>
 <color=red><size=90%>⚠<b>-INICIALIZANDO PROCEDIMENTO P-B-3-</b>⚠</size></color>
