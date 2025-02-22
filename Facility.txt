@@ -1,48 +1,48 @@
-VOICE VOLUME
-Yes
-FORCE START
-SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
-Invert Y-axis
-SUMMARY
-Cancel
-I N V E N T O R Y
-BRIGHTNESS
-SETTINGS
-DISCONNECT
-ALPHA WARHEAD IS DISABLED
-ACCESS DENIED
-VOICE CHAT
-INVENTORY OVERLOAD
-MOUSE SENSITIVITY
-HACKING
-PICKING UP...
-Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
-[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
-DOOR HAS BEEN LOCK-DOWN BY SCP-079
-Fullscreen mode
-Are you sure you want to leave the server?
-Basic options. Full list of settings in the menu.
-\n「<color=#F7D007>W</color><color=#F7C514>A</color><color=#F7BA21>I</color><color=#F7AF2E>T</color><color=#F7A43B>I</color><color=#F79948>N</color><color=#F78E55>G</color> <color=#F7786F>F</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>P</color><color=#F741B0>L</color><color=#F736BD>A</color><color=#F72BCA>Y</color><color=#F720D7>E</color><color=#F715E4>R</color><color=#F70AF1>S</color>」
-SUMMARY
-CONTINUE
-MAIN VOLUME
-\n<size=150%><color=#F70AF1>\uf0c0</color></size>\n<b>PLAYERS</b></color>
+VOLUME DA VOZ
+Sim
+FORÇAR INÍCIO
+PROCEDIMENTO DE RECONTENÇÃO\nDO SCP-106
+Inverter Eixo-Y
+RESUMO
+Cancelar
+I N V E N T Á R I O
+BRILHO
+OPÇÕES
+DESCONECTAR
+OGIVA NUCLEAR ESTÁ DESATIVADA
+ACESSO NEGADO
+BATE-PAPO POR VOZ
+INVENTÁRIO CHEIO
+SENSIBILIDADE
+HACKEANDO
+PEGANDO...
+Aumentar o brilho <b>piora significativamente a experiência </b>do jogo.\nTente deixar esse valor o mais baixo possível.\n<b>É recomendado deixar no valor padrão.</b>
+[1] ABRIR/FECHAR PORTA\n[2] TRANCAR PORTA*\n\n*Trancar a porta usa a habilidade especial.
+PORTA BLOQUEADA PELO SCP-079.
+Modo de Tela Cheia
+Tem certeza que deseja sair do servidor?
+Opções básicas. Lista completa das configurações no menu principal.
+\n「<color=#F7D007>E</color><color=#F7C514>S</color><color=#F7BA21>P</color><color=#F7AF2E>E</color><color=#F7A43B>R</color><color=#F79948>A</color><color=#F78E55>N</color><color=#186d05>D</color><color=#48b5ce>O</color> <color=#F7786F>P</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>J</color><color=#F741B0>O</color><color=#F736BD>G</color><color=#F72BCA>A</color><color=#F720D7>D</color><color=#F715E4>O</color><color=#F70AF1>R</color><color=#8795ff>E</color><color=#ffe03f>S</color>」
+RESUMO
+CONTINUAR
+VOLUME PRINCIPAL
+\n<size=150%><color=#F70AF1>\uf0c0</color></size>\n<b>JOGADORES</b></color>
 -
 -
-YOU ARE
-Escape time: [escape_minutes]:[escape_seconds]
-Cooldown: [time]\n[item]
-Press <color=#ff80bc><b>F1</b></color> for more information.
-<size=40><color=#EC2222>Follow orders or ask teammates for help.</color></size>
+VOCÊ É
+Escapou em: [escape_minutes]:[escape_seconds]
+Recarga: [time]\n[item]
+Pressione <color=#ff80bc><b>F1</b></color> para mais informações.
+<size=40><color=#EC2222>Siga as ordens ou peça ajuda aos seus aliados.</color></size>
 -
 -
-<size=2100%>\n</size><size=110%><b>ROUND STARTS IN:</size>\n<size=200%><color=green>{0}</color></b></size>
-<size=2000%>\n</size><size=110%><b>ROUND START:</b><color=#EC2222> \uf023 <b>LOCKED</b> \uf023</color></size>
-AIMING SENS. REDUCTION
-Press <b>[key]</b> to cancel the throw.
-ADS Toggle
-Mute Spectator Chat
-Enable Noise Reduction (recommended)
-Automatic (System Default)
-No Microphone Detected!
-INPUT DEVICE
+<size=2100%>\n</size><size=110%><b>PARTIDA INICIA EM:</size>\n<size=200%><color=green>{0}</color></b></size>
+<size=2000%>\n</size><size=110%><b>COMEÇO DA PARTIDA:</b><color=#EC2222> \uf023 <b>TRANCADO</b> \uf023</color></size>
+REDUÇÃO DA SENS. MIRANDO
+Pressione <b>[key]</b> para cancelar o arremesso.
+Alternar MIRA
+Silenciar o bate-papo de espectador.
+Ativar Redução de Ruído (recomendado)
+Automático (Padrão)
+Nenhum Microfone Detectado!
+DISPOSITIVO DE ENTRADA
