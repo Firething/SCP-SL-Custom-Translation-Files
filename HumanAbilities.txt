@@ -1,7 +1,7 @@
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Firearm, an Access Card, and some utility items.
-Armed & Dangerous:You have been consigned with heavy weaponry, an Access Device, and medical supplies.
+Corrida:Aumenta a sua velocidade, mas também aumenta quanto som é emitido quando você se move.
+Furtividade:Seus movimentos se tornam silenciosos ao preço de uma menor velocidade.
+Inventário:Abra seu inventário e selecione um item que você pegou usando o botão esquerdo ou solte-o usando o botão direito do mouse.
+Desarmado:Você não tem nada. Ache algo. Qualquer coisa.
+Cartão de Acesso:Você tem um cartão de acesso. Não é o melhor, mas não perca-o.
+Protocolo Padrão:Você está equipado com uma arma, um cartão de acesso e alguns utilitários.
+Armado & Perigoso:Foi concedido a você armamento pesado, um dispositivo ‘hijacker’ (cartão de acesso) e suprimentos médicos.
