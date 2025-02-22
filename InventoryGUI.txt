@@ -1,27 +1,27 @@
-<size=125%><color=#FFFFFF>{0}</color></size>/{1} - {2}
-Damage
-Fire Rate
-Hip Accuracy
-ADS Accuracy
-Weight
-Length
-DROP:
-Helmet Efficacy
-Vest Efficacy
-Stamina Usage
-Movement Speed
-Item Limits:
-Ammo Limits:
-{0} total
-Armor Penetration
-Running Accuracy
-Press <color=#ff80bc><b>[key]</b></color> to cackle
-<voffset=-2.5em><size=150%>Charge: <size=175%><b>[percent]</b></size></voffset>
-<voffset=-2.5em><size=150%>Ammo: <size=175%><b>[rem]</b></size></voffset>
-<size=750%>\n</size>Hold <b>[primary]</b> for Quick-Fire mode.
-Hold <b>[secondary]</b> for a High-Powered charge.
-<size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[key]</b> to cycle firing modes.</size>
-<size=750%>\n</size>Press <b>[key]</b> to Swing.
-Hold <b>[key]</b> to Charge.
-<size=750%>\n</size><color=#00ff00><size=125%>「Ready to Fire」</size></color>\n<size=80%><b>[primary]</b> to activate.</size>
-<size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. DAMAGED - <color=yellow>⚠</color>\n<size=80%>Capabilities are limited.</size>
+Munição [loaded]/[capacity] [type]
+Dano
+Cadência de Tiro
+Precisão s/ Mirar
+Precisão Mirando
+Peso
+Comprimento
+SOLTAR:
+Eficácia do Capacete
+Eficácia do Colete
+Uso de Estâmina
+Velocidade de Movimento
+Limite de Itens:
+Limite de Munição:
+[amount] no total
+Penetr. de Armadura
+Precisão ao Correr
+Pressione <color=#ff80bc><b>[key]</b></color> para gargalhar
+<voffset=-2.5em><size=150%>Carga: <size=175%><b>[percent]</b></size></voffset>
+<voffset=-2.5em><size=150%>Munição: <size=175%><b>[rem]</b></size></voffset>
+<size=750%>\n</size>Segure <b>[primary]</b> para usar o modo de Disparo-Rápido.
+Segure <b>[secondary]</b> para dar um Golpe Carregado.
+<size=750%>\n</size><color=#00ff00><size=125%>「Pronto para Disparo」</size></color>\n<size=80%><b>[key]</b> para alternar entre os modos de tiro.</size>
+<size=750%>\n</size>Pressione <b>[key]</b> para Golpear.
+Segure <b>[key]</b> para Carregar.
+<size=750%>\n</size><color=#00ff00><size=125%>「Pronto para Disparo」</size></color>\n<size=80%><b>[primary]</b> para ativar.</size>
+<size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. DANIFICADA - <color=yellow>⚠</color>\n<size=80%>Capacidades estão limitadas.</size>
