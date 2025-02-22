@@ -1,61 +1,89 @@
-Northwood Chief Executive Officer 
-Northwood Chief Information Officer 
-Northwood Chief Operations Officer 
-Northwood Community Director 
-Northwood Discord Manager 
-Northwood Executive Assistant 
-Northwood Feedback Manager 
-Northwood Human Resources 
-Northwood Human Resources Director 
-Northwood Marketing Platform Manager 
-Northwood Staff 
-Northwood Steam Manager 
-Northwood System Administrator 
-Northwood Wiki Manager 
-SCP:SL Art Manager 
-SCP:SL Art Supervisor 
-SCP:SL Artist 
-SCP:SL Backend Programmer 
-SCP:SL Backend Programming Manager 
-SCP:SL Developer 
-SCP:SL Event Winner 
-SCP:SL Fullstack Programmer 
-SCP:SL Game Designer 
-SCP:SL Gameplay Programmer 
-SCP:SL Global Moderation Manager 
-SCP:SL Global Moderator 
-SCP:SL Lead Game Designer 
-SCP:SL Lead Gameplay Programmer 
-SCP:SL Level Designer 
-🐺 SCP:SL Partner (Furry) 🐺
-SCP:SL Patreon Supporter 
-SCP:SL Quality Assurance Manager 
-SCP:SL Sound Designer 
-SCP:SL Game Director
-SCP:SL Official Server Manager 
-Northwood Verification Specialist 
-SCP:SL Anti-Cheat Developer 
-SCP:SL Quality Assurance Tester 
-SCP:SL Quality Assurance Supervisor 
-SCP:SL Twitch Subscriber 
-SCP:SL Audio Manager 
-Northwood Feedback Coordinator 
-Northwood Verification Supervisor 
-SCP:SL Official Server Supervisor 
-Northwood Feedback Supervisor 
-Northwood Verification Manager 
-Northwood Bot Manager 
-Northwood Translation Manager 
-SCP:SL Game Design Manager 
-SCP:SL Animator 
-Northwood Public Relations Director 
-SCP:SL Community Helper 
-SCP:SL Voice Actor 
-SCP:SL Foundation Investor 
-Northwood Studio Director 
-SCP:SL Assistant Game Director 
-Northwood Tech Support Supervisor 
-Northwood Tech Support Manager 
-Northwood System Administration Manager 
-SCP:SL Narrative Designer 
-Northwood Marketing Platform Supervisor 
+Diretor Executivo da Northwood
+Diretor de Informações da Northwood
+Diretor de Operações da Northwood
+Diretor de Comunidade da Northwood
+Gerente do Discord da Northwood
+Assistente Executivo da Northwood
+Gerente de Feedback da Northwood
+Recursos Humanos da Northwood
+Diretor de Recursos Humanos da Northwood
+Gerente da Plataforma Publicitária da Northwood
+Equipe da Northwood
+Gerente da Steam da Northwood
+Administrador de Sistema da Northwood
+Gerente da Wiki da Northwood
+Gerente Artístico do SCP:SL
+Supervisor Artístico do SCP:SL
+Artista do SCP:SL
+Programador Back-end do SCP:SL
+Gerente de Programação Back-end do SCP:SL
+Desenvolvedor do SCP:SL
+Ganhador de Evento do SCP:SL
+Programador Fullstack do SCP:SL
+Designer de Jogo do SCP:SL
+Programador de Jogabilidade do SCP:SL
+Gerente de Moderação Global do SCP:SL
+Moderador Global do SCP:SL
+Chefe de Design de Jogo do SCP:SL
+Chefe de Programação de Jogabilidade do SCP:SL
+Designer de Nível do SCP:SL
+🦊 Parceiro do SCP:SL (Furro) 🦊
+Colaborador no Patreon do SCP:SL
+Gerente da Garantia de Qualidade do SCP:SL
+Designer de Áudio do SCP:SL
+Diretor de Jogo do SCP:SL
+Gerente de Servidor Oficial do SCP:SL
+Especialista de Verificação do SCP:SL
+Desenvolvedor de Anti-Trapaça do SCP:SL
+Analista da Garantia de Qualidade do SCP:SL
+Supervisor da Garantia de Qualidade do SCP:SL
+Inscrito na Twitch do SCP:SL
+Gerente de Áudio do SCP:SL
+Coordenador de Feedback do SCP:SL
+Supervisor de Verificação do SCP:SL
+Supervisor de Servidor Oficial do SCP:SL
+Supervisor de Feedback da Northwood
+Gerente de Verificação da Northwood
+Gerente de Bot da Northwood
+Gerente de Tradução da Northwood
+Gerente de Design de Jogo do SCP:SL
+Animador do SCP:SL
+Diretor de Relações Públicas da Northwood
+Ajudante Comunitário do SCP:SL
+Dublador do SCP:SL
+Investidor de Fundação do SCP:SL
+Diretor de Estúdio do SCP:SL
+Assistente de Diretor de Jogo do SCP:SL
+Supervisor de Suporte Técnico da Northwood
+Gerente de Suporte Técnico da Northwood
+Gerente de Administração de Sistema da Northwood
+Designer de Narrativa do SCP:SL
+Supervisor da Plataforma Publicitária do SCP:SL
+Técnico de Áudio Chefe do SCP:SL
+Coordenador de Tradução da Northwood
+Diretor de Segurança da Northwood
+Conselheiro de Segurança da Northwood
+Assistente de Diretor de Segurança da Northwood
+Assistente de Diretor de Relações Públicas
+Assistente de Diretor de Gestão da Comunidade
+Assistente de Diretor de Recursos Humanos
+Supervisor de Design de Jogo do SCP:SL
+Supervisor de Designer de Nível do SCP:SL
+Supervisor da Moderação Global do SCP:SL
+Supervisor de Administração de Sistema da Northwood
+Supervisor de Desenvolvimento Web da Northwood
+Gerente de Desenvolvimento Web da Northwood
+Supervisor de Conteúdo da Northwood
+Gerente de Conteúdo da Northwood
+Supervisor do Patreon da Northwood
+Gerente do Patreon da Northwood
+Supervisor de Redes Sociais da Northwood
+Gerente de Redes Sociais da Northwood
+Supervisor de Tradução da Northwood
+Supervisor da Steam da Northwood
+Gerente de Design de Nível do SCP:SL
+Gerente de Anti-Trapaça do SCP:SL
+Supervisor de Anti-Trapaça do SCP:SL
+Supervisor de Wiki da Northwood
+Chefe da Equipe de API do SCP:SL
+Mantedor da API do SCP:SL
