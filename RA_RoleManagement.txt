@@ -1,29 +1,29 @@
-None
+Nenhum
 <color=#EC2222>「SCP-173」</color>
-<color=#FF8E00>Class-D</color>
-「Spectator」
+<color=#FF8E00>Classe-D</color>
+「Espectador」
 <color=#EC2222>「SCP-106」</color>
-<color=#00D9FF>MTF Specialist</color>
+<color=#00D9FF>Especialista da FTM</color>
 <color=#EC2222>「SCP-049」</color>
-<color=#FFFF7C>Scientist</color>
+<color=#FFFF7C>Cientista</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#559100>Recon</color>
+<color=#559100>Recon.</color>
 <color=#EC2222>「SCP-096」</color>
 <color=#CA1111>「SCP-049-2」</color>
-<color=#0096FF>MTF Sergeant</color>
-<color=#003DCA>MTF Captain</color>
-<color=#70C3FF>MTF Private</color>
-<color=#ff00b0>「Admin」</color>
-<color=#5B6370>Guard</color>
+<color=#0096FF>Sargento da FTM</color>
+<color=#003DCA>Capitão da FTM</color>
+<color=#70C3FF>Cabo da FTM</color>
+<color=#ff00b0>「Administrador」</color>
+<color=#5B6370>Guarda</color>
 <color=#EC2222>「SCP-939」</color>
-Custom Role
-<color=#008F1C>Trooper</color>
+Personalizado
+<color=#008F1C>Patrulheiro</color>
 <color=#006826>Executor</color>
-<color=#0D7D35>Charger</color>
-「Overwatch」
-<color=#A020F0>「Filmmaker」</color>
+<color=#0D7D35>Líder</color>
+「Supervisor」
+<color=#A020F0>「Cineasta」</color>
 <color=#EC2222>「SCP-3114」</color>
-Destroyed
+Destruído
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-Σ」</color>
 <color=#ff0000>「1507-049」</color>
