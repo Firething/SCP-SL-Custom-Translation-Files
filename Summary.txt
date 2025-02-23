@@ -1,19 +1,19 @@
-<b>The round has ended!</b>
-<color=#EC2222>「SCPS WIN」</color>
-<size=85%><color=#0096FF>「FOUNDATION WINS」</color></size>
-<size=85%><color=#008F1C>「INSURGENCY WINS」</color></size>
-「STALEMATE」
-<color=#EC2222>The escaped subjects have overrun the facility. Emergency response has been scrambled.</color>
-<color=#0096FF>All threats to safety have been neutralized. Site-02 is secure once again.</color>
-<color=#008F1C>Foundation presence has been exterminated. Operatives standing by for further orders.</color>
-Site-02 is under certain control, but not without cost. The victor is undetermined.
-<color=#FF8E00>🏃 [summary_d_escaped] Class-D(s) have survived</color>
-<color=#FFFF7C>👓 [summary_s_escaped] Scientist(s) have survived</color>
-<color=#EC2222>Alpha Warhead - DETONATED. Confirmed Terminations: [summary_warhead_kills].</color>
-<color=#EC2222>Alpha Warhead</color> - No detonation occured. Systems - Operational.
-The breach took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-<color=#EC2222>🌀 [summary_scp_terminated] recontained SCP Subjects</color>
-Next round in [summary_next_round_countdown] seconds.
-<color=#EC2222>The SCPs killed [summary_scpfrags] beings.</color>
-<size=85%><color=#FF59CA>「FLAMINGOS WIN」</color></size>
-<color=#FF59CA>All other teams have been exterminated. Total flamingo victory has been achieved</color>
+<b>A partida acabou!</b>
+<color=#EC2222>「VITÓRIA DOS SCPS」</color>
+<size=85%><color=#0096FF>「VITÓRIA DA FUNDAÇÃO」</color></size>
+<size=85%><color=#008F1C>「VITÓRIA DA INSURGÊNCIA」</color></size>
+「EMPATE」
+<color=#EC2222>Os objetos fugitivos dominaram a instalação. A resposta de emergência foi acionada.</color>
+<color=#0096FF>Todas as ameaças à segurança foram neutralizadas. Sítio-02 está seguro novamente.</color>
+<color=#008F1C>A presença da Fundação foi exterminada. Agentes aguardando novas ordens.</color>
+Sítio-02 está sob certo controle, mas tudo tem seu preço. O vencedor é indeterminado.
+<color=#FF8E00>🏃 [summary_d_escaped] Classe-D(s) sobreviveram</color>
+<color=#FFFF7C>👓 [summary_s_escaped] Cientista(s) sobreviveram</color>
+<color=#EC2222>Ogiva Alfa - DETONADA. Terminações Confirmadas: [summary_warhead_kills].</color>
+<color=#EC2222>Ogiva Alfa</color> - Nenhuma detonação ocorreu. Sistemas - Operacionais.
+A brecha levou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
+<color=#EC2222>🌀 [summary_scp_terminated] objetos SCP recontidos</color>
+Próxima partida iniciando em [summary_next_round_countdown] segundos.
+<color=#EC2222>Os SCPs mataram [summary_scpfrags] seres.</color>
+<size=85%><color=#FF59CA>「VITÓRIA DOS FLAMINGOS」</color></size>
+<color=#FF59CA>Todos os outros times foram exterminados. A vitória total dos flamingos foi alcançada.</color>
