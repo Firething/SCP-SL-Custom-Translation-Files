@@ -17,4 +17,4 @@ Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
 
 # Adendo:
-## Tradução Incompleta.
+## Tradução Completa
