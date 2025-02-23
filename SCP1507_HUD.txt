@@ -1,5 +1,5 @@
-\uf56b - Universally Hostile:Humans have nowhere to run. SCP-1507 instances can detect their targets through the environment.
-\uf0c0 - The Swarm:SCP-1507 instances will regenerate their health for as long as they remain in a flock.
-Peck:Sink your plastic beak into a target, inflicting deep wounds. You can forcefully open locked doors by pecking them.
-\uf2ce - Vocalize:Let out a squawk, concussing nearby targets. The ability can be used to revive recently-deceased flamingos.
-Vocalize [key]
+\uf56b - Universalmente Hóstil:Humanos não tem para onde correr. Instâncias SCP-1507 podem detectar seus alvos através do ambiente.
+\uf0c0 - O Enxame:Instâncias SCP-1507 regenerarão suas barras de saúde enquanto permanecerem juntas.
+Bicada:Afunda seu bico de plástico em um alvo, infligindo feridas profundas. Você pode abrir forçadamente portas e outras coisas trancadas ao bicar elas.
+\uf2ce - Vocalizar:Solte um grasnido, machucando alvos próximos. A habilidade pode ser utilizada para reviver flamingos recém-mortos.
+Vocalizar [key]
