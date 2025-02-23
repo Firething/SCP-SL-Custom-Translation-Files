@@ -1,101 +1,101 @@
-JOIN
-CLOSE
-SHADOW RESOLUTION
-SETTINGS
-BASED ON <i>SCP: CONTAINMENT BREACH</i>
-BACK
-LANGUAGE
-ANTIALIASING
-Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
-JOIN GAME
-POST\nPROCESSING
-CREDITS
-QUIT GAME
-Fullscreen mode
-SCREEN SETTINGS
-COLOR CORRECTION
-Enter IP Address...
-SCREEN RESOLUTION
-PLAY
-PIXEL LIGHT COUNT
-SHADOW TYPE
-SHADOWS
-CREATE GAME
-Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
-Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
-V-SYNC
-CONNECT
-QUALITY SETTINGS
-Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
-MAIN MENU
-RENDER LIGHTS
-MOTION BLUR
-SHADOW DISTANCE
-DETAILS
+ENTRAR
+FECHAR
+RESOLUÇÃO DAS SOMBRAS
+OPÇÕES
+BASEADO EM <i>SCP: CONTAINMENT BREACH</i>
+VOLTAR
+IDIOMA
+ANTISSERRILHAMENTO
+Trocar detalhes:\nQUANTIDADE DE PIXELS DE LUZ - Número máximo de fontes de luz renderizadas em cada pixel.\nS. Vertical - Ativa a sincronização com a taxa de atualização do monitor.
+ENTRAR NO JOGO
+PÓS\nPROCESSAMENTO
+CRÉDITOS
+SAIR DO JOGO
+Modo Tela cheia
+CONFIGURAÇÕES DE TELA
+CORREÇÃO DE COR
+Digite o Endereço IP...
+RESOLUÇÃO
+JOGAR
+QUANTIDADE DE PIXELS DE LUZ
+TIPO DE SOMBRA
+SOMBRAS
+CRIAR JOGO
+Alterar configurações de pós-processamento. Essas alterações não afetam o desempenho. É recomendado deixar os valores no padrão.
+Modo de renderização de luzes:\nQuando desligado, a qualidade gráfica é reduzida. É recomendado desligá-lo caso tenha um computador fraco.
+SINCRONIZAÇÃO VERTICAL
+CONECTAR
+GRÁFICOS
+Alterar configuração de sombras. Quanto menos sombras, melhor o desempenho do jogo.
+MENU PRINCIPAL
+RENDERIZAR LUZES
+DESFOQUE DE MOVIMENTO
+DISTÂNCIA DA SOMBRA
+DETALHES
 3. SCP-914
-TUTORIALS
-WARNING
-Browse available servers
-Don't show it again
-How would you like to connect?
-SERVER BROWSER
+TUTORIAIS
+ATENÇÃO
+Pesquisar servidores disponíveis
+Não mostrar isso novamente
+Como você gostaria de conectar?
+LISTA DE SERVIDORES
 OKAY
-FIND MATCH
-2. Using weapons
-We use Discord as a forum. No installation needed.\n(click the logo to join)
-By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
-1. The basics
-The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
-4. (more tutorials later)
-DIRECT CONNECT
-TECH SUPPORT / FORUM
-SOUND VOLUME
-Enter the IP address of the specific server.
-DOWNLOADING DATA
-NO SERVERS AVAILABLE
-PRESS ESC TO CLOSE / CANCEL
-KEY BINDING
-MAX BLOOD AMOUNT
-FPS Limit
-FPS Limit does not work when vSync is enabled!
-Set Default
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
-AUDIO SETTINGS
-MASTER VOLUME
-MENU MUSIC
-VOICE CHAT
-SOUND EFFECTS
-GAMEPLAY OPTIONS
-FAST INTRO FADE
-Class intro text will fade out much more quickly.
-SCP-079 - TOGGLE VIEW MODE
-Press once to swap between camera modes.
-SCP-079 - POST-PROCESSING
-If disabled, camera effects will be heavily reduced.
-HEAD BOB
-Enables first-person camera bobbing during movement.
-TOGGLE SPRINT
-Sprinting toggles on and off, instead of being held down.
-SEPARATE ARTIFICIAL HP BAR
-Gives artificial HP its own health bar, instead of an overlay.
-Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
-RICH PRESENCE
-If enabled, your status will be displayed on Discord/Steam.
-DISPLAY EXACT HP VALUE
-Displays exact HP, instead of just the percentage.
-PUBLIC LOBBY
-If enabled, your steam friends can join you without permission.
-HIDE IP
-If enabled, any IP in client console is not displayed.
-TOGGLE SEARCH
-Item pickup will not require a held key; press again to cancel.
-Applies soft shadows to corners and tight areas to give models more depth.
-Gives the environment more depth at a high performance cost.
-Gives lighting more depth by applying a glow based on the light intensity.
-Toggle to show subtitles for cassie announcements.
-Flashes the taskbar when you spawn while the game is not in focus.
-Smoothes lines and removes visual distortions.
-Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
-Projected textures such as bullet holes or blood splatter.
-Toggle Dark Mode
-Toggle to change some bright elements to their dark-themed versions.
+PROCURAR PARTIDA
+2. Usando armas
+Usamos Discord como fórum. Instalação não requerida.\n(Clique na logotipo para entrar)
+Por padrão, o servidor será iniciado em rede local.\nSeus amigos precisarão do endereço IP para se conectar.\nSe você quiser configurar um servidor público, selecione o arquivo LocalAdmin.exe e siga as instruções.\nCaso tiver alguma pergunta, por favor, pergunte ao nosso suporte técnico (link no menu principal)
+1. O básico
+O jogo apresentado está em beta pública.\nTalvez experiencie problemas de conexão e outros bugs.\nO estado atual não representa a versão final.
+4. (mais tutoriais em breve)
+CONEXÃO DIRETA
+SUPORTE TÉCNICO / FÓRUM
+VOLUME
+Digite o endereço IP do server desejado.
+BAIXANDO DADOS
+SEM SERVIDORES DISPONÍVEIS
+APERTE ESC PARA FECHAR / CANCELAR
+CONTROLES
+QUANTIDADE DE SANGUE
+Limite de FPS
+Limite de FPS não funciona quando S. Vertical está ligada.
+Retornar ao padrão
+Usamos as discussões da Steam como fórum. (Clique na logotipo abaixo para abrir o fórum)
+CONFIGURAÇÃO DE AUDIO
+VOLUME PRINCIPAL
+MÚSICA DO MENU
+CHAT DE VOZ
+EFEITOS SONOROS
+OPÇÕES DE GAMEPLAY
+INTRO DESAPARECER RAPIDAMENTE
+O texto de introdução da classe desaparecerá muito mais rapidamente.
+SCP-079 - ATIVAR MODO ALTERNATIVO
+Pressione espaço uma vez para alternar entre os modos de câmera.
+SCP-079 - PÓS-PROCESSAMENTO
+Se desativado, os efeitos da câmera serão fortemente reduzidos.
+BALANÇO DA CABEÇA
+Ativa o balanço de câmera em primeira pessoa enquanto se movimenta.
+CORRER ALTERNADO
+Aperte apenas uma vez para correr, ao invés de manter pressionado.
+SEPARAR BARRA DE HP ARTIFICIAL
+É dado uma barra de vida artificial quando usado adrenalina, ao invés de se juntar à principal.
+Nossas traduções são de código aberto no GitHub!\nQuer ajudar? Clique aqui para acessar o repositório.
+PRESENÇA NA COMUNIDADE
+Se ativado, seu status será exibido no Discord/Steam.
+EXIBIR HP EXATO
+Exibe a quantidade de vida exata, em vez de apenas a porcentagem.
+LOBBY PUBLICO
+Se ativado, seus amigos do Steam podem se juntar a você sem permissão.
+ESCONDER IP
+Se ativado, qualquer IP no console não irá ser mostrado.
+PESQUISAR ALTERNADO
+Se ativado, para pegar itens não é necessário segurar a tecla; pressione a tecla novamente para cancelar.
+Aplica sombras suaves a cantos e áreas apertadas para dar mais profundidade aos modelos.
+Dá ao ambiente mais profundidade a um custo de alto desempenho.
+Dá mais profundidade à iluminação aplicando um brilho com base na intensidade da luz.
+Alterne para mostrar legendas para anúncios da Cassie.
+Pisca a barra de tarefas quando você nasce enquanto o jogo não está em foco.
+Suaviza linhas e remove distorções visuais.
+Sincroniza a taxa de quadros do jogo com a taxa de atualização do seu monitor para impedir o "screen tearing".
+Texturas projetadas, como buracos de bala ou respingos de sangue.
+Ativar Modo Escuro
+Ative para alterar alguns elementos claros para suas versões com um tema escuro.
