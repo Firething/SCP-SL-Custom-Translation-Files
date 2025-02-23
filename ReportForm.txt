@@ -1,7 +1,7 @@
-Report Player
-Target:\nPlayer ID:\nDescription:
-Cancel
-Report for breaking server rules
-Report for cheating or raiding
-REPORTING
-Please wait...
+Reportar Jogador
+Usuário:\nID do Jogador:\nDescrição:
+Cancelar
+Reportar por quebra de regras do servidor
+Reportar por trapaça ou invasão
+REPORTANDO
+Por favor, aguarde...
