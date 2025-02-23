@@ -51,7 +51,7 @@ $<color=red>\uf023</color> <color=#8080FF>CONFINAMENTO</color>$ agora disponíve
 <color=#8080FF>+[amount]</color> - Proteção de Equipe - \uf3ed
 <color=#8080FF>+[amount]</color> - Preveniu uso da - <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
 <color=red>\uf023 TRANCA DA PORTA ATIVA \uf023</color>
-<color=#ff9e00>☀ BLECAUTE DE ZONA</color> - desliga as luzes da dona por 60s - ([cost])
+<color=#ff9e00>☀ BLECAUTE DE ZONA</color> - desliga as luzes da zona por 60s - ([cost])
 $<color=#ff9e00>☀</color> <color=#8080FF>BLECAUTE DE ZONA</color>$ agora disponível - ao lado das designações de zona no $<color=#8080FF>Mapa da Instalação</color>$.
 <color=yellow>⚠</color> RECARGA DE BLECAUTE DE ZONA <color=yellow>⚠</color>
 <size=150%>🚨 JÁ ATIVO 🚨</size>\nBLECAUTE
