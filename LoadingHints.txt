@@ -87,4 +87,4 @@
 <color=#e8b923>「⭐」</color> - Você pode jogar itens (‘T’ por padrão). Isso pode ser usado para abrir portas fechadas por cartão à distância ou para quebrar vidros.
 <color=#e8b923>「⭐」</color> - Vestir coletes aumenta o número de itens e munição que você pode carregar.
 <size=125%><color=#e8b923>「⭐」</color> - 😻!</color>
-<size=125%><color=#a00000>「🔥」</color> - Firetoba esteve aqui~</color>
+<size=125%><color=#a00000>「🔥」</color> - Firecoisa esteve aqui~</color>
