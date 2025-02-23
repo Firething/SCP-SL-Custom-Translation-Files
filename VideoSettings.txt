@@ -1,48 +1,55 @@
-Very Low
-Low
-Medium
-High
-Very High
+Muito Baixo
+Baixo
+Médio
+Alto
+Muito Alto
 Ultra
-Enabled
-Disabled
-Shadows
-Shadow Resolution
-Facility Lights
-Resolution
-Aspect Ratio
-Display Mode
-Max Frame Rate
-Anti-aliasing
-V-Sync
-Decals
-Texture Quality
-🔅 Brightness 🔆
-Screen Settings
-Quality & Performance
-Ragdoll Freezing
-Ragdoll Freeze Time
-FPS Limiter
-Visual Effects
-Head Bobbing
-Explosion Screen Shake
-Flashbang Dark Mode
-All
-Other
-1/2 Refresh Rate
-1/3 Refresh Rate
-1/4 Refresh Rate
-Selected aspect ratio is not supported by your monitor
-Exclusive Fullscreen
-Borderless Window - Keep Visible
-Borderless Window - Hide When Unfocused
-Windowed
-SMAA Quality Preset
-Ambient Occlusion
-Bloom Quality
-Disables physics for ragdolls (dead bodies) after a specified time to reduce CPU usage.
-Aspect ratio of your current resolution is not supported!\nSome interface elements may not appear correct.
-Bullet Holes
-Blood Decals
-Target Display
-• Exclusive Fullscreen: The game has full control over the screen.\n• Borderless Window: Creates a full-screen effect by stretching the window to cover the screen. Different options control whether the game window should stay visible or automatically minimizes when it loses focus (for example, by user selecting another window).
+Ativado
+Desativado
+Sombras
+Resolução das Sombras
+Luzes da Instalação
+Resolução
+Proporção da Tela
+Modo de Exibição
+Taxa Máxima de FPS
+Antisserrilhamento
+Sincronização Vertical
+Manchas
+Qualidade das Texturas
+🔆 Brilho 🔆
+Configs. da Tela
+Qualidade & Desempenho
+Remoção dos Corpos
+Intervalo p/ Remoção dos Corpos
+Limitador de FPS
+Efeitos Visuais
+Balanço da Cabeça
+Tremida da Tela após Explosão
+Modo Escuro da Granad. Luz
+Todos
+Outros
+Taxa de Atualização por 1/2
+Taxa de Atualização por 1/3
+Taxa de Atualização por 1/4
+A proporção selecionada não é compatível com seu monitor.
+Tela Cheia Exclusiva
+Janela Sem Bordas - Sempre Visível
+Janela Sem Bordas - Ocultar ao Desfocar
+Janela
+Predef. de Qualidade SMAA
+Oclusão de Ambiente
+Qualidade do Bloom
+Desativa a física para 'ragdolls' (corpos mortos) depois de um tempo específico para reduzir o uso da CPU.
+A proporção da sua resolução atual não é suportada!\nAlguns elementos da interface podem não aparecer corretamente.
+Buracos de Bala
+Manchas de Sangue
+Monitor de Exibição
+• Tela Cheia Exclusiva: O jogo tem controle total sobre a tela.\n• Janela sem Bordas: Cria um efeito de tela cheia esticando a janela para cobrir a tela. Diferentes opções controlam se a janela do jogo deve permanecer visível ou minimizada automaticamente ao desfocar (por exemplo, quando o usuário seleciona outra janela).
+API Gráfica
+Altera a biblioteca de gráficos 3D utilizada pelo jogo.\nEsta opção é experimental e, portanto, recomendamos que a mantenha em Auto — a menos que esteja tentando resolver um problema de renderização específico ou de desempenho com um hardware pouco suportado.
+As mudanças serão efetuadas após um reinício do jogo.
+Indisponível pois uma API Gráfica foi forçada através dos parâmetros de inicialização.
+Limite de Manchas de Sangue
+Limite de Buracos de Bala
+Mostrar Agulhas
