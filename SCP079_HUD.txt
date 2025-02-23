@@ -1,91 +1,91 @@
-🔍 ZOOM [amount]x
-<color=#8080FF>💳 ACCESS TIER [tier]</color>
+🔍 AMPLIADO EM [amount]x
+<color=#8080FF>💳 NÍVEL DE ACESSO [tier]</color>
 ⭐ EXP [current] / [next]
 <color=#8080FF>-</color>
-<color=red>\uf4e2 NO CAMERA</color>
-<color=#8080FF>📡</color> GO TO: <color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
-<size=150%>❌ ERROR ❌</size>\nNOT ENOUGH POWER
-ETA: [time] seconds
-⛔ ACCESS DENIED - HIGHER TIER REQUIRED ⛔
-<size=150%>❌ ERROR ❌</size>\nINVALID CAMERA
-<size=150%>⛔ ERROR ⛔</size>\nDOOR ACCESS DENIED
-<color=green>\uf2f5</color> OPEN DOOR (<color=#8080FF>[cost]</color>)
-<color=#07A2FF>\U0000003Crotate=180\U0000003E\uf2f6\U0000003Crotate=0\U0000003E</color> CLOSE DOOR (<color=#8080FF>[cost]</color>)
-<color=red>\uf023</color> LOCK DOOR (<color=#8080FF>[cost]</color>)
-<color=green>\uf09c</color> UNLOCK DOOR 
-<color=yellow>⚠</color> DOOR LOCK COOLDOWN <color=yellow>⚠</color>
-<color=#8080FF>⚡ AUXILIARY POWER</color>
-<color=yellow>⚠</color><color=red> ACTIVE GENERATOR </color><color=yellow>⚠</color>
-<color=green>\uf09c</color> RELEASE DOOR LOCK
-\uf0e8 - OPEN FACILITY MAP
-CLOSE 
-<color=#f5eb9c>LIGHT CONTAINMENT ZONE</color>
-<color=#ca2642>HEAVY CONTAINMENT ZONE</color>
-<color=#bcfab2>ENTRANCE ZONE</color>
-<color=#9cc7f5>SURFACE ZONE</color>
-<color=#FFD700>💡</color> BLACKOUT (<color=#8080FF>[cost]</color>)
-<size=150%>❌ ERROR ❌</size>\nBLACKOUT UNAVAILABLE
-<size=150%>🚨 LIMIT REACHED 🚨</size>\nBLACKOUT
-<size=150%>❌ ERROR ❌</size>\nBLACKOUT COOLDONW
-<color=orange>\uf0dc</color> SEND ELEVATOR (<color=#8080FF>[cost]</color>)
-<color=red>\uf023</color> LOCKDOWN (<color=#8080FF>[cost]</color>)
-<size=150%>❌ ERROR ❌</size>\nLOCKDOWN COOLDONW
-<size=150%>❌ ERROR ❌</size>\nNO DOORS DETECTED
-<color=#8080FF>🚨</color> PING LOCATION (<color=#8080FF>[cost]</color>)
-<size=150%>🚨 LIMIT REACHED 🚨</size>\nPING RATE
-<size=150%>❌ ERROR ❌</size>\nCAMERA SWITCH FAILED
-<size=75%><color=red>❌ CONNECTION LOST... 🔌</color></size>
-RECONNECTING TO SITE-02 SYSTEMS\nETA: [time]s
-<color=yellow>⚡</color> FIRE TESLA GATE (<color=#8080FF>[cost]</color>)
-<color=yellow>⚠</color> TESLA GATE ACTIVATION COOLDOWN <color=yellow>⚠</color>
-$<color=#8080FF>💳 Access Tier [tier]</color>$ - UNLOCKED
-$<color=#8080FF>⚡ AUXILIARY POWER</color>$ limit increased to $<color=#8080FF>[limit]</color>$.
-$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ now available - press $<color=#8080FF>[key]</color>$ to disable room lights for <color=#8080FF>15s</color>.
-$<color=#FFD700>💡</color> <color=#8080FF>BLACKOUT</color>$ capacity increased to $<color=#8080FF>[number]</color>$ rooms.
-$<color=red>\uf023</color> <color=#8080FF>LOCKDOWN</color>$ now available - press $<color=#8080FF>[key]</color>$ to temporarily lock down all doors in a room for <color=#8080FF>10s</color>.
-<color=#8080FF>+[amount]</color> - <color=#ff00b0>Admin Command</color>
-<color=#8080FF>+[amount]</color> - [role] - Termination Assist - \uf54c
-<color=#8080FF>+[amount]</color> - [role] <color=red>- Direct Termination - \uf714</color>
-<color=#8080FF>+[amount]</color> - [role] - Witnessed Termination - \uf06e
-<color=#8080FF>+[amount]</color> - Pursuit Assist- 🚪
-<color=#8080FF>+[amount]</color> - Team Protection - \uf3ed
-<color=#8080FF>+[amount]</color> - Prevented use - <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
-<color=red>\uf023 DOOR LOCK ACTIVE \uf023</color>
-<color=#ff9e00>☀ ZONE-WIDE BLACKOUT</color> - disable zone lights for 60s - ([cost])
-$<color=#ff9e00>☀</color> <color=#8080FF>ZONE-WIDE BLACKOUT</color>$ now available - next to zone labels on the $<color=#8080FF>Facility Map</color>$.
-<color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
-<size=150%>🚨 ALREADY ACTIVE 🚨</size>\nBLACKOUT
-<size=150%>❌ ERROR ❌</size>\nBLACKOUT UNAVAILABLE
-🔬 TOTAL LIFEFORMS
-💀 HOSTILES
-<color=#EC2222>🌀 SCP SUBJECTS</color>
-<color=#f5eb9c>📋 CIVILIAN(S)</color>
-<color=#9cc7f5>\uf3ed MILITARY</color>
-<color=#8080FF>🔊</color> USE SPEAKER
-<size=150%>⛔ ERROR ⛔</size>\nELEVATOR ACCESS DENIED
-SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
-<b>\uf6ff - Virtually Indestructible</b>:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-<b>\uf1eb - Unlimited Access</b>:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
-<b>\uf538 - Deep Learning</b>:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-<b>\uf06e - Awake. Never Sleep.</b>:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. You are also able to access facility surveillance map.
-$<color=#ffa500>\uf06e </color><color=#8080FF>BREACH SCANNER</color>$ now available — select team(s)/zone(s) in $<color=#8080FF>Facility Map</color>$ to periodically scan for remaining survivors.
-<size=150%><color=red>AP_REG SUSPENDED ⚠</color></size>
-<size=150%><color=red>AP_REG REDUCED ([precentage]) ⚠</color></size>
-<size=125%>DOOR_LCK - ACTIVE \uf023</size>
-<size=125%><color=#8080FF>SPEAKER - ACTIVE 🔊</color></size>
-<size=125%>LCKD_PROT - ACTIVE - \uf023</size>
-<color=#ffa500>\uf06e BREACH SCANNER</color>
-RETURN TO MAP
-<color=#ffa500>\uf06e BREACH SCANNER</color> - [cnt] zone(s)
-SELECTED ZONES: [cnt]
-<color=red>SELECT ZONES TO SCAN</color>
-「<color=red>❌</color>」 - <color=red>SCAN FAIL</color> - No stationary targets detected
-Retrying in <color=#8080FF>[time]</color> seconds...
-「<color=green>✔️</color>」 - <color=green>SCAN SUCCESSFUL</color> - $<b>[role]</b>$ detected - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
-<color=#8080FF>SCAN IN: [time]s</color>
-<color=#8080FF>Scanning...</color>
-<size=130%><color=red><b>SYSTEM: OFFLINE</b></color></size>
-<color=#8080FF>SELECT TEAMS TO DETECT</color>
-<b>BIG BROTHER IS WATCHING</b>\n\nBreach Scanner detects remaining targets that stay within the same area for an extended period of time.
-<color=yellow>⚠</color><color=red>Select at least one filter to continue!</color><color=yellow>⚠</color>
-$<color=red>\uf023</color> <color=#8080FF>DOOR LOCK</color>$ now available - press $<color=#8080FF>RMB</color>$ to temporarily lock the doors.
+<color=red>\uf4e2 SEM CÂMERA</color>
+<color=#8080FF>📡</color> IR PARA: <color=#8080FF>[camera]</color> (<color=#8080FF>[cost]</color>)
+<size=150%>❌ ERRO ❌</size>\nENERGIA INSUFICIENTE
+ETA: [time] segundos
+⛔ ACESSO NEGADO - NÍVEL MAIOR REQUERIDO ⛔
+<size=150%>❌ ERRO ❌</size>\nCÂMERA INVÁLIDA
+<size=150%>⛔ ERRO ⛔</size>\nACESSO À PORTA NEGADO
+<color=green>\uf2f5</color> ABRIR PORTA (<color=#8080FF>[cost]</color>)
+<color=#07A2FF>\U0000003Crotate=180\U0000003E\uf2f6\U0000003Crotate=0\U0000003E</color> FECHAR PORTA (<color=#8080FF>[cost]</color>)
+<color=red>\uf023</color> TRANCAR PORTA (<color=#8080FF>[cost]</color>)
+<color=green>\uf09c</color> DESTRANCAR PORTA
+<color=yellow>⚠</color> TRANCA-PORTA EM RECARGA <color=yellow>⚠</color>
+<color=#8080FF>⚡ ENERGIA AUXILIAR</color>
+<color=yellow>⚠</color><color=red> GERADOR ATIVO </color><color=yellow>⚠</color>
+<color=green>\uf09c</color> LIBERAR TODAS AS PORTAS
+\uf0e8 - ABRIR MAPA DA INSTALAÇÃO
+FECHAR
+<color=#f5eb9c>ZONA DE CONTENÇÃO LEVE</color>
+<color=#ca2642>ZONA DE CONTENÇÃO PESADA</color>
+<color=#bcfab2>ZONA DE ENTRADA</color>
+<color=#9cc7f5>ZONA DE SUPERFÍCIE</color>
+<color=#FFD700>💡</color> BLECAUTE (<color=#8080FF>[cost]</color>)
+<size=150%>❌ ERRO ❌</size>\nBLECAUTE INDISPONÍVEL
+<size=150%>🚨 LIMITE ALCANÇADO 🚨</size>\nBLECAUTE
+<size=150%>❌ ERRO ❌</size>\nRECARGA DE BLECAUTE
+<color=orange>\uf0dc</color> ENVIAR ELEVADOR (<color=#8080FF>[cost]</color>)
+<color=red>\uf023</color> CONFINAMENTO (<color=#8080FF>[cost]</color>)
+<size=150%>❌ ERRO ❌</size>\nRECARGA DE CONFINAMENTO
+<size=150%>❌ ERRO ❌</size>\nNENHUMA PORTA DETECTADA
+<color=#8080FF>🚨</color> INDICAR LOCALIZAÇÃO (<color=#8080FF>[cost]</color>)
+<size=150%>🚨 LIMITE ALCANÇADO 🚨</size>\nINDICAÇÃO
+<size=150%>❌ ERRO ❌</size>\nFALHA NA TROCA DE CÂMERA
+<size=75%><color=red>❌ CONEXÃO PERDIDA... 🔌</color></size>
+RECONECTANDO-SE AOS SISTEMAS DO SÍTIO-02\nETA: [time]s
+<color=yellow>⚡</color> DISPARAR PORTÃO DE TESLA (<color=#8080FF>[cost]</color>)
+<color=yellow>⚠</color> RECARGA DE ATIVAÇÃO DO PORTÃO DE TESLA <color=yellow>⚠</color>
+$<color=#8080FF>💳 Nível de Acesso [tier]</color>$ - DESBLOQUEADO
+$<color=#8080FF> Limite de⚡ ENERGIA AUXILIAR</color>$ aumentado para $<color=#8080FF>[limit]</color>$.
+$<color=#FFD700>💡</color> <color=#8080FF>BLECAUTE</color>$ agora disponível - pressione $<color=#8080FF>[key]</color>$ para desativar as luzes da sala por <color=#8080FF>15s</color>.
+$<color=#FFD700>💡</color> Capacidade do <color=#8080FF>BLECAUTE</color>$ aumentada para $<color=#8080FF>[number]</color>$ salas.
+$<color=red>\uf023</color> <color=#8080FF>CONFINAMENTO</color>$ agora disponível - pressione $<color=#8080FF>[key]</color>$ para temporariamente trancar todas as portas em uma sala por <color=#8080FF>10s</color>.
+<color=#8080FF>+[amount]</color> - <color=#ff00b0>Comando de Admin.</color>
+<color=#8080FF>+[amount]</color> - [role] - Assistência de Terminação - \uf54c
+<color=#8080FF>+[amount]</color> - [role] <color=red>- Terminação Direta - \uf714</color>
+<color=#8080FF>+[amount]</color> - [role] - Terminação Testemunhada - \uf06e
+<color=#8080FF>+[amount]</color> - Assistência de Perseguição- 🚪
+<color=#8080FF>+[amount]</color> - Proteção de Equipe - \uf3ed
+<color=#8080FF>+[amount]</color> - Preveniu uso da - <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
+<color=red>\uf023 TRANCA DA PORTA ATIVA \uf023</color>
+<color=#ff9e00>☀ BLECAUTE DE ZONA</color> - desliga as luzes da dona por 60s - ([cost])
+$<color=#ff9e00>☀</color> <color=#8080FF>BLECAUTE DE ZONA</color>$ agora disponível - ao lado das designações de zona no $<color=#8080FF>Mapa da Instalação</color>$.
+<color=yellow>⚠</color> RECARGA DE BLECAUTE DE ZONA <color=yellow>⚠</color>
+<size=150%>🚨 JÁ ATIVO 🚨</size>\nBLECAUTE
+<size=150%>❌ ERRO ❌</size>\nBLECAUTE INDISPONÍVEL
+🔬 FORMAS DE VIDA TOTAIS
+💀 HOSTIS
+<color=#EC2222>🌀 OBJETOS SCP</color>
+<color=#f5eb9c>📋 CIVIL</color>
+<color=#9cc7f5>\uf3ed MILITAR</color>
+<color=#8080FF>🔊</color> USAR ALTO-FALANTE
+<size=150%>⛔ ERRO ⛔</size>\nACESSO AO ELEVADOR NEGADO
+SCP-079 não possui capacidade de combate direto ou locomoção. Em vez disso, você vê o mundo através de câmeras de segurança encontradas em todos os lugares. Todas as habilidades disponíveis estão listadas no canto superior direito de sua interface.
+<b>\uf6ff - Virtualmente Indestrutível</b>:Há três geradores distribuídos na Zona de Contenção Pesada. Caso todos sejam ativados, você poderá ser recontido na sua câmara. Geradores têm uma sequência de contagem regressiva que pode ser interrompida pressionando o botão de 'CANCELAR' em cada gerador.
+<b>\uf1eb - Acesso Ilimitado</b>:Você pode manipular inúmeros sistemas na instalação para auxiliar seus companheiros SCPs. O canto superior direito de sua tela mostra quais habilidades estão disponíveis. Estas habilidades custam energia auxiliar (EA) para serem usadas, se regenerando com o tempo.
+<b>\uf538 - Aprendizagem Profunda</b>:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência (EA) para alcançar melhores níveis de acesso. Cada novo nível fornece mais EA e novas habilidades são concedidas.
+<b>\uf06e - Vigilância</b>:Estar em todos lugares e em nenhum lugar lhe garante uma perspectiva única. Você pode indicar locais, pessoas e objetos de interesse, permitindo que você ajude no massacre. Você também pode acessar o mapa de vigilância da instalação.
+$<color=#ffa500>\uf06e </color><color=#8080FF>SENSOR DE BRECHA</color>$ agora disponível — selecione classe(s)/zona(s) no $<color=#8080FF>Mapa da Instalação</color>$ para verificar periodicamente por sobreviventes restantes.
+<size=150%><color=red>REGEN. DE ENERGIA SUSPENSA ⚠</color></size>
+<size=150%><color=red>REGEN. DE ENERGIA REDUZIDA EM ([precentage]) ⚠</color></size>
+<size=125%>TRANCA DE PORTA - ATIVA \uf023</size>
+<size=125%><color=#8080FF>ALTO-FALANTE - ATIVO 🔊</color></size>
+<size=125%>CONFINAMENTO - ATIVO - \uf023</size>
+<color=#ffa500>\uf06e SENSOR DE BRECHA</color>
+RETORNAR AO MAPA
+<color=#ffa500>\uf06e SENSOR DE BRECHA</color> - [cnt] zona(s)
+ZONAS SELECIONADAS: [cnt]
+<color=red>SELECIONE ZONAS PARA ESCANEAR</color>
+「<color=red>❌</color>」 - <color=red>FALHA EM ESCANEAR</color> - Nenhum alvo imóvel detectado
+Tentando novamente em <color=#8080FF>[time]</color> segundos...
+「<color=green>✔️</color>」 - <color=green>ESCANEAMENTO BEM-SUCDEDIDO</color> - $<b>[role]</b>$ detectado - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
+<color=#8080FF>PRÓXIMA VERIFICAÇÃO: [time]s</color>
+<color=#8080FF>Escaneando...</color>
+<size=130%><color=red><b>SISTEMA: OFF-LINE</b></color></size>
+<color=#8080FF>SELECIONE TIMES PARA DETECTAR</color>
+<b>O GRANDE IRMÃO TÁ TE OBSERVANDO!</b>\n\nO Sensor de Brecha detecta alvos restantes que permanecem em uma mesma área por um longo período de tempo.
+<color=yellow>⚠</color><color=red>Selecione no mínimo um filtro para continuar!</color><color=yellow>⚠</color>
+$<color=red>\uf023</color> <color=#8080FF>TRANCA-PORTA</color>$ agora disponível - pressione $<color=#8080FF>RMB</color>$ em uma porta específica para trancá-la temporariamente.
