@@ -1,31 +1,31 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>MTF Unit Epsilon-11</color> <b>|</b> <color=#003DCA>Designation: [designation]</color> <b>|</b> 
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade da FTM Epsilon-11</color> <b>|</b> <color=#003DCA>Designação: [designation]</color> <b>|</b> 
 <color=#EC2222>[count] SCPs</color>.
 <color=#EC2222>1 SCP</color>.
-<color=#EC2222>exercise caution</color>.
-terminated <b>|</b> Termination cause unspecified.
-terminated by: <color=#EC2222>SCP-[scp]</color>.
-terminated by: <color=#f5650a>Automatic Security System</color>.
-terminated by: <color=#EC2222>Alpha Warhead</color>.
-contained by: <color=#FFFF7C>Scientist</color>.
-contained by: <color=#FF8E00>Class-D Personnel</color>.
-contained by: <color=#008F1C>Chaos Insurgency</color>.
+<color=#EC2222>Prossigam com cautela</color>.
+terminado <b>|</b> Causa da terminação não especificada.
+terminado por: <color=#EC2222>SCP-[scp]</color>.
+terminado por: <color=#f5650a>Sistema Automático de Segurança</color>.
+terminado por: <color=#EC2222>Ogiva Alfa</color>.
+contido por: <color=#FFFF7C>Cientista</color>.
+contido por: <color=#FF8E00>Funcionário Classe-D</color>.
+contido pela: <color=#008F1C>Insurgência do Caos</color>.
 <b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color>
-contained <b>|</b> Containment unit unknown.
-contained <b>|</b> Containment Unit: <color=#0096FF>[designation]</color>.
-lost in decontamination sequence.
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> generators activated.
-<split>All generators have been successfully engaged.
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Overcharge in 3... 2... 1...</color>
-<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Facility is back in operational mode.</color>
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>15 minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>[time] minutes</color>.
-「<color=#f6b140>⚠️</color>」 - <color=#EC2222>Light Containment Zone</color> decontamination in <color=#EC2222>1 minute</color>.
-<color=#f6b140>「⚠️」</color><color=#EC2222>- Light Containment Zone</color> decontamination in <color=#EC2222>30 seconds</color>.
-<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Light Containment Zone</color> is locked down and ready for decontamination.
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - ALPHA WARHEAD SEQUENCE ENGAGED <b>|</b> DETONATION IN [time] SECONDS</color>
-<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONATION CANCELLED <b>|</b> RESTARTING SYSTEMS...</color>
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONATION RESUMED <b>|</b> [time] SECONDS</color>
-terminated by: <color=blue>Marshmallow Man</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#70C3FF>Nine-Tailed Fox</color> Backup Unit <b>|</b> <color=#0096FF>Designation: [designation]</color> <b>|</b>
-<b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Security Alert</color> <b>|</b> <color=#066328>Chaos Insurgency</color> activity detected.
-<b>「<color=#58a4ef>\uf06a</color>」</b> - Attention <color=#5B6370>security personnel</color> <b>|</b> <color=#008F1C>Chaos Insurgency</color> spotted at Gate A.
+contido <b>|</b> Unidade de contenção desconhecida.
+contido <b>|</b> Unidade de Contenção: <color=#0096FF>[designation]</color>.
+perdido na sequência de descontaminação.
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> geradores ativados.
+<split>Todos os geradores foram ativados com sucesso.
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Sobrecarga em 3... 2... 1...</color>
+<b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>A instalação voltou ao modo operacional.</color>
+「<color=#f6b140>⚠️</color>」 - Descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>15 minutos</color>.
+「<color=#f6b140>⚠️</color>」 - Descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>[time] minutos</color>.
+「<color=#f6b140>⚠️</color>」 - Descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>1 minuto</color>.
+<color=#f6b140>「⚠️」</color><color=#EC2222>- Descontaminação da Zona de Contenção Leve</color> em <color=#EC2222>30 segundos</color>.
+<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Zona de Contenção Leve</color> está bloqueada e pronta para descontaminação.
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA DA OGIVA ALFA ATIVADA <b>|</b> DETONAÇÃO EM [time] SEGUNDOS</color>
+<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONAÇÃO CANCELADA <b>|</b> REINICIANDO SISTEMAS...</color>
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONAÇÃO RETOMADA <b>|</b> [time] SEGUNDOS</color>
+terminado por: <color=blue>Homem Marshmallow</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço da <color=#70C3FF>Nine-Tailed Fox</color> <b>|</b> <color=#0096FF>Designação: [designation]</color> <b>|</b>
+<b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Alerta de Segurança</color> <b>|</b> Atividade da <color=#066328>Insurgência do Caos</color> detectada.
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Atenção, <color=#5B6370>funcionários da segurança.</color> <b>|</b> <color=#008F1C>Insurgência do Caos</color> avistada no Portão A.
