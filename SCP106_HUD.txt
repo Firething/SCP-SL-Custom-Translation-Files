@@ -1,8 +1,8 @@
-ATTACK COOLDOWN
-Unavailable on Surface.
-Unavailable during elevator travel.
-An unstoppable force capable of easily bypassing any door in the facility.
-<b>\uf714 - Capture</b>:Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.
-<b>\uf21d - Stalk</b>:Submerges you into the floor. Move around quickly and invisibly, regenerate, and prepare to strike your prey. Uses Vigor, which regenerates slowly while Stalk is inactive.
-<b>\uf279 - Hunter’s Atlas</b>:Quickly move to a nearby room, at a great Vigor cost. Such movement is instinct to you, having prowled through the Site's corridors for as long as you have.
-<b>\uf728 - Blissful Agony</b>:While Stalking, you can only see injured humans. The greater their agony, the greater the distance you can spot them from. Escapees of the pocket dimension are traumatized, leaving them visible from anywhere.
+RECARGA DE ATAQUE
+Indisponível na Superfície
+Indisponível durante o deslocamento de elevador.
+Uma força imparável capaz de burlar facilmente qualquer porta da instalação.
+<b>\uf714 - Captura</b>:Apanha um humano à curta distância, aprisionando-o em sua dimensão portátil — uma prisão mortal ditada pelas suas regras. O prazer de capturar novas presas reabastece o Vigor.
+<b>\uf21d - Perseguição</b>:Submerge você no chão. Mova-se de forma rápida e invisível, regenere-se e prepare-se para atacar sua presa. Usa Vigor, que regenera lentamente quando a Perseguição está inativa.
+<b>\uf279 - Atlas do Caçador</b>:Mova-se rapidamente para uma sala próxima a um grande custo de Vigor. Tal movimento é instintivo para você por ter perambulando pelos corredores do Sítio por tanto tempo.
+<b>\uf728 - Bendita Agonia</b>:Ao Perseguir, você só pode ver humanos feridos. Quanto mais agoniados por ferimentos, maior será a distância de onde pode localizá-los. Fugitivos da dimensão portátil são traumatizados, deixando-os visíveis de qualquer lugar.
