@@ -1,16 +1,16 @@
-You are now disguised as a <b>[role_name]</b>.
-Unable to attack while disguised. Hold <b>[key]</b> to remove your current disguise.
-Items held as <color=red>SCP-3114</color> cannot be used.
-Press <b>[key]</b> to communicate with humans while disguised.
-This corpse has already been used for a disguise.
-You are already disguised. Hold <b>[key]</b> to remove your current disguise.
-Only human corpses can be used as a disguise.
-💀 This pile of bones are remains of <color=#ff80bc><b>[user]</b>'s</color> 💀
-You can use this corpse to disguise as a <b>[role]</b>.
-<b>Disguise</b>
-Strangulation Cooldown
-<b>\uf54c - Skeletons In Your Closet</b>:Your name and identity are hidden. You are but a blank canvas and the world is your muse. While disguised as a human, your basic strength allows for you to hold onto certain objects — but your lack of noticeable muscle prevents you from effectively using items.
-<b>\uf5d7 - Catch These Hands</b>:Unleash a flurry of light attacks that slowly scrape health from whomever you hit. These microscopic layers of allegedly calcium-rich skin somehow give you dexterity and strengthen your resolve, restoring a small amount of Hume Shield on each hit.
-<b>\uf714 - Strangulation</b>:Grab them by the neck and choke the life out of them. Look them in the eyes as they draw their last breaths. Their lives are but candles to be blown out, taking all but a mere few seconds. This attack can be interrupted.
-<b>\uf497 - Under Their Skin</b>:Steal yourself a nice, warm jacket (their skin) by interacting with their corpse. Temporarily embrace the warmth and wear their fleshy ‘meat suit’, mimicking the ability to hold certain items. Hold [key] to remove it abruptly!
-Press and hold <b>[key]</b> for longer to remove your current disguise.
+Você agora está disfarçado como <b>[role_name]</b>.
+Incapaz de atacar enquanto disfarçado. Segure <b>[key]</b> para remover o seu disfarce atual.
+Itens segurados como <color=red>SCP-3114</color> não podem ser usados.
+Pressione <b>[key]</b> para se comunicar com humanos enquanto disfarçado.
+Este corpo já foi usado como disfarce.
+Você já está disfarçado. Segure <b>[key]</b> para remover seu disfarce atual.
+Apenas corpos humanos podem ser usados como um disfarce.
+💀 Esta pilha irreconhecível de ossos são os restos de <color=#ff80bc><b>[user]</b>'s</color> 💀
+Você pode usar este corpo para se disfarçar como <b>[role]</b>.
+<b>Disfarçar</b>
+Recarga de Sufocação
+<b>\uf54c - Esqueletos No Seu Armário</b>:Seu nome e identidade estão escondidos. Você é apenas uma tela em branco e o mundo é sua musa. Enquanto disfarçado como um humano, sua força básica permite que você mantenha certos objetos — mas a sua falta de músculos notáveis previne você de usar itens efetivamente.
+<b>\uf5d7 - Pega Essas Mãos</b>:Solte um turbilhão de ataques leves que lentamente diminuem a vida de qualquer um que tenha atingido. Estas camadas microscópicas de pele supostamente rica em cálcio de alguma forma te fornecem destreza e fortalecem sua determinação, restaurando uma pequena quantidade de Escudo de Hume a cada golpe.
+<b>\uf714 - Sufocação</b>:Agarre-os pelo pescoço e asfixie a vida para fora deles. Olhe em seus olhos quando eles derem seus últimos suspiros. Suas vidas não passam de velas a serem apagadas, levando apenas alguns segundos. Este ataque pode ser interrompido.
+<b>\uf497 - Sob Suas Peles</b>:Roube para si mesmo uma agradável e quente jaqueta (suas peles) ao interagir com o corpo deles. Envolva-se temporariamente no calor e vista-se com seus suculentos ‘trajes de carne’, imitando a habilidade de segurar certos itens. Pressione [key] para remover abruptamente!
+Pressione e segure <b>[key]</b> por mais tempo para remover seu disfarce atual.
