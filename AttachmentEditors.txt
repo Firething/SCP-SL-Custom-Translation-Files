@@ -5,11 +5,11 @@ Predef. 📝#[index]
 Padrão
 📝 PREDEFINIÇÕES 📝
 <size=250><color=red>\n\uf023</color></size>
-<size=150%><color=#0096FF>SÍTIO-02</color> PONTO PARA PERSONALIZAÇÃO DE ARMAS</size>\nTOQUE NA TELA PARA ATIVAR A ESTAÇÃO.
+<size=150%>PONTO PARA PERSONALIZAÇÃO DE ARMAS DO <color=#0096FF>SÍTIO-02</color></size>\nTOQUE NA TELA PARA ATIVAR A ESTAÇÃO.
 <size=250><color=#00FFFF>\n🔘</color></size>
 <size=150%>CARREGANDO BANCO DE DADOS DE ARMA\nPOR FAVOR, AGUARDE...</size>
 <size=250><color=#00b300>\n\uf09c</color></size>
-<size=150%><color=#0096FF>SÍTIO-02</color> PONTO PARA PERSONALIZAÇÃO DE ARMAS</size>\nEQUIPE SUA ARMA PARA PROCEDER
+<size=150%>PONTO PARA PERSONALIZAÇÃO DE ARMAS DO <color=#0096FF>SÍTIO-02</color></size>\nEQUIPE SUA ARMA PARA PROSSEGUIR
 <size=250><color=#00FFFF>\n🔘</color></size>
 <size=150%>DESLIGANDO...</size>
 MOSTRAR RESUMO
