@@ -1,28 +1,28 @@
-MUTED BY ADMIN
-GLOBALLY MUTED
-UNAUTHENTICATED
-ADJUST PRIVACY SETTINGS
-Your microphone is disabled due to your privacy settings.
-Voice Chat Privacy Settings
-This game uses voice chat. Using the push-to-talk keys (default "Q" and "V") will capture your microphone input and transmit it to other users connected to the server.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the server.
-Reject all (disable microphone capture)
-Personalize settings
-Accept all
-Accept
-Deny
-Microphone Capture
-Allow the game to capture your microphone and transmit it to users when push-to-talk keys are held. A microphone icon will be displayed at the bottom of the screen, indicating active transmission. The game will never transmit, or use your microphone without the indicator being visible.
-Short Recordings
-Allow game mechanics to use short recordings of your voice. This includes SCP-939's "With Many Voices" ability, which can record and play back short voice samples of killed players. All recordings are discarded the moment you leave the server, or once the round restarts.
-Apply settings
-Return
-Press "[key]" and navigate to "Settings" to adjust.
-<size=135%><b>👥</b> Mute alive players -</size>
-<size=135%><b>\uf06e</b> Mute spectators -</size>
-<size=135%><b>🎮</b> Mute pre-game lobby -</size>
-Pre-game Lobby Chat
-Round Summary Global Chat
-Spectator Chat
-Alive Players' Chat while Spectating
-Muted
-Unmuted
+SILENCIADO POR ADMINISTRADOR
+SILENCIADO GLOBALMENTE
+NÃO AUTENTICADO
+AJUSTAR OPÇÕES DE PRIVACIDADE
+Seu microfone está desativado devido às suas opções de privacidade.
+Configs. de Privacidade do Bate-Papo por Voz
+Este jogo usa bate-papo por voz. Usar as teclas de pressionar-para-falar ("Q" e "V" por padrão) capturará sua entrada de microfone e transmitirá para outros jogadores conectados ao servidor.\nCertas mecânicas podem armazenar temporariamente amostras curtas de suas transmissões, que serão apagadas automaticamente após a desconexão do servidor.
+Rejeitar todas (desativa a captura de microfone)
+Personalizar Opções
+Aceitar todas
+Aceitar
+Negar
+Captura de Microfone
+Permite que o jogo capture o áudio do seu microfone e o transmita aos outros quando as teclas "pressionar-para-falar" forem pressionadas. Um ícone de microfone será exibido na parte inferior da tela, indicando uma transmissão ativa. O jogo nunca transmitirá ou usará seu microfone sem que o indicador esteja visível.
+Gravações Curtas
+Permite que mecânicas do jogo usem gravações curtas de sua voz. Isso inclui a habilidade "Com Muitas Vozes" de SCP-939, que pode gravar e reproduzir amostras curtas das vozes de jogadores mortos. Todas as gravações são descartadas no momento em que você sai do servidor ou quando a partida é reiniciada.
+Aplicar opções
+Retornar
+Pressione "[key]" e navegue pelas "Opções" para ajustar.
+<size=135%><b>👥</b> Silenciar jogadores vivos -</size>
+<size=135%><b>\uf06e</b> Silenciar espectadores -</size>
+<size=135%><b>🎮</b> Silenciar lobby pré-jogo -</size>
+Bate-papo do Lobby Pré-jogo
+Bate-papo Global do Resumo da Partida
+Bate-papo de Espectadores
+Bate-papo dos Jogadores Vivos ao Espectar
+Silenciado
+Não Silenciado
