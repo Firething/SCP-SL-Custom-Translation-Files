@@ -18,3 +18,6 @@ Tradução: *Firething*
 
 # Adendo:
 ## Tradução Completa
+<p align="center">
+   <img src="https://cdn.discordapp.com/attachments/1192651847996018818/1343356161503526934/grillby_sit.gif?ex=67bcf96b&is=67bba7eb&hm=8ad7f1c0186dcccc852a6f86a84e13b7f566510a20bea17f236d7a487be88234&" />
+</p>
