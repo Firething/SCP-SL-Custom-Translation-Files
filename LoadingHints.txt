@@ -74,7 +74,7 @@
 <color=#e8b923>「⭐」</color> - A Zona de Entrada tem dois portões que fornecem acesso à superfície. Você precisará de um cartão para abri-los.
 <color=#e8b923>「⭐」</color> - Portões de Tesla são perigos elétricos encontrados ao longo da Zona de Contenção Pesada. Prossiga com cautela!
 <color=#e8b923>「⭐」</color> - A Ogiva Alfa mata qualquer coisa dentro da Instalação quando detona. Ela pode ser ativada definitivamente na Zona de Superfície ao ser ligada na Zona de Contenção Pesada.
-<color=#e8b923>「⭐」</color> - A sala do Interfone na Zona de Entrada pode ser usada para transmistir uma mensagem de voz para todos jogadores.
+<color=#e8b923>「⭐」</color> - A sala do Interfone na Zona de Entrada pode ser usada para transmitir uma mensagem de voz para todos jogadores.
 <color=#e8b923>「⭐」</color> - A Zona de Contenção Leve entrará em confinamento após 15 minutos; matando qualquer um deixado dentro. Fuja enquanto pode!
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> pode mudar todos itens, incluindo armas e munição.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> pode recarregar rádios e armas especiais.
