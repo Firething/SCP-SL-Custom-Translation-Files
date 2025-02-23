@@ -1,22 +1,22 @@
-"Take Only Two"
-<color=purple><b>🌈</b> R</color><color=#dca43c>a</color><color=#b40404>i</color><color=#f47fff>n</color><color=blue>b</color><color=#2a731f>o</color><color=purple>w</color> <color=#dca43c>C</color><color=#b40404>a</color><color=blue>n</color><color=#2a731f>d</color><color=#f47fff>y 🍬</color>
-\n\n\n<size=75%><color=#f47fff>Its a hard piece of rock candy, packed with all sorts of flavours.</color></size>
-\n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> Instantly restores 15 HP.\n<color=#dca43c>🏃</color><color=#FFFFFF> Infinite sprint - 5 seconds.\n<color=purple>⛨</color><color=#FFFFFF> 5% damage reduction.\n<color=#2a731f>⛨</color><color=#FFFFFF> reduces severity of negative effect - 10s.\n<color=#36a7d6>⛨</color><color=#FFFFFF> Applies 20 AHP for 10s.</color></size>
-<color=#dca43c>🍋 Yellow Candy 🍬</color>
-\n<size=75%><color=#dca43c>The overwhelming smell of lemon makes you cringe a little.</color></size>
-\n\n<size=150%><color=#dca43c>🏃</color><color=#FFFFFF> Restores 25% of Stamina.\n<color=#dca43c>🏃</color><color=#FFFFFF> Infinite sprint - 8 s.\n<color=#dca43c>🏃</color><color=#FFFFFF> 10% Movement Boost - 8 seconds.</color></size>
-<color=purple><b>🍇</b> Purple Candy 🍬</color>
-\n<size=75%><color=purple>It has a juicy grape smell. Your mouth begins to water.</color></size>
-\n\n\n\n<size=150%><color=purple>⛨</color><color=#FFFFFF> 20% damage reduction - 15s.\n<color=purple>✚</color> Regenerates 15HP.</size>
-<color=#b40404><b>🍒</b> Red Candy 🍬</color>
-\n<size=75%><color=#b40404>A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.</color></size>
-<color=#b40404>✚</color><color=#FFFFFF> Regenerates 45HP.
-<color=#2a731f>🌿 Green Candy 🍬</color>
-\n<size=75%><color=#2a731f>A nasty, herbal smell emits from the candy.</color></size>
-\n\n<size=150%><color=#2a731f>⛨</color><color=#FFFFFF> Immunity to negative status effects - 30s.\n<color=#2a731f>✚<color=#FFFFFF> Slowly regenerates 120HP.</color></size>
-<color=#36a7d6>🍬 Blue Candy 🍬</color>
-\n<size=75%><color=#36a7d6>It smells soft and sweet, something akin to a marshmallow.</color></size>
-<color=#55da09>⛨</color><color=#FFFFFF> Applies </color><color=#55da09>30 AHP</color>.
-<color=#f47fff>🍓 Pink Candy 🍬</color>
-\n<size=75%><color=#f47fff>The strawberry scent is as gentle as it looks.</color></size>
-<color=#FFFFFF>💥 Instant ████████</color>
+"Pegue Só Dois"
+<color=purple><b>🌈</b> <color=#dca43c>D</color><color=#b40404>o</color><color=blue>c</color><color=#2a731f>e</color> A</color><color=#dca43c>r</color><color=#b40404>c</color><color=#f47fff>o</color>-<color=blue>í</color><color=#2a731f>r</color><color=purple>i</color><color=green>s</color> 🍬</color>
+\n\n\n<size=75%><color=#f47fff>É um pedaço duro de doce de açúcar; recheado com todo tipo de sabor.</color></size>
+\n\n\n\n<size=150%><color=#b40404>✚</color><color=#FFFFFF> Restaura instantaneamente 15 HP.\n<color=#dca43c>🏃</color><color=#FFFFFF> Corrida infinita - 5 segundos.\n<color=purple>⛨</color><color=#FFFFFF> 5% de redução de dano.\n<color=#2a731f>⛨</color><color=#FFFFFF> reduz a intensidade de efeitos negativos - 10s.\n<color=#36a7d6>⛨</color><color=#FFFFFF> Aplica 20 AHP por 10s.</color></size>
+<color=#dca43c>🍋 Doce Amarelo 🍬</color>
+\n<size=75%><color=#dca43c>O cheiro avassalador de limão faz você se contorcer um pouco.</color></size>
+\n\n<size=150%><color=#dca43c>🏃</color><color=#FFFFFF> Restaura 25% de Estâmina.\n<color=#dca43c>🏃</color><color=#FFFFFF> Corrida infinita - 8 s.\n<color=#dca43c>🏃</color><color=#FFFFFF> 10% de Aumento de Velocidade - 8 segundos.</color></size>
+<color=purple><b>🍇</b> Doce Roxo 🍬</color>
+\n<size=75%><color=purple>Tem um cheiro suculento de uva. Sua boca começa a salivar.</color></size>
+\n\n\n\n<size=150%><color=purple>⛨</color><color=#FFFFFF> 20% de redução de dano - 15s.\n<color=purple>✚</color> Regenera 15HP.</size>
+<color=#b40404><b>🍒</b> Doce Vermelho 🍬</color>
+\n<size=75%><color=#b40404>Um forte aroma de cereja enche a sala. É um pouco… <i>intenso</i> demais.</color></size>
+<color=#b40404>✚</color><color=#FFFFFF> Regenera 45HP.
+<color=#2a731f>🌿 Doce Verde 🍬</color>
+\n<size=75%><color=#2a731f>Um cheiro desagradável de ervas emana do doce.</color></size>
+\n\n<size=150%><color=#2a731f>⛨</color><color=#FFFFFF> Imunidade para efeitos de status negativos - 30s.\n<color=#2a731f>✚<color=#FFFFFF> Lentamente regenera 120HP.</color></size>
+<color=#36a7d6>🍬 Doce Azul 🍬</color>
+\n<size=75%><color=#36a7d6>Tem um cheiro suave e doce, algo semelhante a um marshmallow.</color></size>
+<color=#55da09>⛨</color><color=#FFFFFF> Aplica </color><color=#55da09>30 AHP</color>.
+<color=#f47fff>🍓 Doce Rosa 🍬</color>
+\n<size=75%><color=#f47fff>O aroma de morango é tão suave quanto parece..</color></size>
+<color=#FFFFFF>💥 ████████ instantânea</color>
