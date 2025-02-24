@@ -1,6 +1,7 @@
 # Como instalar e usar:
 
 Primeiro - instale o arquivo ZIP das traduções (botão verde).
+
 Então, descompacte a pasta com as traduções nos arquivos do jogo:
 
 Steam\steamapps\common\SCP Secret Laboratory\Translations.
