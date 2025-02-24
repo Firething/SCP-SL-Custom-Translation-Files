@@ -1,6 +1,6 @@
 # Como instalar e usar:
 
-Primeiro - instale o arquivo ZIP das traduções (botão verde escrito 'Code' e então clicar em Download ZIP).
+Primeiro - instale o arquivo ZIP das traduções (*botão verde escrito 'Code' e então clicar em Download ZIP*).
 
 Então, descompacte a pasta com as traduções nos arquivos do jogo:
 
