@@ -38,7 +38,7 @@
 <color=#EC2222>「💳」</color> - Uma garrafa de <color=#EC2222>SCP-207</color> não só aumenta sua velocidade de movimento, como também restaura parcialmente sua saúde.
 <color=#EC2222>「💳」</color> - Até 3 garrafas de <color=#EC2222>SCP-207</color> podem ser consumidas, o que permite um multiplicador significativo à sua velocidade.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-500</color> not only heals you but removes most negative effects, and provides regeneration afterwards.
-<color=#EC2222>「💳」</color> - While <color=#EC2222>SCP-268</color> o deixa invisível para todos, mas o <color=#8080FF>SCP-079</color> ainda pode ver você.
+<color=#EC2222>「💳」</color> - Embora o <color=#EC2222>SCP-268</color> o deixe invisível para todos, o <color=#8080FF>SCP-079</color> ainda pode ver você.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-268</color> não o salvará do <color=#EC2222>SCP-096</color> se já tiver olhado para seu rosto.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color> é altamente imprevisível. Se jogada, se proteja.
 <color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color> pode ser usada para impedir uma perseguição ao quicar em um corredor.
