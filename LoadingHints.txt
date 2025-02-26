@@ -21,7 +21,7 @@
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color> pode imitar as vozes de jogadores que matou anteriormente.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color> pode implantar uma nuvem de gás amnésico. Humanos sob seus efeitos não podem perceber a <color=#EC2222>SCP-939</color> até ela atacar ou chegar perto.
 <color=#EC2222>「🌀」</color> - Quanto menor a estâmina da <color=#EC2222>SCP-939</color> estiver, pior se torna a percepção de jogadores dela.
-<color=#EC2222>「🌀」</color> - Quanto mais tempo a <color=#EC2222>SCP-939</color>  estiver em Foco, mais efetiva a habilidade Ultrassensível se torna.
+<color=#EC2222>「🌀」</color> - Quanto mais tempo a <color=#EC2222>SCP-939</color> estiver em Foco, mais efetiva a habilidade Ultrassensível se torna.
 <color=#EC2222>「🌀」</color> - Ser atacado pelo <color=#EC2222>SCP-049</color> inflige parada cardíaca em um humano. Saúde e estâmina drenam rapidamente durante esse tempo.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color> pode matar instantaneamente qualquer humano que já esteja sob os efeitos de uma parada cardíaca.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color> só pode reviver corpos que sejam novos.
