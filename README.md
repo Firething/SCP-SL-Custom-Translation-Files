@@ -12,7 +12,7 @@ Para encontrar a pasta, vá até a Biblioteca do Steam, clique com o botão dire
 Então, abra seu SL e mude o seu idioma em jogo para: Português-BR (Custom.)
 
 
-Se você quer ver como as traduções se parecem no jogo, vá para: https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
+Se você quer ver como as traduções se parecem no jogo (em inglês), vá para: https://steamcommunity.com/sharedfiles/filedetails/?id=2989239726
 
 Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
@@ -40,7 +40,7 @@ Tradução: *Firething*
 </p>
 
 <p align="center"> 
-📋 ~ Tradução completa! Qualquer erro, me chame no Discord.
+📋 ~ Tradução completa por ora até a próxima atualização do Lambda. Qualquer erro encontrado, me chame no Discord.
 </p>
 
 <p align="center">
