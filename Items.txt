@@ -51,6 +51,6 @@
 54~<color=#FF8E00>🏮 Lamparina 🏮</color>~Uma clássica lâmpada a óleo, gravada com o nome "Daniel".
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Veja jogadores através das paredes.</size>\n\n<b>NÃO REMOVA</b>
 56~\uf2dc Bola de Neve \uf2dc~「Normal」: 15 de DANO\n「Carregado」: 30 de DANO\nx2 de DANO na cabeça\n<color=#8079FF>⛨</color> Penetra <color=#8079FF>Escudo de Hume</color>
-57~Coal~Você está na lista de desobedientes!
-58~Coal?~Teleporta um jogador para o <color=red>SCP</color>
+57~Carvão~Você está na lista de desobedientes!
+58~Carvão?~Teleporta um jogador para o <color=red>SCP</color>
 59~<color=#FF59CA>📼 Toca-Fita 📼</color>~Começar aviso sonoro em 3..2..1..\n Nasce a horda de:\n<color=#FF59CA>SCP-1507s</color>
