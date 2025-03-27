@@ -21,28 +21,28 @@ Tradução: *Firething*
 ## ⚙️ Versão da Tradução: 14.0.2
 ## Como a tradução se parece no jogo (só algumas fotos):
 <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1293781332274581578/1344628912541667429/image.png?ex=67c19ac2&is=67c04942&hm=7524d091f2e945650823a6da578a4ae3723b9bb91e9c35b67760a6a7de129764&" />
+   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344628912541667429/image.png?ex=67e684c2&is=67e53342&hm=9818b974cc2670752dc4d73de16478d2997435722996a1ef07d5a8dbd58e62f6&=&format=webp&quality=lossless&width=1523&height=813" />
 </p>
 <p align="center">
-   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344629308143964201/image.png?ex=67c19b21&is=67c049a1&hm=4c6c47f63d826b558b5b818b000655bba672b52b621732f316c6b26ac9ac5595&=&format=webp&quality=lossless&width=1193&height=671" />
+   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344629308143964201/image.png?ex=67e68521&is=67e533a1&hm=90e89519770a2b145bb3d9dac70c78b6f1f71939bde130550118693382efbddb&=&format=webp&quality=lossless&width=1445&height=813" />
 </p>
 <p align="center">
-   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344629751825961002/image.png?ex=67c19b8a&is=67c04a0a&hm=f714d28c257c9b40adc6fa259c7be8563ac9568f493ff2c319f4eed43ed6eb85&=&format=webp&quality=lossless&width=1258&height=671" />
+   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344629751825961002/image.png?ex=67e6858a&is=67e5340a&hm=539ea46958eb4c4424476327fc9d2ec195c52840ca4ac8fe93fdbd635898a5d2&=&format=webp&quality=lossless&width=1523&height=813" />
 </p>
 <p align="center">
-   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344630558130573334/image.png?ex=67c19c4b&is=67c04acb&hm=a4a2fab284ab4ffc756a861f9d3141c462001716279bfed96f10a3550d49e013&=&format=webp&quality=lossless&width=1193&height=671" />
+   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344630558130573334/image.png?ex=67e6864b&is=67e534cb&hm=4d4c6ac0a10b5184f1c8f0aeb5d8caf1cbbc5ea1036cf7605667a6104ac4c21e&=&format=webp&quality=lossless&width=1445&height=813" />
 </p>
 <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1293781332274581578/1344631752588525638/image.png?ex=67c19d67&is=67c04be7&hm=905ed59c3e91e2c58c7e775f332e8f2af1028eeede31193972963e01a893fd02&" />
+   <img src="https://media.discordapp.net/attachments/1293781332274581578/1344631752588525638/image.png?ex=67e68767&is=67e535e7&hm=3afa1aad494c63003b7c0930dcf978944d915aa66e601388bae6e3a976033887&=&format=webp&quality=lossless&width=1445&height=813" />
 </p>
 <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1293781332274581578/1344632725885292544/image.png?ex=67c19e4f&is=67c04ccf&hm=15a38d632aa152bbecc01d41ed8737a79ce979aa8c5d1825af2c3805a03dde3d&" />
+   <img src="https://cdn.discordapp.com/attachments/1293781332274581578/1344632725885292544/image.png?ex=67e6884f&is=67e536cf&hm=569770788726c159f00ada34521bf04aab602a53c821560c398f3e4bf5c2a871&" />
 </p>
 
 <p align="center"> 
-📋 ~ Tradução completa por ora até a próxima atualização do Lambda. Qualquer erro encontrado, me chame no Discord.
+📋 ~ Tradução completa, em espera até a próxima atualização do Lambda/do jogo. Qualquer erro encontrado, me chame no Discord.
 </p>
 
 <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1192651847996018818/1343356161503526934/grillby_sit.gif?ex=67bcf96b&is=67bba7eb&hm=8ad7f1c0186dcccc852a6f86a84e13b7f566510a20bea17f236d7a487be88234&" />
+   <img src="https://media.discordapp.net/attachments/1192651847996018818/1343356161503526934/grillby_sit.gif?ex=67e680ab&is=67e52f2b&hm=6a3c7e8322e0bfcb511b7fd8bb1602efaa55fc3bdc6e49ed5839bc78db050437&=&width=446&height=506" />
 </p>
