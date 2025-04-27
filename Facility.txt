@@ -22,7 +22,7 @@ PORTA BLOQUEADA PELO SCP-079.
 Modo de Tela Cheia
 Tem certeza que deseja sair do servidor?
 Opções básicas. Lista completa das configurações no menu principal.
-\n「<color=#F7D007>E</color><color=#F7C514>S</color><color=#F7BA21>P</color><color=#F7AF2E>E</color><color=#F7A43B>R</color><color=#F79948>A</color><color=#F78E55>N</color><color=#f87e59>D</color><color=#f78471>O</color> <color=#F7786F>P</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>J</color><color=#F741B0>O</color><color=#F736BD>G</color><color=#F72BCA>A</color><color=#F720D7>D</color><color=#F715E4>O</color><color=#F70AF1>R</color><color=#ce06f8>E</color><color=#b803f9>S</color>」
+「<color=#F7D007>E</color><color=#F7C514>S</color><color=#F7BA21>P</color><color=#F7AF2E>E</color><color=#F7A43B>R</color><color=#F79948>A</color><color=#F78E55>N</color><color=#f87e59>D</color><color=#f78471>O</color> <color=#F7786F>P</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>J</color><color=#F741B0>O</color><color=#F736BD>G</color><color=#F72BCA>A</color><color=#F720D7>D</color><color=#F715E4>O</color><color=#F70AF1>R</color><color=#ce06f8>E</color><color=#b803f9>S</color>」
 RESUMO
 CONTINUAR
 VOLUME PRINCIPAL
@@ -36,8 +36,8 @@ Pressione <color=#ff80bc><b>F1</b></color> para mais informações.
 <size=40><color=#EC2222>Siga as ordens ou peça ajuda aos seus aliados.</color></size>
 -
 -
-<size=2100%>\n</size><size=110%><b>PARTIDA INICIA EM:</size>\n<size=200%><color=green>{0}</color></b></size>
-<size=2000%>\n</size><size=110%><b>COMEÇO DA PARTIDA:</b><color=#EC2222> \uf023 <b>TRANCADO</b> \uf023</color></size>
+<size=110%><b>PARTIDA INICIA EM:</size>\n<size=200%><color=green>{0}</color></b></size>
+<size=110%><b>COMEÇO DA PARTIDA:</b><color=#EC2222> \uf023 <b>TRANCADO</b> \uf023</color></size>
 REDUÇÃO DA SENS. MIRANDO
 Pressione <b>[key]</b> para cancelar o arremesso.
 Alternar MIRA
