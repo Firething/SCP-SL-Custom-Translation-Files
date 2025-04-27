@@ -17,7 +17,7 @@ Antisserrilhamento
 Sincronização Vertical
 Manchas
 Qualidade das Texturas
-🔆 Brilho 🔆
+Brilho
 Configs. da Tela
 Qualidade & Desempenho
 Remoção dos Corpos
@@ -53,3 +53,4 @@ Indisponível pois uma API Gráfica foi forçada através dos parâmetros de ini
 Limite de Manchas de Sangue
 Limite de Buracos de Bala
 Mostrar Agulhas
+Turvação Visual da SCP-939
