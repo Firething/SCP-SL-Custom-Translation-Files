@@ -11,4 +11,7 @@ Música
 Interface
 Tema
 Redução de Ruído
-Reduz o ruído de fundo indesejado captado pelo microfone. É altamente recomendável manter esta opção ativada e ela não deve afetar a qualidade de sua voz.
+Reduz o ruído de fundo indesejado captado pelo microfone. É altamente recomendável manter esta opção ativada e não deve afetar a qualidade de sua voz.
+Linhas de Voz
+Volume da Voz do SCP-127
+Volume da Voz do SCP-3114
