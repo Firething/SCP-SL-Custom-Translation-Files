@@ -18,7 +18,7 @@ Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
 
 # Adendo:
-## ⚙️ Versão da Tradução: 14.0.2
+## ⚙️ Versão da Tradução: 14.1
 
 <p align="center"> 
 📋 ~ Tradução completa, em espera até a próxima atualização do Lambda/do jogo. Qualquer erro encontrado, me chame no Discord.
