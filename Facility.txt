@@ -36,7 +36,7 @@ Pressione <color=#ff80bc><b>F1</b></color> para mais informações.
 <size=40><color=#EC2222>Siga as ordens ou peça ajuda aos seus aliados.</color></size>
 -
 -
-<size=110%><b>PARTIDA INICIA EM:</size>\n<size=200%><color=green>{0}</color></b></size>
+<size=110%><b>PARTIDA INICIA EM:</size> <size=200%><color=green>{0}</color></b></size>
 <size=110%><b>COMEÇO DA PARTIDA:</b><color=#EC2222> \uf023 <b>TRANCADO</b> \uf023</color></size>
 REDUÇÃO DA SENS. MIRANDO
 Pressione <b>[key]</b> para cancelar o arremesso.
