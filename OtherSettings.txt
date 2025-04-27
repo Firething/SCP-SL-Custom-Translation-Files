@@ -24,3 +24,7 @@ Preferir Insígnia Global
 Preferir Insígnia Local
 Preferências de Visibilidade de Insígnia Global
 Preferências de Visibilidade de Insígnia Local
+Não Participar como SCP
+Se ativado, você não poderá nascer como um SCP. No entanto, caso não haja jogadores o suficiente que querem participar como SCPs, você pode ainda nascer como um.
+Participar
+Não Participar
