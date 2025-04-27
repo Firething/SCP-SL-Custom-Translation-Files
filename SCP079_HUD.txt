@@ -17,8 +17,8 @@ ETA: [time] segundos
 <color=#8080FF>⚡ ENERGIA AUXILIAR</color>
 <color=yellow>⚠</color><color=red> GERADOR ATIVO </color><color=yellow>⚠</color>
 <color=green>\uf09c</color> LIBERAR TODAS AS PORTAS
-\uf0e8 - ABRIR MAPA DA INSTALAÇÃO
-FECHAR
+<color=#8080FF>\uf0e8</color> - ABRIR MAPA DA INSTALAÇÃO
+<color=#8080FF>\uf410</color> - FECHAR
 <color=#f5eb9c>ZONA DE CONTENÇÃO LEVE</color>
 <color=#ca2642>ZONA DE CONTENÇÃO PESADA</color>
 <color=#bcfab2>ZONA DE ENTRADA</color>
@@ -34,8 +34,8 @@ FECHAR
 <color=#8080FF>🚨</color> INDICAR LOCALIZAÇÃO (<color=#8080FF>[cost]</color>)
 <size=150%>🚨 LIMITE ALCANÇADO 🚨</size>\nINDICAÇÃO
 <size=150%>❌ ERRO ❌</size>\nFALHA NA TROCA DE CÂMERA
-<size=75%><color=red>❌ CONEXÃO PERDIDA... 🔌</color></size>
-RECONECTANDO-SE AOS SISTEMAS DO SÍTIO-02\nETA: [time]s
+<color=red>\uf4e2</color>\n<size=75%>CONEXÃO PERDIDA</size>
+TENTANDO NOVAMENTE EM: [time]s
 <color=yellow>⚡</color> DISPARAR PORTÃO DE TESLA (<color=#8080FF>[cost]</color>)
 <color=yellow>⚠</color> RECARGA DE ATIVAÇÃO DO PORTÃO DE TESLA <color=yellow>⚠</color>
 $<color=#8080FF>💳 Nível de Acesso [tier]</color>$ - DESBLOQUEADO
@@ -56,11 +56,11 @@ $<color=#ff9e00>☀</color> <color=#8080FF>BLECAUTE DE ZONA</color>$ agora dispo
 <color=yellow>⚠</color> RECARGA DE BLECAUTE DE ZONA <color=yellow>⚠</color>
 <size=150%>🚨 JÁ ATIVO 🚨</size>\nBLECAUTE
 <size=150%>❌ ERRO ❌</size>\nBLECAUTE INDISPONÍVEL
-🔬 FORMAS DE VIDA TOTAIS
-💀 HOSTIS
-<color=#EC2222>🌀 OBJETOS SCP</color>
-<color=#f5eb9c>📋 CIVIL</color>
-<color=#9cc7f5>\uf3ed MILITAR</color>
+\uf21e - FORMAS DE VIDA TOTAIS
+\uf54c - HOSTIS
+<color=#EC2222>\uf780 OBJETOS SCP</color>
+<color=#f5eb9c>\uf007 CIVIL</color>
+<color=#9cc7f5>\uf505 MILITAR</color>
 <color=#8080FF>🔊</color> USAR ALTO-FALANTE
 <size=150%>⛔ ERRO ⛔</size>\nACESSO AO ELEVADOR NEGADO
 SCP-079 não possui capacidade de combate direto ou locomoção. Em vez disso, você vê o mundo através de câmeras de segurança encontradas em todos os lugares. Todas as habilidades disponíveis estão listadas no canto superior direito de sua interface.
@@ -68,7 +68,7 @@ SCP-079 não possui capacidade de combate direto ou locomoção. Em vez disso, v
 <b>\uf1eb - Acesso Ilimitado</b>:Você pode manipular inúmeros sistemas na instalação para auxiliar seus companheiros SCPs. O canto superior direito de sua tela mostra quais habilidades estão disponíveis. Estas habilidades custam energia auxiliar (EA) para serem usadas, se regenerando com o tempo.
 <b>\uf538 - Aprendizagem Profunda</b>:Cooperar com assassinatos ou realizar ações úteis para os outros SCPs concederá a você experiência (EA) para alcançar melhores níveis de acesso. Cada novo nível fornece mais EA e novas habilidades são concedidas.
 <b>\uf06e - Vigilância</b>:Estar em todos lugares e em nenhum lugar lhe garante uma perspectiva única. Você pode indicar locais, pessoas e objetos de interesse, permitindo que você ajude no massacre. Você também pode acessar o mapa de vigilância da instalação.
-$<color=#ffa500>\uf06e </color><color=#8080FF>SENSOR DE BRECHA</color>$ agora disponível — selecione classe(s)/zona(s) no $<color=#8080FF>Mapa da Instalação</color>$ para verificar periodicamente por sobreviventes restantes.
+$<color=#ffa500>\uf06e </color><color=#8080FF>SENSOR DE BRECHA</color>$ agora disponível — selecione classe(s)/zona(s) no $<color=#8080FF>Mapa da Instalação</color>$ para escanear por sobreviventes.
 <size=150%><color=red>REGEN. DE ENERGIA SUSPENSA ⚠</color></size>
 <size=150%><color=red>REGEN. DE ENERGIA REDUZIDA EM ([precentage]) ⚠</color></size>
 <size=125%>TRANCA DE PORTA - ATIVA \uf023</size>
@@ -79,9 +79,9 @@ RETORNAR AO MAPA
 <color=#ffa500>\uf06e SENSOR DE BRECHA</color> - [cnt] zona(s)
 ZONAS SELECIONADAS: [cnt]
 <color=red>SELECIONE ZONAS PARA ESCANEAR</color>
-「<color=red>❌</color>」 - <color=red>FALHA EM ESCANEAR</color> - Nenhum alvo imóvel detectado
+「<color=red>\uf00d</color>」 - <color=red>FALHA EM ESCANEAR</color> - Nenhum alvo imóvel detectado
 Tentando novamente em <color=#8080FF>[time]</color> segundos...
-「<color=green>✔️</color>」 - <color=green>ESCANEAMENTO BEM-SUCDEDIDO</color> - $<b>[role]</b>$ detectado - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
+「<color=green>\uf00c</color>」 - <color=green>ESCANEAMENTO BEM-SUCDEDIDO</color> - $<b>[role]</b>$ detectado - <color=red><b>[camera_name]</b></color> - <b>[zone]</b>
 <color=#8080FF>PRÓXIMA VERIFICAÇÃO: [time]s</color>
 <color=#8080FF>Escaneando...</color>
 <size=130%><color=red><b>SISTEMA: OFF-LINE</b></color></size>
