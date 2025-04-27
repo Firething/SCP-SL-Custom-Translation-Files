@@ -1,2 +1,2 @@
-<color=red>Laser é visível para outros</color>
-<color=red>Sem dano adicional para tiros na cabeça</color>
+Laser é visível para outros
+Sem dano adicional para tiros na cabeça
