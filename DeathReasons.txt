@@ -32,3 +32,4 @@ Pele fria e dedos congelados.\n Causado por: Hipotermia induzida pelo <color=#e5
 Você congelou até a morte.\n Causado por: Passar muito tempo dentro da neblina do <color=#e52121>SCP-244</color>.
 Lacerações profundas e arranhões estão presentes no corpo.\n Causado por: <color=#e52121>SCP-939</color>
 O Homem Marshmallow matou você!
+Feridas de bala com resíduos orgânicos.\n Causado por: <color=red>SCP-127</color>
