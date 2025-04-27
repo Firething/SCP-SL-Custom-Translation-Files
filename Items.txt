@@ -54,3 +54,5 @@
 57~Carvão~Você está na lista de desobedientes!
 58~Carvão?~Teleporta um jogador para o <color=red>SCP</color>
 59~<color=#FF59CA>📼 Toca-Fita 📼</color>~Começar aviso sonoro em 3..2..1..\n Nasce a horda de:\n<color=#FF59CA>SCP-1507s</color>
+61~Passe de Acesso À Superfície~Passe de acesso de uso único para abrir portões de saída.
+62~SCP-127
