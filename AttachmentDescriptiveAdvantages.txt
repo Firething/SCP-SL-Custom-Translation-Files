@@ -1,5 +1,5 @@
-<color=#00b300>Fonte de Luz</color>
-<color=#00b300>Contador de Munição</color>
-<color=#00b300>Supressão de Fogo</color>
-<color=#00b300>Visão Noturna</color>
-<color=#00b300>Chumbo Grosso</color>
+Fonte de Luz
+Contador de Munição
+Supressão de Fogo
+Visão Noturna
+Chumbo Grosso
