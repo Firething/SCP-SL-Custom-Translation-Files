@@ -1,13 +1,13 @@
 0~<color=#bcb1e4>💳 Cartão de Zelador 💳</color>
-1~<color=#FFFF7C>💳 Cartão de Cientista 💳</color>
-2~<color=#ddab20>💳 Cartão de Supervisor de Pesquisa 💳</color>
-3~<color=#217778>💳 Cartão de Diretor de Zona 💳</color>
+1~<color=#FFFF7C>💳 Cartão de Pesquisador Júnior 💳</color>
+2~<color=#ddab20>💳 Cartão de Pesquisador Sênior 💳</color>
+3~<color=#217778>💳 Cartão de Supervisor de Zona 💳</color>
 4~<color=#5B6370>💳 Cartão de Guarda 💳</color>
 5~<color=#70C3FF>💳 Cartão de Cabo da FTM 💳</color>
-6~<color=#b6887f>💳 Cartão de Engenheiro de Contenção 💳</color>
+6~<color=#b6887f>💳 Cartão de Especialista de Contenção 💳</color>
 7~<color=#0096FF>💳 Cartão de Agente da FTM 💳</color>
 8~<color=#003DCA>💳 Cartão de Capitão da FTM 💳</color>
-9~<color=#ba1846>💳 Cartão de Diretor da Instalação 💳</color>
+9~<color=#ba1846>💳 Cartão de Diretor do Sítio 💳</color>
 10~<color=#008F1C>📟 Dispositivo Hijacker da Insurgência 📟</color>
 11~<color=#FFFFFF>💳 Cartão Nível-O5 💳</color>
 12~<color=#5B6370>📻 Rádio 📻</color>~Permite comunicação entre dispositivos a longas distâncias.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
@@ -47,12 +47,12 @@
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>É um… Bastão de Choque!?</size>\n\nGolpe 「LMB」: 50 de DANO\nGolpe Carregado 「RMB」: 200 de DANO\n<color=#8079FF>\ue06c</color> Penetra <color=#8079FF>Escudo de Hume</color>.
 51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Diminui a velocidade de movimento</size>\n<color=#f57caa>✚</color> Regenera HP\n<color=#55da09>⛨</color> Fornece 75 AHP\n\n<size=75%>Vai salvar tua vida em um momento de aperto.\nNÃO MISTURE COM:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
 52~<color=#003DCA>\uf05b MTF-Ԑ-11-MG \uf05b\n<size=75%>Metralhadora de Recuperação-De-Instalação</size></color>
-53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>"""Arma Lateral"""</size></color>
+53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Coronha Automática</size></color>
 54~<color=#FF8E00>🏮 Lamparina 🏮</color>~Uma clássica lâmpada a óleo, gravada com o nome "Daniel".
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Veja jogadores através das paredes.</size>\n\n<b>NÃO REMOVA</b>
 56~\uf2dc Bola de Neve \uf2dc~「Normal」: 15 de DANO\n「Carregado」: 30 de DANO\nx2 de DANO na cabeça\n<color=#8079FF>\ue06c</color> Penetra <color=#8079FF>Escudo de Hume</color>
 57~Carvão~Você está na lista de desobedientes!
 58~Carvão?~Teleporta um jogador para o <color=red>SCP</color>
 59~<color=#FF59CA>📼 Toca-Fita 📼</color>~Começar aviso sonoro em 3..2..1..\n Nasce a horda de:\n<color=#FF59CA>SCP-1507s</color>
-61~Passe de Acesso À Superfície~Passe de acesso de uso único para abrir portões de saída.
-62~SCP-127
+61~<color=#6f32b5>\uf09d Passe da Superfície \uf09d</color>~Passe de acesso de uso único para abrir portões de saída.
+62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>A arma viva...</size></color>
