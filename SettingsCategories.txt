@@ -1,5 +1,6 @@
-Vídeo 🎥
+Vídeo \uf03d
 Áudio 🔉
 Controles 🎮
-Interface 💻
+Interface \uf26c
 Outros \uf3ed
+Específico do Servidor \uf233
