@@ -86,5 +86,5 @@
 <color=#e8b923>「⭐」</color> - Rádios têm quatro opções de alcance. Quanto maior o alcance, mais rápido a batéria drena.
 <color=#e8b923>「⭐」</color> - Você pode jogar itens (‘T’ por padrão). Isso pode ser usado para abrir portas fechadas por cartão à distância ou para quebrar vidros.
 <color=#e8b923>「⭐」</color> - Vestir coletes aumenta o número de itens e munição que você pode carregar.
-<size=125%><color=#e8b923>「⭐」</color> - 😻!</color>
+<color=#EC2222>「\uf05b」</color> - <color=#EC2222>SCP-127</color> cria um vínculo com seu dono, e quanto mais você mata, mais forte ele fica!
 <size=125%><color=#a00000>「🔥」</color> - Firecoisa esteve aqui~</color>
