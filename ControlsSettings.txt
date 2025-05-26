@@ -14,3 +14,5 @@ Visão Livre - Modo de Alternar
 Botão Direito para Soltar (Inventário)
 Inventário - Modo de Alternar
 Atalhos para Troca de Zona
+Troca Automática para Espectador
+Automaticamente troca sua câmera para um jogador vivo depois de um breve intervalo quando você não estiver espectando alguém.
