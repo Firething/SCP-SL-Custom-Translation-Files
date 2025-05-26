@@ -5,7 +5,7 @@ Pressione <b>[key]</b> para se comunicar com humanos enquanto disfarçado.
 Este corpo já foi usado como disfarce.
 Você já está disfarçado. Segure <b>[key]</b> para remover seu disfarce atual.
 Apenas corpos humanos podem ser usados como um disfarce.
-💀 Esta pilha irreconhecível de ossos são os restos de <color=#ff80bc><b>[user]</b></color> 💀
+💀 Esta pilha irreconhecível de ossos são os restos de <color=#ff80bc><b>[player_name]</b></color> 💀
 Você pode usar este corpo para se disfarçar como <b>[role]</b>.
 <b>Disfarçar</b>
 Recarga de Sufocação
