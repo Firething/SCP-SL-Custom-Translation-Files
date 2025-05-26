@@ -3,7 +3,7 @@ Nenhum
 <color=#FF8E00>Classe-D</color>
 「Espectador」
 <color=#EC2222>「SCP-106」</color>
-<color=#00D9FF>Especialista da FTM</color>
+<color=#00AFFF>Especialista da FTM</color>
 <color=#EC2222>「SCP-049」</color>
 <color=#FFFF7C>Cientista</color>
 <color=#8080FF>「SCP-079」</color>
