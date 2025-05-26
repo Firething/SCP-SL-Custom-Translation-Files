@@ -25,5 +25,5 @@ Segure <b>[secondary]</b> para dar um Golpe Carregado.
 Segure <b>[key]</b> para Carregar.
 <size=750%>\n</size><color=#00ff00><size=125%>「Pronto para Disparo」</size></color>\n<size=80%><b>[primary]</b> para ativar.</size>
 <size=750%>\n</size><color=yellow>⚠</color> - MICRO H.I.D. DANIFICADA - <color=yellow>⚠</color>\n<size=80%>Capacidades estão limitadas.</size>
-SCP-127 fica mais forte conforme seu vínculo com ele se aprofunda.
+<color=red>SCP-127</color> fica mais forte conforme seu vínculo com ele se aprofunda.
 Use as $teclas de seta$ ou $[up], [left], [down] e [right]$ para controlar a Cobrinha.
