@@ -88,4 +88,4 @@
 <color=#e8b923>「⭐」</color> - Vestir coletes aumenta o número de itens e munição que você pode carregar.
 <color=#EC2222>「\uf05b」</color> - <color=#EC2222>SCP-127</color> cria um vínculo com seu dono, e quanto mais você mata, mais forte ele fica!
 <size=125%><color=#a00000>「🔥」</color> - Firecoisa esteve aqui~</color>
-<color=#000000>「🕯️」</color> - Em memória de jessudev. Descanse em paz 🖤.
+<color=#000000>「🕯️」</color> - Em memória de jessudev. Descanse em paz.
