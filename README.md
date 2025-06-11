@@ -17,9 +17,9 @@ Se você quer ver como as traduções se parecem no jogo (*em inglês*), vá par
 Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
 
-# Adendo:
+# Adendo: 
 ## ⚙️ Versão da Tradução: 14.1
 
 <p align="center"> 
-📋 ~ Tradução completa, em espera até a próxima atualização do Lambda/do jogo. Qualquer erro encontrado, me chame no Discord.
+📋 ~ Tradução completa, em espera até a próxima atualização do Lambda/do jogo. Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
 </p>
