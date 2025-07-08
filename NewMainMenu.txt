@@ -96,3 +96,6 @@ Alugar um Servidor
 <color=red>ALERTA DE FOTOSSENSIBLIDADE: LEIA ANTES DE JOGAR!</color>\nUma porcentagem bem pequena de pessoas pode experienciar convulsões epilépticas ao ser exposta a certos padrões de luz ou luzes intermitentes. Exposição a certos padrões, planos de fundos na tela do computador ou ao jogar pode induzir uma convulsão epiléptica nesses indivíduos. Condições específicas podem induzir sintomas epilépticos não detectados anteriormente até em pessoas que não têm histórico de convulsões ou epilepsia.\nSe você ou qualquer pessoa na sua família tem uma condição epiléptica, consulte seu médico antes de jogar. Se você apresentar algum dos seguintes sintomas ao reproduzir um vídeo ou jogar -- náusea, visão alterada, espasmos nos olhos e músculos, perda de consciência, desorientação, qualquer movimento involuntário ou convulsões -- interrompa o uso IMEDIATAMENTE e consulte um médico antes de voltar a jogar.
 PRESSIONE QUALQUER BOTÃO PARA CONTINUAR
 NÃO MOSTRAR NOVAMENTE
+Continuar
+Informações do Servidor
+Desconectar
