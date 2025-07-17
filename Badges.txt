@@ -86,4 +86,4 @@ Gerente de Anti-Trapaça do SCP:SL
 Supervisor de Anti-Trapaça do SCP:SL
 Supervisor de Wiki da Northwood
 Chefe da Equipe de API do SCP:SL
-Mantedor da API do SCP:SL
+Mantenedor da API do SCP:SL
