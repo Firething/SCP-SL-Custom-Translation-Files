@@ -21,5 +21,5 @@ Tradução: *Firething*
 ## ⚙️ Versão da Tradução: 14.1
 
 <p align="center"> 
-📋 ~ Tradução completa, em espera até a próxima atualização do Lambda/do jogo. Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
+📋 ~ Tradução incompleta por enquanto. Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
 </p>
