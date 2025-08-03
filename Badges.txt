@@ -8,8 +8,8 @@ Gerente de Feedback da Northwood
 Recursos Humanos da Northwood
 Diretor de Recursos Humanos da Northwood
 Gerente da Plataforma Publicitária da Northwood
-Equipe da Northwood 
-Gerente da Steam da Northwood
+Equipe da Northwood
+Gerente de Moderação do Fórum da Northwood
 Administrador de Sistema da Northwood
 Gerente da Wiki da Northwood
 Gerente Artístico do SCP:SL
@@ -22,8 +22,8 @@ Ganhador de Evento do SCP:SL
 Programador Fullstack do SCP:SL
 Designer de Jogo do SCP:SL
 Programador de Jogabilidade do SCP:SL
-Gerente de Moderação Global do SCP:SL
-Moderador Global do SCP:SL
+Gerente de Segurança e Conformidade do SCP:SL
+Especialista em Segurança e Conformidade do SCP:SL
 Chefe de Design de Jogo do SCP:SL
 Chefe de Programação de Jogabilidade do SCP:SL
 Designer de Nível do SCP:SL
@@ -69,7 +69,7 @@ Assistente de Diretor de Gestão da Comunidade
 Assistente de Diretor de Recursos Humanos
 Supervisor de Design de Jogo do SCP:SL
 Supervisor de Designer de Nível do SCP:SL
-Supervisor da Moderação Global do SCP:SL
+Supervisor da Segurança e Conformidade do SCP:SL
 Supervisor de Administração de Sistema da Northwood
 Supervisor de Desenvolvimento Web da Northwood
 Gerente de Desenvolvimento Web da Northwood
@@ -80,10 +80,11 @@ Gerente do Patreon da Northwood
 Supervisor de Redes Sociais da Northwood
 Gerente de Redes Sociais da Northwood
 Supervisor de Tradução da Northwood
-Supervisor da Steam da Northwood
+Supervisor da Moderação do Fórum da Northwood
 Gerente de Design de Nível do SCP:SL
 Gerente de Anti-Trapaça do SCP:SL
 Supervisor de Anti-Trapaça do SCP:SL
 Supervisor de Wiki da Northwood
 Chefe da Equipe de API do SCP:SL
 Mantenedor da API do SCP:SL
+Furry Colaborador em Denúncias de Bug do SCP:SL
