@@ -29,5 +29,5 @@ Tradução: *Firething*
 | Emoji | Significado              | Uso no Repositório                                                  
 |:-----:|--------------------------|-------------------------------------------------------------------  
 | 🛠️    | Em desenvolvimento       | A tradução não está atualizada para a versão mais recente do SCP:SL. 
-| ✅    | Completa                 | A tradução está completa e eu revisei tudo.      
+| ✅    | Completa                 | A tradução está completa e eu revisei tudo que é novo.      
 | 🚧    | Em revisão               | A tradução está completa, mas ainda está pendente de revisão. 
