@@ -29,3 +29,4 @@ terminado por: <color=blue>Homem Marshmallow</color>.
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço da <color=#70C3FF>Nine-Tailed Fox</color> <b>|</b> <color=#0096FF>Designação: [designation]</color> <b>|</b>
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Alerta de Segurança</color> <b>|</b> Atividade da <color=#066328>Insurgência do Caos</color> detectada.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - Atenção, <color=#5B6370>funcionários da segurança.</color> <b>|</b> <color=#008F1C>Insurgência do Caos</color> avistada no Portão A.
+<color=#ff4545>「\uf714」</color><color=#EC2222> - POR ORDEM DO COMANDO O5: SEQUÊNCIA DO HOMEM MORTO ATIVADA.
