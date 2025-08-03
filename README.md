@@ -18,8 +18,16 @@ Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
 
 # Adendo: 
-## ⚙️ Versão da Tradução: 14.1
+## ⚙️ Versão da Tradução: 14.1.3
 
 <p align="center"> 
-📋 ~ Tradução incompleta por enquanto. Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
+✅ ~ Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions
 </p>
+
+### 📝 Significado dos Emojis
+
+| Emoji | Significado              | Uso no Repositório                                                  
+|:-----:|--------------------------|-------------------------------------------------------------------  
+| 🛠️    | Em desenvolvimento       | A tradução não está atualizada para a versão mais recente do SCP:SL. 
+| ✅    | Completa                 | A tradução está completa e eu revisei tudo.      
+| 🚧    | Em revisão               | A tradução está completa, mas ainda está pendente de revisão. 
