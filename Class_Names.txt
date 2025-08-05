@@ -6,7 +6,7 @@
 <color=red>「SCP-049」</color>
 <color=#ffff7c>Cientista</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#559100>🎯- Soldado de Recon. do Caos</color>
+<color=#559100>🎯 - Soldado de Recon. do Caos</color>
 <color=red>「SCP-096」</color>
 <color=#8d1414>「SCP-049-2」</color>
 <color=#0096ff>🎖️ - Sargento da Epsilon-11</color>
