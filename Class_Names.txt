@@ -2,23 +2,23 @@
 <color=#ff8000>Classe-D</color>
 「Espectador」
 <color=red>「SCP-106」</color>
-<color=#00AFFF>📡- Especialista da Epsilon-11</color>
+<color=#00AFFF> - Especialista da Epsilon-11</color>
 <color=red>「SCP-049」</color>
 <color=#ffff7c>Cientista</color>
 <color=#8080FF>「SCP-079」</color>
-<color=#559100>🎯 - Soldado de Recon. do Caos</color>
+<color=#559100> - Soldado de Recon. do Caos</color>
 <color=red>「SCP-096」</color>
 <color=#8d1414>「SCP-049-2」</color>
-<color=#0096ff>\uf5a2 - Sargento da Epsilon-11</color>
-<color=#003dca>\uf005 - Capitão da Epsilon-11</color>
-<color=#70c3ff>\uf3ed - Cabo da Epsilon-11</color>
+<color=#0096ff> - Sargento da Epsilon-11</color>
+<color=#003dca> - Capitão da Epsilon-11</color>
+<color=#70c3ff> - Cabo da Epsilon-11</color>
 <color=#ff00b0>「AbusodePoder.mp4」</color>
 <color=#556278>Guarda da Instalação</color>
 <color=red>「SCP-939-168」</color>
 -
-<color=#008F1C>\uf186 - Patrulheiro do Caos</color>
-<color=#006826>\uf7e4 - Executor do Caos</color>
-<color=#0D7D35>\uf521 - Líder do Caos</color>
+<color=#008F1C> - Patrulheiro do Caos</color>
+<color=#006826> - Executor do Caos</color>
+<color=#0D7D35> - Líder do Caos</color>
 Supervisor
 Cineasta
 <color=red>「SCP-3114」</color>
