@@ -1,6 +1,6 @@
 # Como instalar e usar:
 
-Primeiro - instale o arquivo ZIP das traduções (*botão verde escrito 'Code' e então clicar em Download ZIP*), ou vá em Releases e baixe a asset 'Source Code (zip)'.
+Primeiro - instale o arquivo ZIP das traduções (*botão verde escrito 'Code' e então clicar em Download ZIP*), ou vá em Releases e baixe a asset 'Source Code (zip)'.  
 Ao baixar pelo 'Code', você receberá a versão **mais atualizada** desse mod, mas ela pode não estar totalmente revisada (*erros são corrigidos gradualmente*).
 
 Então, descompacte a pasta com as traduções nos arquivos do jogo:
