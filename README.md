@@ -1,6 +1,7 @@
 # Como instalar e usar:
 
 Primeiro - instale o arquivo ZIP das traduções (*botão verde escrito 'Code' e então clicar em Download ZIP*), ou vá em Releases e baixe a asset 'Source Code (zip)'.
+Ao baixar pelo 'Code', você receberá a versão **mais atualizada** desse mod, mas ela pode não estar totalmente revisada (*erros são corrigidos gradualmente*).
 
 Então, descompacte a pasta com as traduções nos arquivos do jogo:
 
@@ -30,4 +31,4 @@ Tradução: *Firething*
 |:-----:|--------------------------|-------------------------------------------------------------------  
 | 🛠️    | Em desenvolvimento       | A tradução não está atualizada para a versão mais recente do SCP:SL. 
 | ✅    | Completa                 | A tradução está completa e eu revisei tudo que é novo.      
-| 🚧    | Em revisão               | A tradução está completa, mas ainda está pendente de revisão. 
+| 🚧    | Em revisão               | A tradução está pendente de revisão, porém tem a maioria das adições recentes.
