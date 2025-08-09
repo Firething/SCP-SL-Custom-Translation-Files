@@ -1,5 +1,5 @@
 RECARGA DE ATAQUE
-Indisponível na Superfície
+Indisponível nesse nível.
 Indisponível durante o deslocamento de elevador.
 Uma força imparável capaz de burlar facilmente qualquer porta da instalação.
 <b>\uf714 - Captura</b>:Apanha um humano à curta distância, aprisionando-o em sua dimensão portátil — uma prisão mortal ditada pelas suas regras. O prazer de capturar novas presas reabastece o Vigor.
