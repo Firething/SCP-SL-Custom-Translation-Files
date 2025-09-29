@@ -54,3 +54,5 @@ Limite de Manchas de Sangue
 Limite de Buracos de Bala
 Mostrar Agulhas
 Turvação Visual da SCP-939
+Qualidade da Animação
+Determina a frequência de atualização das animações de modelos humanos baseado em quão distante elas estão do jogador. Diminuir a qualidade pode melhorar o desempenho, mas as animações de modelos distantes podem parecer instáveis.
