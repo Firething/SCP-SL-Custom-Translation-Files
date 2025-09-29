@@ -19,10 +19,10 @@ Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
 
 # Adendo: 
-## 🚧 Versão da Tradução: 14.1.4
+## ⚙️ Versão da Tradução: 14.1.4
 
 <p align="center"> 
-🛠️ - Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
+🚧 - Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
 </p>
 
 ### 📝 Significado dos Emojis
