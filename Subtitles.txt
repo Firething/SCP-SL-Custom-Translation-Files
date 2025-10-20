@@ -1,15 +1,15 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade da FTM Epsilon-11</color> <b>|</b> <color=#003DCA>Designação: [designation]</color> <b>|</b> 
-<color=#EC2222>[count] SCPs</color>.
-<color=#EC2222>1 SCP</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade Mu-13 'Caça-Fantasmas'</color> <b>|</b> <color=#003DCA>Designação: [designation]</color> <b>|</b> 
+<color=#EC2222>[count] Espectros</color>.
+<color=#EC2222>1 Espectro</color>.
 <color=#EC2222>Prossigam com cautela</color>.
 terminado <b>|</b> Causa da terminação não especificada.
-terminado por: <color=#EC2222>SCP-[scp]</color>.
+terminado por: <color=#EC2222>Espectro-[scp]</color>.
 terminado por: <color=#f5650a>Sistema Automático de Segurança</color>.
 terminado por: <color=#EC2222>Ogiva Alfa</color>.
-contido por: <color=#FFFF7C>Cientista</color>.
-contido por: <color=#FF8E00>Funcionário Classe-D</color>.
+contido por: <color=#FFFF7C>Dr. Frankenstein</color>.
+contido por: <color=#FF8E00>Rato de Laboratório</color>.
 contido pela: <color=#008F1C>Insurgência do Caos</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>SCP-[scp]</color>
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>Espectro-[scp]</color>
 contido <b>|</b> Unidade de contenção desconhecida.
 contido <b>|</b> Unidade de Contenção: <color=#0096FF>[designation]</color>.
 perdido na sequência de descontaminação.
@@ -26,7 +26,7 @@ perdido na sequência de descontaminação.
 <b><color=#ff4545>「❌」</color><color=#EC2222> - DETONAÇÃO CANCELADA <b>|</b> REINICIANDO SISTEMAS...</color>
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONAÇÃO RETOMADA <b>|</b> [time] SEGUNDOS</color>
 terminado por: <color=blue>Homem Marshmallow</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço da <color=#70C3FF>Nine-Tailed Fox</color> <b>|</b> <color=#0096FF>Designação: [designation]</color> <b>|</b>
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço da <color=#70C3FF>'Caça-Fantasmas'</color> <b>|</b> <color=#0096FF>Designação: [designation]</color> <b>|</b>
 <b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Alerta de Segurança</color> <b>|</b> Atividade da <color=#066328>Insurgência do Caos</color> detectada.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - Atenção, <color=#5B6370>funcionários da segurança.</color> <b>|</b> <color=#008F1C>Insurgência do Caos</color> avistada no Portão A.
-<color=#ff4545>「\uf714」</color><color=#EC2222> - POR ORDEM DO COMANDO O5: SEQUÊNCIA DO HOMEM MORTO ATIVADA.
+<color=#ff4545>「\uf714」</color><color=#EC2222> - FALHA NA RECUPERAÇÃO DO SÍTIO: SEQUÊNCIA DO HOMEM MORTO ATIVADA.
