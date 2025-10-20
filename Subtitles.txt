@@ -3,13 +3,13 @@
 <color=#EC2222>1 Espectro</color>.
 <color=#EC2222>Prossigam com cautela</color>.
 terminado <b>|</b> Causa da terminação não especificada.
-terminado por: <color=#EC2222>Espectro-[scp]</color>.
+terminado por: <color=#EC2222>Espectro #[scp]</color>.
 terminado por: <color=#f5650a>Sistema Automático de Segurança</color>.
 terminado por: <color=#EC2222>Ogiva Alfa</color>.
 contido por: <color=#FFFF7C>Dr. Frankenstein</color>.
 contido por: <color=#FF8E00>Rato de Laboratório</color>.
 contido pela: <color=#008F1C>Insurgência do Caos</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>Espectro-[scp]</color>
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>Espectro #[scp]</color>
 contido <b>|</b> Unidade de contenção desconhecida.
 contido <b>|</b> Unidade de Contenção: <color=#0096FF>[designation]</color>.
 perdido na sequência de descontaminação.
