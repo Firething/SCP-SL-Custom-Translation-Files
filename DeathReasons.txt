@@ -20,7 +20,7 @@ Você foi pego por um Portão de Tesla.
 Estilhaço e queimaduras graves presentes.\n Causado por: <color=orange>Explosão</color>
 Você foi morto por uma explosão próxima.\n Causado por: <color=#5180f7>Granada Explosiva</color>/<color=#ff80bc>Funny</color>
 Lacerações maciças e perda excessiva de sangue.\n Causado por: <color=#e52121>SCP-096</color>
-Fratura cervical na base do crânio.\n Caused By: <color=#e52121>SCP-173</color>
+Fratura cervical na base do crânio.\n Causado por: <color=#e52121>SCP-173</color>
 A mordida de 87\n Causado por: <color=#e52121>SCP-939</color>
 Grande quantidade de arranhões pequenos está presente.\n Causado por: <color=#FF59CA>SCP-1507</color>
 Feridas de bala de calibre [ammotype].
