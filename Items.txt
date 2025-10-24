@@ -56,4 +56,4 @@
 59~<color=#FF59CA>📼 Toca-Fita 📼</color>~Começar aviso sonoro em 3..2..1..\n Nasce a horda de:\n<color=#FF59CA>SCP-1507s</color>
 61~<color=#6f32b5>\uf09d Passe da Superfície \uf09d</color>~Passe de acesso de uso único para abrir portões de saída.
 62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>A arma viva...</size></color>
-68~<color=#ff0000>SCP-1509</color>~Uma arma branca que causa dano moderado. Matar um humano com ela reviverá um aliado.~A Lâmina do Renascimento
+68~<color=#ff0000>SCP-1509</color>~<size=75%>A Lamina do Renascimento</size>\n\nGolpe 「LMB」: 50 de DANO\n<color=#8079FF>\ue06c</color> Concede ao jogador <color=#8079FF>35 de HS</color>.\n<color=red>\uf714</color>Renasce um aliado morto.
