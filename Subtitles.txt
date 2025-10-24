@@ -1,32 +1,32 @@
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade da Força-Tarefa Móvel Mu-13 'Caça-Fantasmas'</color> designada: <color=#003DCA>[designation]</color> adentrou na instalação.<split>Todos os funcionários restantes são aconselhados a prosseguir com os protocolos de evacuação padrões até que um esquadrão da FTM chegue em seu destino.<split>
-Aguardando recontenção de: <color=#EC2222>[count] Espectros</color>.
-Aguardando recontenção de: <color=#EC2222>1 Espectro</color>.
-Ameaça substancial à segurança permanece na instalação: <color=#EC2222>prossigam com cautela</color>.
+Aguardando recontenção de: <color=red><b>[count]</b> Espectros</color>.
+Aguardando recontenção de: <color=red><b>1</b> Espectro</color>.
+Ameaça substancial à segurança permanece na instalação: <color=red><b>prossigam com cautela</b></color>.
 terminado com sucesso. Causa da terminação não especificada.
-terminado com sucesso por: <color=#EC2222>Espectro #[scp]</color>.
+terminado com sucesso por: <color=red>Espectro #[scp]</color>.
 terminado com sucesso por: <color=#f5650a>Sistema Automático de Segurança</color>.
-terminado com sucesso por: <color=#EC2222>Ogiva Alfa</color>.
+terminado com sucesso por: <color=red><b>Ogiva Alfa</b></color>.
 contido com sucesso por: <color=#FFFF7C>Dr. Frankenstein</color>.
 contido com sucesso por: <color=#FF8E00>Rato de Laboratório</color>.
 contido com sucesso pela: <color=#008F1C>Insurgência do Caos</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=#EC2222>Espectro #[scp]</color>
+<b>「<color=#58a4ef>\uf06e</color>」</b> -  <color=red>Espectro #[scp]</color>
 contido com sucesso <b>|</b> Unidade de contenção desconhecida.
-contido com sucesso <b>|</b> Unidade de Contenção: <color=#0096FF>[designation]</color>.
+contido com sucesso <b>|</b> Unidade de Contenção: <color=#0096FF><b>[designation]</b></color>.
 perdido na sequência de descontaminação.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> geradores ativados.
-<split>Todos os geradores foram ativados com sucesso.
+<split><b>Todos os geradores foram ativados com sucesso.</b>
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Sobrecarga em 3... 2... 1...</color>
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>A instalação voltou ao modo operacional.</color>
-「<color=#f6b140>⚠️</color>」 - Atenção a todos funcionários.<split>A descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>15 minutos</color>.
-「<color=#f6b140>⚠️</color>」 - Perigo. Descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>[time] minutos</color>.
-「<color=#f6b140>⚠️</color>」 - Perigo. Descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>1 minuto</color>.
-<color=#f6b140>「⚠️」 - Perigo. </color><color=#EC2222>- Descontaminação da Zona de Contenção Leve</color> em <color=#EC2222>30 segundos</color>.<split>Todos as portas dos pontos de controle foram abertas permanentemente. Por favor, evacue <b>imediatamente</b>.
-<b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Zona de Contenção Leve</color> está bloqueada e pronta para descontaminação.<split>A remoção de todas as substâncias orgânicas começou.
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: ATIVADA <b>|</b> A SEÇÃO SUBTERRÂNEA DESTA INSTALAÇÃO ESTÁ DEFINIDA PARA SE AUTODESTRUIR EM: T-[time] SEGUNDOS.</color>
-<b><color=#ff4545>「❌」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO: CANCELADA.</color>
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: RETOMADA. T-[time] SEGUNDOS.</color>
-terminado pelo: <color=#36a7d6>Marshmallow Man</color>.
+「<color=#f6b140>⚠️</color>」 - Atenção a todos funcionários.<split>A descontaminação da <color=red>Zona de Contenção Leve</color> em <color=red><b>15</b> minutos</color>.
+「<color=#f6b140>⚠️</color>」 - Perigo. Descontaminação da <color=red>Zona de Contenção Leve</color> em <color=red><b>[time]</b> minutos</color>.
+「<color=#f6b140>⚠️</color>」 - Perigo. Descontaminação da <color=red>Zona de Contenção Leve</color> em <color=red><b>1</b> minuto</color>.
+<color=#f6b140>「⚠️」 - Perigo. </color><color=red>- Descontaminação da Zona de Contenção Leve</color> em <color=red><b>30</b> segundos</color>.<split>Todos as portas dos pontos de controle foram abertas permanentemente. Por favor, evacue <b>imediatamente</b>.
+<b>「<color=#f6b140>🔊</color>」</b> - <color=red>Zona de Contenção Leve</color> está bloqueada e pronta para descontaminação.<split>A remoção de todas as substâncias orgânicas começou.
+<color=#ff4545>「\uf7ba」</color><color=red> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: ATIVADA <b>|</b> A SEÇÃO SUBTERRÂNEA DESTA INSTALAÇÃO ESTÁ DEFINIDA PARA SE AUTODESTRUIR EM: T-[time] SEGUNDOS.</color>
+<b><color=#ff4545>「❌」</color><color=red> - SEQUÊNCIA DE DETONAÇÃO: CANCELADA.</color>
+<color=#ff4545>「\uf7ba」</color><color=red> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: RETOMADA. <b>T-[time]</b> SEGUNDOS.</color>
+terminado com sucesso pelo: <color=#36a7d6>Marshmallow Man</color>.
 <b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço <color=#70C3FF>Caça-Fantasmas</color> adentrou a instalação.<split>
-<b>「<color=#58a4ef>\uf06a</color>」</b> - Atenção, todos os funcionários. Forças da <color=#066328>[number]</color> <color=#066328>Insurgência do Caos</color> detectadas no <color=#9cc7f5>Portão A</color>.<split>Força letal autorizada.
-<b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#066328>[number]</color> forças <color=#066328>hostis</color> adicionais captadas no <color=#9cc7f5>Portão A</color>.<split><color=#58a4ef>Modelo de defesa: atualizado.
-<color=#ff4545>「\uf714」</color><color=#EC2222> - FALHA NA RECUPERAÇÃO DO SÍTIO — INTERRUPTOR DO HOMEM MORTO ATIVADO.<split>A SEÇÃO SUBTERRÂNEA DESTA INSTALAÇÃO <b>IRÁ</b> SE AUTODESTRUIR EM: T-[time] SEGUNDOS.</color>
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Atenção, todos os funcionários. Forças da <color=#066328><b>[number]</b></color> <color=#066328>Insurgência do Caos</color> detectadas no <color=#9cc7f5>Portão A</color>.<split><color=red>Força letal: <b>autorizada</b>.</color>
+<b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#066328><b>[number]</b></color> forças <color=#066328>hostis</color> adicionais captadas no <color=#9cc7f5>Portão A</color>.<split><color=#58a4ef>Modelo de defesa: atualizado.
+<color=#ff4545>「\uf714」</color><color=#EC2222> - FALHA NA RECUPERAÇÃO DO SÍTIO — INTERRUPTOR DO HOMEM MORTO ATIVADO.</color><split><color=red>A SEÇÃO SUBTERRÂNEA DESTA INSTALAÇÃO <b>IRÁ</b> SE AUTODESTRUIR EM: <b>T-[time]</b> SEGUNDOS.</color>
