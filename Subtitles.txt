@@ -9,7 +9,7 @@ terminado com sucesso por: <color=red><b>Ogiva Alfa</b></color>.
 contido com sucesso por: <color=#FFFF7C>Dr. Frankenstein</color>.
 contido com sucesso por: <color=#FF8E00>Rato de Laboratório</color>.
 contido com sucesso pela: <color=#008F1C>Insurgência do Caos</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> -  <color=red>Espectro #[scp]</color>
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=red>Espectro #[scp]</color>
 contido com sucesso <b>|</b> Unidade de contenção desconhecida.
 contido com sucesso <b>|</b> Unidade de Contenção: <color=#0096FF><b>[designation]</b></color>.
 perdido na sequência de descontaminação.
