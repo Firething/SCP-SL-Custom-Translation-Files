@@ -22,7 +22,7 @@ Tradução: *Firething*
 ## ✅ Versão da Tradução: 14.2 Halloween
 
 <p align="center"> 
-🚧 - Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
+Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
 </p>
 
 ### 📝 Significado dos Emojis
