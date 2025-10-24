@@ -1,0 +1,40 @@
+🍬 Doces 🎃
+<color=purple><b>🌈</b> D</color><color=#dca43c>o</color><color=#b40404>c</color><color=#f47fff>e</color> <color=blue>A</color><color=#2a731f>r</color><color=purple>c</color><color=#dca43c>o</color><color=#b40404>-í</color><color=blue>r</color><color=#2a731f>i</color><color=#f47fff>s 🍬</color>
+É um pedaço duro de doce de açúcar; recheado com todos os tipos de sabores. Doces ou travessuras?
+Expele uma nuvem prismática que fornece efeitos bônus a jogadores próximos. Garante que todos por perto enganem a morte.
+<color=yellow>🍋 Doce Amarelo 🍬</color>
+O cheiro avassalador de limão faz você recuar um pouco. Doces ou travessuras?
+Não posso parar, não vou parar.
+<color=purple><b>🍇</b> Doce Roxo 🍬</color>
+Tem um cheiro suculento de uva. Sua boca começa a salivar.
+Diminui seu metabolismo — mas aumenta consideravelmente seu apetite.
+<color=red><b>🍒</b> Doce Vermelho 🔥</color>
+Um forte aroma de cereja enche a sala. É um pouco... <i>intenso</i> demais. Doces ou travessuras?
+Faz com que uma onda de fogo escaldante saia de sua boca, causando danos a qualquer um que esteja por perto.
+<color=green>🌿 Doce Verde 🍬</color>
+Um cheiro desagradável de ervas emana do doce. Doces ou travessuras?
+Um pedaço de doce com propriedades regenerativas poderosas. Concede um bônus de saúde.
+<color=#36a7d6>🍬 Doce Azul 🍬</color>
+Tem um cheiro suave e doce, algo semelhante a um marshmallow. Doces ou travessuras?
+Converte rapidamente o tecido corporal em marshmallow. Parte Homem, Parte Marshmallow. Total Carnificina.
+<color=#f47fff>🍓 Doce Rosa 🍬</color>
+\n<size=75%><color=#f47fff>O aroma de morango é tão suave quanto parece.</color></size>
+<color=#FFFFFF>💥 ████████ Instantânea</color>
+<color=orange><b>🍊</b> Doce Laranja 🍬</color>
+O doce de aroma cítrico brilha com um esplendor sedutor. Doces ou travessuras?
+Faz com que você irradie um tom brilhante de laranja. Os inimigos têm dificuldade para desviar os olhos de você.
+<color=#FFFFFF><b>👻</b> Doce Branco 🍬</color>
+Um distinto cheiro adoçado emana da embalagem. Não parece ter um doce aqui dentro… Doces ou travessuras?
+Temporariamente te transforma em um fantasma — o tornando translúcido e permitindo que você atravesse por portas.
+<color=#808080>🍬 Doce Cinza 🍬</color>
+O leve cheiro de chumbo emana desse doce surpreendentemente pesado. Doces ou travessuras?
+Transforma você em um extremamente pesado e resistente pedaço de chumbo. Fique atento abaixo!
+<color=#43464b>🍬 Doce Preto 🍬</color>
+O aroma avassalador do completo vazio faz você se engasgar. Você se lembra de tê-lo provado infinitas vezes, mas não consegue se lembrar do sabor. Doces ou travessuras?
+Fornece um efeito aleatório. Sentindo-se com sorte?
+<color=#523a28><b>☕️</b> Doce Marrom 🍬</color>
+O aroma familiar de café atrai você. Doces ou travessuras?
+Um laxante extremamente eficaz.
+<color=red>💀 Doce Maldito 💀</color>
+O pedaço de doce pulsa com uma energia maligna. Doces ou travessuras?
+Te torna maligno (raríssimo).
