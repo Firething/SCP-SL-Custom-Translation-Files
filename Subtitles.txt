@@ -22,11 +22,11 @@ perdido na sequência de descontaminação.
 「<color=#f6b140>⚠️</color>」 - Descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>1 minuto</color>.
 <color=#f6b140>「⚠️」</color><color=#EC2222>- Descontaminação da Zona de Contenção Leve</color> em <color=#EC2222>30 segundos</color>.
 <b>「<color=#f6b140>🔊</color>」</b> - <color=#EC2222>Zona de Contenção Leve</color> está bloqueada e pronta para descontaminação.
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA DA OGIVA ALFA ATIVADA <b>|</b> DETONAÇÃO EM [time] SEGUNDOS</color>
-<b><color=#ff4545>「❌」</color><color=#EC2222> - DETONAÇÃO CANCELADA <b>|</b> REINICIANDO SISTEMAS...</color>
-<color=#ff4545>「\uf7ba」</color><color=#EC2222> - DETONAÇÃO RETOMADA <b>|</b> [time] SEGUNDOS</color>
-terminado por: <color=blue>Homem Marshmallow</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço da <color=#70C3FF>'Caça-Fantasmas'</color> <b>|</b> <color=#0096FF>Designação: [designation]</color> <b>|</b>
-<b>「<color=#58a4ef>\uf06a</color>」</b> - <color=#5B6370>Alerta de Segurança</color> <b>|</b> Atividade da <color=#066328>Insurgência do Caos</color> detectada.
-<b>「<color=#58a4ef>\uf06a</color>」</b> - Atenção, <color=#5B6370>funcionários da segurança.</color> <b>|</b> <color=#008F1C>Insurgência do Caos</color> avistada no Portão A.
-<color=#ff4545>「\uf714」</color><color=#EC2222> - FALHA NA RECUPERAÇÃO DO SÍTIO: SEQUÊNCIA DO HOMEM MORTO ATIVADA.
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: ATIVADA <b>|</b> AUTODESTRUIÇÃO EM: T-[time] SEGUNDOS.</color>
+<b><color=#ff4545>「❌」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO: CANCELADA.</color>
+<color=#ff4545>「\uf7ba」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: RETOMADA. T-[time] SEGUNDOS.</color>
+terminado pelo: <color=#36a7d6>Marshmallow Man</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço <color=#70C3FF>Caça-Fantasmas</color> <b>|</b> 
+<b>「<color=#58a4ef>\uf06a</color>」</b> - Forças da [number] <color=#066328>Insurgência do Caos</color> detectadas no Portão A <b>|</b> Força letal autorizada.
+<b>「<color=#58a4ef>\uf06a</color>」</b> - [number] forças hostis adicionais captadas no Portão A. <b>|</b> Modelo de defesa: atualizado.
+<color=#ff4545>「\uf714」</color><color=#EC2222> - FALHA NA RECUPERAÇÃO DO SÍTIO — INTERRUPTOR DO HOMEM MORTO ATIVADO. <b>|</b> AUTODESTRUIÇÃO EM: T-[time] SEGUNDOS.</color>
