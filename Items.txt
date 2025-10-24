@@ -18,7 +18,7 @@
 17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Regenera a vida do jogador completamente\n<color=#f57caa>✚</color> Regenera 200 HP\n<color=#ffb4ff>♻️</color> Remove certos efeitos
 18~<color=#ff0000>\uf72f SCP-207-C \uf72f</color>~<color=#767676>🏃</color> <size=90%>Aumenta a velocidade de movimento</size>\n<color=#767676>🏃</color> Corrida infinita\n<color=#f57caa>💔</color> Drena HP\n\n<size=75%>Nocivamente aumenta suas coordenações motoras.\nNÃO MISTURE COM:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
 47~<color=#003DCA>\uf05b Disruptor de Partícula 3-X \uf05b</color>
-20~<color=#0096FF>\uf05b MTF-Ԑ-11-SR \uf05b\n<size=75%>Rifle Padrão de Recuperação-De-Instalação</size></color>
+20~<color=#0096FF>\uf05b MTF-Mu-13-SR \uf05b\n<size=75%>Rifle Padrão de Recuperação-De-Instalação</size></color>
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
 23~<color=#5B6370>\uf05b FSP-9 \uf05b\n<size=75%>Pistola da Segurança da Fundação</size></color>
 24~<color=#0D7D35>\uf05b LGC5 \uf05b\n<size=75%>Logicer</size></color>
@@ -46,7 +46,7 @@
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Fale com os mortos\n\uf2f2 Tempo de comunicação - 30s.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>É um… Bastão de Choque!?</size>\n\nGolpe 「LMB」: 50 de DANO\nGolpe Carregado 「RMB」: 200 de DANO\n<color=#8079FF>\ue06c</color> Penetra <color=#8079FF>Escudo de Hume</color>.
 51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Diminui a velocidade de movimento</size>\n<color=#f57caa>✚</color> Regenera HP\n<color=#55da09>⛨</color> Fornece 75 AHP\n\n<size=75%>Vai salvar tua vida em um momento de aperto.\nNÃO MISTURE COM:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
-52~<color=#003DCA>\uf05b MTF-Ԑ-11-MG \uf05b\n<size=75%>Metralhadora de Recuperação-De-Instalação</size></color>
+52~<color=#003DCA>\uf05b MTF-Mu-13-MG \uf05b\n<size=75%>Metralhadora de Recuperação-De-Instalação</size></color>
 53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Coronha Automática</size></color>
 54~<color=#FF8E00>🏮 Lamparina 🏮</color>~Uma clássica lâmpada a óleo, gravada com o nome "Daniel".
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Veja jogadores através das paredes.</size>\n\n<b>NÃO REMOVA</b>
