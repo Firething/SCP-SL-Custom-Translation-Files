@@ -14,7 +14,7 @@ contido <b>|</b> Unidade de contenção desconhecida.
 contido <b>|</b> Unidade de Contenção: <color=#0096FF>[designation]</color>.
 perdido na sequência de descontaminação.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#8080FF>[current]</color>/<color=#8080FF>[max]</color> geradores ativados.
-<split><b>Todos os geradores foram ativados com sucesso.</b>
+<split>Todos os geradores foram ativados com sucesso.
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>Sobrecarga em 3... 2... 1...</color>
 <b>「<color=#58a4ef>\uf0ad</color>」</b> - <color=#58a4ef>A instalação voltou ao modo operacional.</color>
 「<color=#f6b140>⚠️</color>」 - Descontaminação da <color=#EC2222>Zona de Contenção Leve</color> em <color=#EC2222>15 minutos</color>.
