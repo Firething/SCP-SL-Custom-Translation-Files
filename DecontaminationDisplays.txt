@@ -1,6 +1,6 @@
-<color=#7cf58d><size=90%><b>DESCONTAMINAÇÃO EM:</b></size></color>
-<color=red>⚠<b>-POR FAVOR, SAIA DA ÁREA-</b>⚠</color>
-<color=red>⚠<b>-POR FAVOR, EVACUE-</b>⚠</color>
+<color=#7cf58d><b>DESCONTAMINAÇÃO EM:</b></color>
+<color=red><size=85%>⚠<b>-POR FAVOR, SAIA DA ÁREA-</b>⚠</size></color>
+<color=red><size=85%>⚠<b>-POR FAVOR, EVACUE-</b>⚠</size></color>
 <size=84%><b>ANÁLISE EM PROGRESSO</b></size>
 <size=85%><b>PREPARANDO SISTEMAS DE SEGURANÇA</b></size>
 <size=84%><b>SISTEMAS PRONTOS PARA COMEÇAR</b></size>
