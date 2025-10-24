@@ -1,4 +1,4 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade Mu-13 'Caça-Fantasmas'</color> <b>|</b> <color=#003DCA>Designação: [designation]</color> <b>|</b> 
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade da FTM Mu-13 'Caça-Fantasmas'</color> <b>|</b> <color=#003DCA>Designação: [designation]</color> <b>|</b> 
 <color=#EC2222>[count] Espectros</color>.
 <color=#EC2222>1 Espectro</color>.
 <color=#EC2222>Prossigam com cautela</color>.
