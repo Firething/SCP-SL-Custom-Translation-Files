@@ -2,16 +2,16 @@
 <color=purple><b>🌈</b> D</color><color=#dca43c>o</color><color=#b40404>c</color><color=#f47fff>e</color> <color=blue>A</color><color=#2a731f>r</color><color=purple>c</color><color=#dca43c>o</color><color=#b40404>-í</color><color=blue>r</color><color=#2a731f>i</color><color=#f47fff>s 🍬</color>
 É um pedaço duro de doce de açúcar; recheado com todos os tipos de sabores. Doces ou travessuras?
 Expele uma nuvem prismática que fornece efeitos bônus a jogadores próximos. Garante que todos por perto enganem a morte.
-<color=yellow>🍋 Doce Amarelo 🍬</color>
+<color=#dca43c>🍋 Doce Amarelo 🍬</color>
 O cheiro avassalador de limão faz você recuar um pouco. Doces ou travessuras?
 Não posso parar, não vou parar.
 <color=purple><b>🍇</b> Doce Roxo 🍬</color>
 Tem um cheiro suculento de uva. Sua boca começa a salivar.
 Diminui seu metabolismo — mas aumenta consideravelmente seu apetite.
-<color=red><b>🍒</b> Doce Vermelho 🔥</color>
+<color=#b40404><b>🍒</b> Doce Vermelho 🔥</color>
 Um forte aroma de cereja enche a sala. É um pouco... <i>intenso</i> demais. Doces ou travessuras?
 Faz com que uma onda de fogo escaldante saia de sua boca, causando danos a qualquer um que esteja por perto.
-<color=green>🌿 Doce Verde 🍬</color>
+<color=#2a731f>🌿 Doce Verde 🍬</color>
 Um cheiro desagradável de ervas emana do doce. Doces ou travessuras?
 Um pedaço de doce com propriedades regenerativas poderosas. Concede um bônus de saúde.
 <color=#36a7d6>🍬 Doce Azul 🍬</color>
