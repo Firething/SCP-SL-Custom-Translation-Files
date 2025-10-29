@@ -33,7 +33,7 @@
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color> pode se disfarçar de uma classe humana, tenha cuidado em quem confia!
 <color=#EC2222>「🌀」</color> - Após o <color=#EC2222>SCP-3114</color> roubar a pele de um corpo, ele deixa uma pilha de ossos pra trás.
 <color=#EC2222>「🌀」</color> - Os ataques do <color=#EC2222>SCP-3114</color> são fracos, porém ele pode enforcar um humano ao segurar o ataque secundário.
-<color=#EC2222>「🌀」</color> - O enforcamento do <color=#EC2222>SCP-3114</color> faz com que a vítima fique imóvel até morrer.
+<color=#EC2222>「🌀」</color> - O estrangulamento do <color=#EC2222>SCP-3114</color> faz com que a vítima fique imóvel até morrer.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color> pode dançar quando o jogador digita Gingerbread em seu teclado. 
 <color=#EC2222>「💳」</color> - Uma garrafa de <color=#EC2222>SCP-207</color> não só aumenta sua velocidade de movimento, como também restaura parcialmente sua saúde.
 <color=#EC2222>「💳」</color> - Até 3 garrafas de <color=#EC2222>SCP-207</color> podem ser consumidas, o que permite um multiplicador significativo à sua velocidade.
