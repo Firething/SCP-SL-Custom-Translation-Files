@@ -1,4 +1,4 @@
-<color=red>「Mr. Mendoim」</color>
+<color=red>「Sr. Mendoim」</color>
 <color=#ff8000>Rato de Laboratório</color>
 「Espectador」
 <color=red>「Larry」</color>
@@ -21,7 +21,7 @@
 <color=#0D7D35>Líder do Caos</color>
 Supervisor
 Cineasta
-<color=red>「Sr. Osso」</color>
+<color=red>「Sr. Ossinhos」</color>
 Destruído
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-SIGMA」</color>
