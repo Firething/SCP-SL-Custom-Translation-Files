@@ -8,9 +8,9 @@ Apenas corpos humanos podem ser usados como um disfarce.
 💀 Esta pilha irreconhecível de ossos são os restos de <color=#ff80bc><b>[player_name]</b></color> 💀
 Você pode usar este corpo para se disfarçar como <b>[role]</b>.
 <b>Disfarçar</b>
-Recarga de Sufocação
-<b>\uf54c - Esqueletos No Seu Armário</b>:Seu nome e identidade estão escondidos. Você é apenas uma tela em branco e o mundo é sua musa. Enquanto disfarçado como um humano, sua força básica permite que você mantenha certos objetos — mas a sua falta de músculos notáveis previne você de usar itens efetivamente.
+Recarga de Estrangulamento
+<b>\uf54c - Esqueletos No Seu Armário</b>:Seu nome e identidade estão escondidos. Você é apenas uma tela em branco e o mundo é sua musa. Enquanto disfarçado como um humano, sua força base permite que você mantenha certos objetos — mas a sua falta de músculos notáveis impede você de usar itens efetivamente.
 <b>\uf5d7 - Pega Essas Mãos</b>:Solte um turbilhão de ataques leves que lentamente diminuem a vida de qualquer um que tenha atingido. Estas camadas microscópicas de pele supostamente rica em cálcio de alguma forma te fornecem destreza e fortalecem sua determinação, restaurando uma pequena quantidade de Escudo de Hume a cada golpe.
-<b>\uf714 - Sufocação</b>:Agarre-os pelo pescoço e asfixie a vida para fora deles. Olhe em seus olhos quando eles derem seus últimos suspiros. Suas vidas não passam de velas a serem apagadas, levando apenas alguns segundos. Este ataque pode ser interrompido.
+<b>\uf714 - Estrangulamento</b>:Agarre-os pelo pescoço e asfixie a vida para fora deles. Olhe em seus olhos quando eles derem seus últimos suspiros. Suas vidas não passam de velas a serem apagadas, levando apenas alguns segundos. Este ataque pode ser interrompido.
 <b>\uf497 - Sob Suas Peles</b>:Roube para si mesmo uma agradável e quente jaqueta (suas peles) ao interagir com o corpo deles. Envolva-se temporariamente no calor e vista-se com seus suculentos ‘trajes de carne’, imitando a habilidade de segurar certos itens. Pressione [key] para remover abruptamente!
 Pressione e segure <b>[key]</b> por mais tempo para remover seu disfarce atual.
