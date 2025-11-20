@@ -1,15 +1,15 @@
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade da FTM Mu-13 'Caça-Fantasmas'</color> <b>|</b> <color=#003DCA>Designação: [designation]</color> <b>|</b> 
-<color=#EC2222>[count] Espectros</color>.
-<color=#EC2222>1 Espectro</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - <color=#0096FF>Unidade da FTM Epsilon-11</color> <b>|</b> <color=#003DCA>Designação: [designation]</color> <b>|</b> 
+<color=#EC2222>[count] SCPs</color>.
+<color=#EC2222>1 SCP</color>.
 <color=#EC2222>Prossigam com cautela</color>.
 terminado <b>|</b> Causa da terminação não especificada.
-terminado por: <color=#EC2222>Espectro #[scp]</color>.
+terminado por: <color=#EC2222>SCP-[scp]</color>.
 terminado por: <color=#f5650a>Sistema Automático de Segurança</color>.
 terminado por: <color=#EC2222>Ogiva Alfa</color>.
-contido por: <color=#FFFF7C>Dr. Frankenstein</color>.
-contido por: <color=#FF8E00>Rato de Laboratório</color>.
+contido por: <color=#FFFF7C>Cientista</color>.
+contido por: <color=#FF8E00>Funcionário Classe-D</color>.
 contido pela: <color=#008F1C>Insurgência do Caos</color>.
-<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=red>Espectro #[scp]</color>
+<b>「<color=#58a4ef>\uf06e</color>」</b> - <color=red>SCP-[scp]</color>
 contido <b>|</b> Unidade de contenção desconhecida.
 contido <b>|</b> Unidade de Contenção: <color=#0096FF>[designation]</color>.
 perdido na sequência de descontaminação.
@@ -25,8 +25,8 @@ perdido na sequência de descontaminação.
 <color=#ff4545>「\uf7ba」</color><color=#EC2222> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: ATIVADA <b>|</b> AUTODESTRUIÇÃO EM: T-[time] SEGUNDOS.</color>
 <b><color=#ff4545>「❌」</color><color=red> - SEQUÊNCIA DE DETONAÇÃO: CANCELADA.</color>
 <color=#ff4545>「\uf7ba」</color><color=red> - SEQUÊNCIA DE DETONAÇÃO DE EMERGÊNCIA: RETOMADA. <b>T-[time]</b> SEGUNDOS.</color>
-terminado com sucesso pelo: <color=#36a7d6>Marshmallow Man</color>.
-<b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço <color=#70C3FF>Caça-Fantasmas</color> <b>|</b> 
+terminado com sucesso pelo: <color=#36a7d6>Homem Marshmallow</color>.
+<b>「<color=#58a4ef>\uf3ed</color>」</b> - Unidade de Reforço da <color=#70C3FF>Nine-Tailed Fox</color> <b>|</b> 
 <b>「<color=#58a4ef>\uf06a</color>」</b> - Forças da [number] <color=#066328>Insurgência do Caos</color> detectadas no Portão A <b>|</b> Força letal autorizada.
 <b>「<color=#58a4ef>\uf06a</color>」</b> - [number] forças hostis adicionais captadas no Portão A. <b>|</b> Modelo de defesa: atualizado.
 <color=#ff4545>「\uf714」</color><color=#EC2222> - FALHA NA RECUPERAÇÃO DO SÍTIO — INTERRUPTOR DO HOMEM MORTO ATIVADO. <b>|</b> AUTODESTRUIÇÃO EM: T-[time] SEGUNDOS.</color>
