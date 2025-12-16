@@ -19,7 +19,7 @@ Créditos: [*Corporal1Lambda*](https://github.com/Corporal1Lambda)
 Tradução: *Firething*
 
 # Adendo: 
-## ✅ Versão da Tradução: 14.2.2
+## 🛠️ Versão da Tradução: 14.2.2
 
 <p align="center"> 
 Qualquer erro encontrado, me chame no Discord, faça um Issue ou fala algo no Discussions.
