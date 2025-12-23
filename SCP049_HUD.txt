@@ -1,23 +1,24 @@
-<b>Essa alma não está mais conosco...</b>
-<b>Essa alma decaiu além da cura...</b>
-<b>Essa alma foi revivida muitas vezes...</b>
-<b>Essa alma não quer mais ser revivida...</b>
-<b>Esse corpo não pode ser revivido...</b>
-<b>Esse corpo já foi consumido.</b>
-<b>Apenas corpos humanos podem ser consumidos.</b>
+Essa alma não está mais conosco.
+Esse corpo expirou.
+Essa alma foi revivida muitas vezes.
+Essa alma não quer ser revivida novamente.
+Essa alma não pode ser revivida.
+Esse corpo já foi consumido.
+Apenas corpos humanos podem ser consumidos.
 RECARGA DE ATAQUE
-Você negou ressurreições posteriores pelo <color=#EC2222>SCP-049</color>!
-Pressione <b>[key]</b> para negar ressurreições posteriores.
-<b>Você não encontrou nenhuma Pestilência para curar.</b>
-<b>Você já está com vida cheia.</b>
-<b>Esse corpo já está sendo consumido.</b>
-Lento e frágil, o SCP-049 é especialista em emboscadas, capaz de mudar o rumo da partida com sua horda de zumbis.
-Rápidos e perigosos, instâncias de SCP-049-2 correm em frente de seu mestre para semear pânico e caos, criando novos corpos para juntar-se à horda.
-<b>\uf21e - Parada Cardíaca</b>:Você estende sua mão enluvada para tocar o coração daqueles que sofrem da Pestilência, causando uma falha rápida das funções de seus órgãos; o que lhe dá a chance de administrar sua cura.
-<b>\uf0f1 - Instinto do Médico</b>:Você muda todo seu foco para uma alma contaminada. Você se move mais rápido, determinado a livrá-la da Pestilência. Você é capaz de medir a distância da vitima usando o aroma pestilento da doença.
-<b>\ue05c - Chamado do Médico</b>:Você sinaliza sua localização para sua horda de zumbis. Quando estão perto de você, seus corpos se fortalecem para tolerar mais dano. Afinal, um excelente médico sempre examina seus pacientes.
-<b>\uf621 - Sem Desperdício & Escassez</b>:Seus instintos médicos não são isentos de uma necessidade de eficiência; você pode reviver seus zumbis repetidamente para te proporcionar conhecimento. Não é todo dia que os mortos ressuscitam duas vezes.
-<b>\ue064 - Lobotomia Vampírica</b>:Sua mente foi forçadamente removida, deixando você apenas com um instinto violento. Você se vê perseguindo humanos cada vez mais rápido enquanto os procura …
-<b>\uf6d7 - Voracidade</b>:A cura não é totalmente sem benefícios. Você pode regenerar sua carne usando a massa de qualquer corpo próximo. Mas não há compartilhamento, então certifique-se de ser o primeiro a chegar ao banquete.
-<b>Curar</b>
-Segure <b>[key]</b>
+Você negou ressurreições posteriores pelo SCP-049!
+Pressione [key] para negar ressurreições posteriores.
+Nenhum alvo encontrado.
+Você já está com a vida máxima.
+Esse corpo já está sendo consumido.
+Trabalhe junto com seus <color=#F00>aliados SCPs</color>. Use suas habilidades para criar e manter uma horda de corpos reanimados, virando o rumo do jogo ao seu favor.
+Trabalhe junto com seus <color=#F00>aliados SCPs</color>. Siga as ordens do <color=#F00>SCP-049</color> e derrube seus alvos, criando corpos recentes para se juntarem à horda.
+Ataque Cardíaco:Pressione [key] em um humano próximo para causar um Ataque Cardíaco, podendo resultar em sua morte se assistência médica não for administrada a tempo. Se a vítima já estiver sofrendo um Ataque Cardíaco, este ataque a matará instantaneamente.
+Instinto do Médico:Pressione [key] em um alvo em sua linha de visão para marcá-lo, aumentando sua velocidade de movimento e capacidades de rastreamento.
+Chamado do Médico:Pressione [key] para gerar um Escudo de Hume às instâncias de SCP-049-2 próximas. Instâncias de SCP-049-2 também podem ver a localização do SCP-049 quando esta habilidade é ativada.
+Ressurreição:Segure [key] em um corpo recentemente falecido para ressuscitá-lo, transformando-o em uma instância de SCP-049-2.
+Lobotomia Vampírica:À medida que você persegue humanos, mantê-los dentro de sua linha de visão aumentará gradualmente sua velocidade de movimento. Isso é representado por um olho vermelho perto do centro da sua interface.
+Voracidade:Pressione [key] em um defunto humano para consumi-lo. Consumir um corpo regenera vida.
+Reviver
+Pressione [key]
+Golpe:Pressione [key] em um humano próximo para atacá-lo, o que causa dano moderado.
