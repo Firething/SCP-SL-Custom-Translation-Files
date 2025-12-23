@@ -32,7 +32,7 @@ VOLUME PRINCIPAL
 VOCÊ É
 Escapou em: [escape_minutes]:[escape_seconds]
 Recarga: [time]\n[item]
-Pressione <color=#ff80bc><b>F1</b></color> para mais informações.
+\n\n\nPressione <color=#ff80bc><b>F1</b></color> para mais informações sobre sua classe.
 <size=40><color=#EC2222>Siga as ordens ou peça ajuda aos seus aliados.</color></size>
 -
 -
