@@ -57,3 +57,4 @@
 61~<color=#6f32b5>\uf09d Passe da Superfície \uf09d</color>~Passe de acesso de uso único para abrir portões de saída.
 62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>A arma viva...</size></color>
 68~<color=#ff0000>🔪 SCP-1509 🔪</color>~<size=75%>A Lâmina do Renascimento</size>\n\n「LMB」: 50 de DANO\n<color=#8079FF>\ue06c</color> Concede ao jogador <color=#8079FF>35 de HS</color>.\n<color=red>\uf714</color>Renasce um aliado morto.
+69~<color=#ff0000>💀 SCP-021-J 💀</color>~Uma sombria, perrigosa energia irradia dessa gafarra de água. Você sente que talvez seja impossílvio de conter. Você se atreveria a tomar um gole?~Maligno :(
