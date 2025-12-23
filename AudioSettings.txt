@@ -24,3 +24,5 @@ Menos Reverberação
 Simulação dos Alto-Falantes de Anúncio
 Controla se os anúncios do sistema de P.A. (como o C.A.S.S.I.E.) são reproduzidos pelo alto-falante mais próximo ou transmitidos globalmente.
 Músicas de Perseguição
+Silenciar efeitos sonoros
+Efeitos Sonoros ao Espectar
