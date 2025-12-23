@@ -1,8 +1,9 @@
-SCP-096 começa dócil, podendo entrar em uma intensa frenesi após alguém ver seu rosto ou o ferir. A Fúria o fortalece com diversas habilidades que ajudam SCP-096 a seguir as 'luzes' do transgressor antes que a fúria acabe.
-<b>\uf5b4 - Tente Não Chorar</b>:É doloroso continuar… contudo apoiar-se em algo o ajuda a se acalmar, seja para se esconder… ou para esperar alguém aparecer na sua frente.
-<b>\uf2a7 - Ataque Direto</b>:Dilacere qualquer coisa em seu caminho para chegar àqueles que o machucaram. Seus ataques irão destruir portas e ferir humanos.
-<b>🏃 - Disparo</b>:Pare as míseras tentativas de fuga deles — eles merecem. Você se joga em linha reta por uma curta distância, demolindo qualquer coisa em seu caminho.
+Trabalhe junto com seus <color=#F00>aliados SCPs</color>. Você começa em um estado Dócil, incapaz de atacar. Puna humanos que observarem você ao desencadear ataques poderosos durante seu estado de Fúria.
+Tente Não Chorar:Quando estiver no estado Dócil, pressione [key] em uma parede reta ou porta/portão para se apoiar nela. Enquanto se apoia, seus choros ficam mais silenciosos e sua taxa de regeneração de Escudo de Hume é duplicada.
+Com Minhas Mãos:Quando estiver no estado de Fúria, pressione [key] para fazer um forte ataque corpo-a-corpo em humanos e portas próximas. Esse ataque não causa dano a humanos que não olharam para seu rosto.
+Disparo:Quando estiver no estado de Fúria, pressione [key] para disparar em extrema velocidade adiante. Esse ataque causa dano massivo a humanos.
 Apenas em Fúria
 Apenas Dócil
-Segure <b>[key]</b> para entrar em Fúria
-Segure <b>[key]</b> para forçar saída da Fúria.
+Segure [key] para entrar em Fúria.
+Segure [key] para forçar saída da Fúria.
+Escopofobia:Você começa em um estado Dócil. Nesse estado, você não pode atacar e se move lentamente. Se um humano olhar para o seu rosto, você ganha a habilidade de entrar em um estado de Fúria. Quando em Fúria, você se move rapidamente e ganha ataques poderosos, mas apenas pode ver os jogadores que observaram você.
