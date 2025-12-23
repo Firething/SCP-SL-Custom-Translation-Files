@@ -1,8 +1,8 @@
 RECARGA DE ATAQUE
 Indisponível nesse nível.
 Indisponível durante o deslocamento de elevador.
-Uma força imparável capaz de burlar facilmente qualquer porta da instalação.
-<b>\uf714 - Captura</b>:Apanha um humano à curta distância, aprisionando-o em sua dimensão portátil — uma prisão mortal ditada pelas suas regras. O prazer de capturar novas presas reabastece o Vigor.
-<b>\uf21d - Perseguição</b>:Submerge você no chão. Mova-se de forma rápida e invisível, regenere-se e prepare-se para atacar sua presa. Usa Vigor, que regenera lentamente quando a Perseguição está inativa.
-<b>\uf279 - Atlas do Caçador</b>:Mova-se rapidamente para uma sala próxima a um grande custo de Vigor. Tal movimento é instintivo para você por ter perambulando pelos corredores do Sítio por tanto tempo.
-<b>\uf728 - Bendita Agonia</b>:Ao Perseguir, você só pode ver humanos feridos. Quanto mais agoniados por ferimentos, maior será a distância de onde pode localizá-los. Fugitivos da dimensão portátil são traumatizados, deixando-os visíveis de qualquer lugar.
+Trabalhe junto com seus <color=#F00>aliados SCPs</color>. Use suas habilidades de teleporte para alcançar rapidamente suas presas ou fugir de situações perigosas.
+Captura:Pressione [key] em um humano próximo para causar dano e o infligir com Corrosão, drenando sua vida. Se a vítima já estiver sofrendo de Corrosão, esse ataque a enviará para sua Dimensão Portátil.
+Perseguição:Pressione [key] para afundar no chão e regenerar Escudo de Hume. Enquanto usa a habilidade Perseguição, você não pode atacar, se move mais rápido e vê humanos acima de você dentro de um curto alcance. Perseguição drena Vigor gradualmente, e pressionar [key] novamente sairá manualmente dela.
+Atlas do Caçador:Segure [key] para abrir um mapa pequeno de seus arredores. Pressione LMB ao passar por cima de um ponto no mapa para teleportar rapidamente até ele e caçar sua presa. Você ganha um curto impulso de velocidade ao teleportar.
+Bendita Agonia:Suas habilidades dependem de um recurso nomeado Vigor, visível acima de seu medidor de vida e Escudo de Hume. Vigor regenera ao se mover e quando você captura humanos.
