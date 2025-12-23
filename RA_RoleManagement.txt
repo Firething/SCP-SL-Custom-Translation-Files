@@ -27,3 +27,5 @@ Destruído
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF0099>「SCP-1507-Σ」</color>
 <color=#ff0000>「1507-049」</color>
+<color=#0096FF>「1507-ONU」</color>
+<color=#559100>「1507-IC」</color>
