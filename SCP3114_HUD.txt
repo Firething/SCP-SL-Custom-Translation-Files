@@ -1,16 +1,16 @@
-Você agora está disfarçado como <b>[role_name]</b>.
-Incapaz de atacar enquanto disfarçado. Segure <b>[key]</b> para remover o seu disfarce atual.
-Itens segurados como <color=red>SCP-3114</color> não podem ser usados.
-Pressione <b>[key]</b> para se comunicar com humanos enquanto disfarçado.
+Você agora está disfarçado como [role_name].
+Incapaz de atacar enquanto disfarçado. Segure [key] para remover o disfarce atual.
+Itens segurados como SCP-3114 não podem ser usados.
+Pressione [key] para se comunicar com humanos enquanto disfarçado.
 Este corpo já foi usado como disfarce.
-Você já está disfarçado. Segure <b>[key]</b> para remover seu disfarce atual.
+Você já está disfarçado. Pressione [key] para remover seu disfarce atual.
 Apenas corpos humanos podem ser usados como um disfarce.
-💀 Esta pilha irreconhecível de ossos são os restos de <color=#ff80bc><b>[player_name]</b></color> 💀
-Você pode usar este corpo para se disfarçar como <b>[role]</b>.
-<b>Disfarçar</b>
+Esta pilha irreconhecível de ossos provavelmente são os restos de <b>[player_name]</b>.
+Você pode usar este corpo para se disfarçar como [role].
+Disfarçar
 Recarga de Estrangulamento
-<b>\uf54c - Esqueletos No Seu Armário</b>:Seu nome e identidade estão escondidos. Você é apenas uma tela em branco e o mundo é sua musa. Enquanto disfarçado como um humano, sua força base permite que você mantenha certos objetos — mas a sua falta de músculos notáveis impede você de usar itens efetivamente.
-<b>\uf5d7 - Pega Essas Mãos</b>:Solte um turbilhão de ataques leves que lentamente diminuem a vida de qualquer um que tenha atingido. Estas camadas microscópicas de pele supostamente rica em cálcio de alguma forma te fornecem destreza e fortalecem sua determinação, restaurando uma pequena quantidade de Escudo de Hume a cada golpe.
-<b>\uf714 - Estrangulamento</b>:Agarre-os pelo pescoço e asfixie a vida para fora deles. Olhe em seus olhos quando eles derem seus últimos suspiros. Suas vidas não passam de velas a serem apagadas, levando apenas alguns segundos. Este ataque pode ser interrompido.
-<b>\uf497 - Sob Suas Peles</b>:Roube para si mesmo uma agradável e quente jaqueta (suas peles) ao interagir com o corpo deles. Envolva-se temporariamente no calor e vista-se com seus suculentos ‘trajes de carne’, imitando a habilidade de segurar certos itens. Pressione [key] para remover abruptamente!
-Pressione e segure <b>[key]</b> por mais tempo para remover seu disfarce atual.
+Esqueletos No Seu Armário:Enquanto está disfarçado, você fica incapaz de atacar jogadores, mas possui um inventário e pode coletar certos itens genéricos. Você também pode se comunicar com humanos próximos através do bate-papo de proximidade ao segurar [key].
+Pega Essas Mãos:Pressione [key] para liberar um turbilhão de ataques de baixo dano em um humano próximo. Matar um humano com esse ataque regenerará uma grande porção do seu Escudo de Hume.
+Estrangulamento:Após remover seu disfarce, você pode segurar [key] em humanos próximos para estrangulá-los. Isso retirará seus itens e os matará rapidamente. Estrangulamento fica disponível apenas por um curto período após remover seu disfarce.
+Sob Suas Peles:Segurar [key] em um corpo permite que você se disfarce como um humano. Você usará o nome e a classe do corpo, deixando uma pilha de ossos para trás. Disfarces gradualmente irão se desfazer, e podem ser removidos cedo ao segurar R.
+Pressione e segure [key] por mais tempo para remover seu disfarce atual.
