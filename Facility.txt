@@ -46,3 +46,4 @@ Ativar Redução de Ruído (recomendado)
 Automático (Padrão)
 Nenhum Microfone Detectado!
 DISPOSITIVO DE ENTRADA
+Pressione [key] para apagar as velas.
