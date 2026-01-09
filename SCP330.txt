@@ -18,5 +18,23 @@
 \n<size=75%><color=#36a7d6>Tem um cheiro suave e doce, algo semelhante a um marshmallow.</color></size>
 <color=#55da09>⛨</color><color=#FFFFFF> Aplica </color><color=#55da09>30 AHP</color>.
 <color=#f47fff>🍓 Doce Rosa 🍬</color>
-\n<size=75%><color=#f47fff>O aroma de morango é tão suave quanto parece..</color></size>
+\n<size=75%><color=#f47fff>O aroma de morango é tão suave quanto parece.</color></size>
 <color=#FFFFFF>💥 ████████ instantânea</color>
+<color=#ffa500>🍊 Doce Laranja 🍬</color>
+\n<size=75%><color=#ffa500>Doces ou travessuras?</color></size>
+
+<color=#ffffff>🍬 Doce Branco 🍬</color>
+\n<size=75%><color=#ffffff>Doces ou travessuras?</color></size>
+
+<color=#808080>🍬 Doce Cinza 🍬</color>
+\n<size=75%><color=#808080>Doces ou travessuras?</color></size>
+
+<color=#000000>🍬 Doce Preto 🍬</color>
+\n<size=75%><color=#000000>O aroma avassalador do completo vazio faz você se engasgar. Você se lembra de tê-lo provado infinitas vezes, mas não consegue se lembrar do sabor.</color></size>
+\n<size=150%>Fornece um efeito aleatório. Sentindo-se com sorte?</size>
+
+<color=#8b4513>🍬 Doce Marrom 🍬</color>
+\n<size=75%><color=#8b4513>Doces ou travessuras?</color></size>
+
+<color=#800000>🍬 Doce Maldito 🍬</color>
+\n<size=75%><color=#800000>Doces ou travessuras?</color></size>
