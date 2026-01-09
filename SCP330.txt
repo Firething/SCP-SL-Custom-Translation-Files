@@ -31,7 +31,7 @@
 
 <color=#000000>🍬 Doce Preto 🍬</color>
 \n<size=75%><color=#000000>O aroma avassalador do completo vazio faz você se engasgar. Você se lembra de tê-lo provado infinitas vezes, mas não consegue se lembrar do sabor.</color></size>
-\n<size=150%>Fornece um efeito aleatório. Sentindo-se com sorte?</size>
+\n<size=150%><color=#000000>❓</color> Fornece um efeito aleatório. Sentindo-se com sorte?</size>
 
 <color=#8b4513>🍬 Doce Marrom 🍬</color>
 \n<size=75%><color=#8b4513>Doces ou travessuras?</color></size>
