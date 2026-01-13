@@ -22,7 +22,7 @@ Você foi morto por uma explosão próxima.\n Causado por: <color=#5180f7>Granad
 Lacerações maciças e perda excessiva de sangue.\n Causado por: <color=#e52121>SCP-096</color>
 Fratura cervical na base do crânio.\n Causado por: <color=#e52121>SCP-173</color>
 A mordida de 87\n Causado por: <color=#e52121>SCP-939</color>
-Grande quantidade de arranhões pequenos está presente.\n Causado por: <color=#FF59CA>SCP-1507</color>
+Grande quantidade de arranhões pequenos está presente.\n Causado por: <color=#FF59CA>SCP-1507</color>/<color=#e52121>SCP-3114</color>/<color=#36a7d6>Homem Marshmallow</color>/EU NÃO SEI MAIS, P*RRAAA!!! TÊM COISAS DEMAIS QUE PODEM TE MATAR E QUE USAM ESSA RAZÃO DE MORTE - POR QUÊÊÊ, DESGRAMA??!?
 Feridas de bala de calibre [ammotype].
 Gravemente mutilado e desfigurado.\n Causado por: <color=#e52121>SCP-018</color>
 Sinais de trauma severo em ambos fêmures sugere morte por choque circulatório.
