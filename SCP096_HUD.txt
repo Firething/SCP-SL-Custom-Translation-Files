@@ -6,4 +6,4 @@ Apenas em Fúria
 Apenas Dócil
 Segure [key] para entrar em Fúria.
 Segure [key] para forçar saída da Fúria.
-Escopofobia:Você começa em um estado Dócil. Nesse estado, você não pode atacar e se move lentamente. Se um humano olhar para o seu rosto, você ganha a habilidade de entrar em um estado de Fúria. Quando em Fúria, você se move rapidamente e ganha ataques poderosos, mas apenas pode ver os jogadores que observaram você.
+Escopofobia:Você começa em um estado Dócil. Nesse estado, não pode atacar e se move lentamente. Se um humano olhar para o seu rosto, você ganha a habilidade de entrar em um estado de Fúria. Quando em Fúria, se move rapidamente e ganha ataques poderosos, mas apenas pode ver os jogadores que observaram você.
