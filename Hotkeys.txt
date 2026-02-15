@@ -21,7 +21,7 @@ Ordem do Inventário
 A seleção é baseada em sua ordem no inventário.
 Nenhum
 Melhor Medicina
-Tenta equipar o melhor item médico com base em sua saúde, quantia de estâmina ou efeitos de status.
+Tenta equipar o melhor item médico com base em sua saúde, quantia de vigor ou efeitos de status.
 Lembrar do anterior
 O ponto inicial da sequência não será redefinido ao selecionar um item diferente.
 Detecção de acesso à porta
