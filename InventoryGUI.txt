@@ -8,7 +8,7 @@ Comprimento
 SOLTAR:
 Eficácia do Capacete
 Eficácia do Colete
-Uso de Estâmina
+Uso de Vigor
 Velocidade de Movimento
 Limite de Itens:
 Limite de Munição:
