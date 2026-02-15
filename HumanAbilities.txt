@@ -1,4 +1,4 @@
-Corrida:Segure [key] para consumir estamina e se mover a uma velocidade maior. Estâmina regenera quando você para de correr. Fique atento ao uso!
+Corrida:Segure [key] para consumir vigor e se mover a uma velocidade maior. Vigor regenera quando você para de correr. Fique atento ao uso!
 Furtividade:Pressione [key] para se esgueirar. Faz seus passos ficarem silenciosos ao preço de uma velocidade menor.
 Inventário:Pressione [key] para abrir seu inventário, o que exibe seus itens e munição. Passe por cima de um item com seu mouse para examiná-lo. Pressione LMB para equipar itens, e RMB para largá-los.
 Bolsos Vazios:Como Classe-D, você começa a partida com nada. Você deve trabalhar junto de seus aliados e vasculhar por itens para sobreviver.
