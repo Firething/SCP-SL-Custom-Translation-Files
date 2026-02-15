@@ -20,7 +20,7 @@
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-096</color> destruirá portas e abrirá portões à força quando em Fúria.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color> pode imitar as vozes de jogadores que matou anteriormente.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color> pode implantar uma nuvem de gás amnésico. Humanos sob seus efeitos não podem perceber a <color=#EC2222>SCP-939</color> até ela atacar ou chegar perto.
-<color=#EC2222>「🌀」</color> - Quanto menor a estâmina da <color=#EC2222>SCP-939</color> estiver, pior se torna a percepção de jogadores dela.
+<color=#EC2222>「🌀」</color> - Quanto menor o vigor da <color=#EC2222>SCP-939</color> estiver, pior se torna a percepção de jogadores dela.
 <color=#EC2222>「🌀」</color> - Quanto mais tempo a <color=#EC2222>SCP-939</color> estiver em Foco, mais efetiva a habilidade Ultrassensível se torna.
 <color=#EC2222>「🌀」</color> - Ser atacado pelo <color=#EC2222>SCP-049</color> inflige parada cardíaca em um humano. Saúde e estâmina drenam rapidamente durante esse tempo.
 <color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color> pode matar instantaneamente qualquer humano que já esteja sob os efeitos de uma parada cardíaca.
@@ -80,9 +80,9 @@
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> pode recarregar rádios e armas especiais.
 <color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> pode criar um número de itens únicos que não podem ser encontrados em lugar algum. Sinta-se livre para experimentar!
 <size=125%><color=#e8b923>「⭐」</color> - 😽!</color>
-<color=#e8b923>「⭐」</color> - Sua estâmina é um recurso precioso, economize um pouco para emergências!
+<color=#e8b923>「⭐」</color> - Seu vigor é um recurso precioso, economize um pouco para emergências!
 <color=#e8b923>「⭐」</color> - Usar um elevador é uma forma rápida e fácil de escapar da maioria dos <color=#EC2222>SCPs</color>.
-<color=#e8b923>「⭐」</color> - A Adrenalina pode ser usada para regenerar instantaneamente sua estâmina e te dá uma vantagem em combate.
+<color=#e8b923>「⭐」</color> - A Adrenalina pode ser usada para regenerar instantaneamente seu vigor e te dá uma vantagem em combate.
 <color=#e8b923>「⭐」</color> - Rádios têm quatro opções de alcance. Quanto maior o alcance, mais rápido a batéria drena.
 <color=#e8b923>「⭐」</color> - Você pode jogar itens (‘T’ por padrão). Isso pode ser usado para abrir portas fechadas por cartão à distância ou para quebrar vidros.
 <color=#e8b923>「⭐」</color> - Vestir coletes aumenta o número de itens e munição que você pode carregar.
