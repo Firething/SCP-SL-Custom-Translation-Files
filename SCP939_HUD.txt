@@ -45,4 +45,4 @@ Arraste para cortar a gravação
 Favoritar. Gravações favoritadas são vinculadas a um atalho.
 Arraste para reordenar as gravações
 <color=red>⚠</color> Você roubou a voz do seu alvo! <color=red>🔊</color>
-Corrida:Segure [key] para consumir estamina e se mover a uma velocidade maior. Estâmina regenera quando você para de correr. Fique atento ao uso!
+Corrida:Segure [key] para consumir vigor e se mover a uma velocidade maior. Vigor regenera quando você para de correr. Fique atento ao uso!
