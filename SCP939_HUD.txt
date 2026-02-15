@@ -14,8 +14,8 @@ A Nuvem não pode ser implantada nessa posição.
 O tamanho mínimo da Nuvem não foi alcançado. Segure a tecla de implante por mais tempo.
 Trabalhe junto com seus <color=#F00>aliados SCPs</color>. Você é cega e só pode ver humanos próximos, mas é capaz de rastreá-los através de bipes sonoros. Use suas habilidades para emboscar, desorientar e localizar seus alvos.
 Garra:Pressione [key] para deslizar suas garras em um humano próximo, o que causa dano moderado. Esse dano pode ser mitigado por armaduras.
-Foco:Segure [key] para se abaixar. Você não pode se mover enquanto abaixada, mas ganha a habilidade de Investir adiante ao pressionar LMB. Investir em um humano causará dano massivo, frequentemente os matando instantaneamente.
-Nuvem Amnésica:Segure [key] para implantar uma invisível Nuvem Amnésica. Humanos que andarem na nuvem não poderão te ver até que você os ataque.
+Foco:Segure [key] para se abaixar. Você não pode se mover enquanto abaixada, mas ganha a habilidade de Investir adiante ao pressionar LMB. Investir em um humano causará dano massivo, frequentemente os matando em um só golpe.
+Nuvem Amnésica:Segure [key] para implantar uma invisível Nuvem Amnésica. Humanos que andarem na nuvem não poderão vê-la até que você os ataque.
 Com Muitas Vozes:Você é capaz de imitar vários sons, incluindo as vozes de suas vítimas, através de um menu que pode ser aberto ao pressionar [Tab]. Use isso para enganar humanos e levá-los a uma armadilha.
 Ultrassensível:Você é cega e só pode ver dentro de um raio pequeno. No entanto, pode ver bipes produzidos por humanos quando eles fazem som. Use esses bipes para localizar seus alvos.
 -
