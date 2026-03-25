@@ -69,7 +69,7 @@
 <color=#e8b923>「⭐」</color> - <color=#FFFF7C>Cientistas</color> e <color=#FF8E00>Classe-Ds</color> devem chegar à superfície para escapar.
 <color=#e8b923>「⭐」</color> - <color=#556278>Guardas da Instalação</color> são fracos sozinhos, mas fortes em grandes números. Fiquem juntos!
 <color=#e8b923>「⭐」</color> - <color=#FF8E00>Classe-Ds</color> que fugirem se juntam à <color=#559100>Insurgência do Caos</color>, enquanto <color=#FFFF7C>Cientistas</color> que fugirem se tornam parte da <color=#00D9FF>FTM</color>.
-<color=#e8b923>「⭐」</color> - Unidades de<color=#0096FF>Força-Tarefa Móvel</color> e <color=#008F1C>Insurgentes do Caos</color> chegam em lados opostos da Zona de Superfície.
+<color=#e8b923>「⭐」</color> - Unidades de <color=#0096FF>Força-Tarefa Móvel</color> e <color=#008F1C>Insurgentes do Caos</color> chegam em lados opostos da Zona de Superfície.
 <color=#e8b923>「⭐」</color> - Há quatro zonas principais na Instalação: Contenção Leve, Contenção Pesada, Entrada e Superfície.
 <color=#e8b923>「⭐」</color> - A Zona de Entrada tem dois portões que fornecem acesso à superfície. Você precisará de um cartão para abri-los.
 <color=#e8b923>「⭐」</color> - Portões de Tesla são perigos elétricos encontrados ao longo da Zona de Contenção Pesada. Prossiga com cautela!
