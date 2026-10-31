@@ -8,7 +8,7 @@
 7~<color=#0096FF>💳 Cartão de Agente da FTM 💳</color>
 8~<color=#003DCA>💳 Cartão de Capitão da FTM 💳</color>
 9~<color=#ba1846>💳 Cartão de Diretor do Sítio 💳</color>
-10~<color=#008F1C>📟 Dispositivo Hijacker da Insurgência 📟</color>
+10~<color=#008F1C>📟 Dispositivo de Acesso da I.C 📟</color>
 11~<color=#FFFFFF>💳 Cartão Nível-O5 💳</color>
 12~<color=#5B6370>📻 Rádio 📻</color>~Permite comunicação entre dispositivos a longas distâncias.\n\nSR - 108m\nMR - 180m\nLR - 1080m\nUR - 7200m
 13~<color=#FFFF7C>\uf05b COM-15 \uf05b</color>
@@ -16,7 +16,7 @@
 15~<color=#FF8E00>🔦 Lanterna 🔦</color>~Que haja luz!
 16~<color=#003DCA>⚡ Micro H.I.D. ⚡</color>~<size=135%>Dispositivo elétrico pesado designado para a exterminação de anomalias.\n\n「Primário」: 400 DPS\n「Carregado」: 1000 DPS\n<color=#767676>🏃</color> Penalidade de vigor - 30%.</size>
 17~<color=#ff0000>💊 SCP-500 💊</color>~<color=#f57caa>💗</color> Regenera a vida do jogador completamente\n<color=#f57caa>✚</color> Regenera 200 HP\n<color=#ffb4ff>♻️</color> Remove certos efeitos
-18~<color=#ff0000>\uf72f SCP-207-C \uf72f</color>~<color=#767676>🏃</color> <size=90%>Aumenta a velocidade de movimento</size>\n<color=#767676>🏃</color> Corrida infinita\n<color=#f57caa>💔</color> Drena HP\n\n<size=75%>Nocivamente aumenta suas coordenações motoras.\nNÃO MISTURE COM:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
+18~<color=#ff0000>\uf72f SCP-207 \uf72f</color>~<color=#767676>🏃</color> <size=90%>Aumenta a velocidade de movimento</size>\n<color=#767676>🏃</color> Corrida infinita\n<color=#f57caa>💔</color> Drena HP\n\n<size=75%>Nocivamente aumenta suas coordenações motoras.\nNÃO MISTURE COM:\n<color=red>SCP-1853</color>\n<color=#004B93>O-207-914</color></size>
 47~<color=#003DCA>\uf05b Disruptor de Partícula 3-X \uf05b</color>
 20~<color=#0096FF>\uf05b MTF-ε-11-SR \uf05b\n<size=75%>Rifle Padrão Recuperador de Instalação</size></color>
 21~<color=#70C3FF>\uf05b Crossvec \uf05b\n<size=75%>C.R.O.S.S.</size></color>
@@ -25,7 +25,7 @@
 25~<color=#0096FF>💥 Granada Explosiva 💥</color>~<color=orange>💥</color> 900 de DANO para <color=red>SCPs</color>.\n<color=#8079FF>⛨</color> 2x de DANO para <color=#8079FF>Escudo de Hume</color>.\n<color=orange>🔥</color> Queima jogadores machucados por ela.\n\uf2f2 3.5s de tempo para explodir.
 26~<color=#5B6370>💣 Granada de Luz 💣\nModelo FG02</color>~<color=#5B6370>\uf06e</color> Cega jogadores inimigos por até 5s.\n\uf2f2 2.8s de tempo para explodir.
 30~<color=#5B6370>\uf05b CSP-18 \uf05b\n<size=75%>Pistola de Segurança Compacta</size></color>
-31~<color=red>⚽ SCP-018 ⚽</color>~<size=85%><color=#ffeb00>👥</color> Tolerância ao Fogo-Amigo - 10s.\n💨 Velocidade duplica a cada quicada.\n⚽ 10x de DANO para <color=red>SCPs</color>.\n<color=orange>💥</color> Explode depois de 80s.</size>
+31~<color=red>🎃 SCP-018 🎃</color>~<size=85%><color=#ffeb00>👥</color> Tolerância ao Fogo-Amigo - 10s.\n💨 Velocidade duplica a cada quicada.\n⚽ 10x de DANO para <color=red>SCPs</color>.\n<color=orange>💥</color> Explode depois de 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibilidade - 15s.
 33~<color=#FFFF7C>💉 Adrenalina 💉</color>~<color=#55da09>⛨</color> Concede <color=#55da09>40 AHP</color> ao jogador.\n<color=#767676>🏃</color> Regenera a barra de vigor.\n<color=#767676>🏃</color> Corrida infinita - 8s.
 34~<color=#FFFF7C>\uf490 Analgésicos \uf490</color>~<color=#f57caa>✚</color> Regenera 50 HP.
@@ -45,16 +45,16 @@
 48~<color=#ff0000>\uf05b COM-45 \uf05b\n<size=75%>Pistola Automática Tripla</size></color>
 49~<color=#ff0000>🔊 SCP-1576 🔊</color>~👻 Fale com os mortos\n\uf2f2 Tempo de comunicação - 30s.
 50~<color=#ff0000>🍭 Jailbird 🍭</color>~<size=75%>É um… Bastão de Choque!?</size>\n\nGolpe 「LMB」: 50 de DANO\nGolpe Carregado 「RMB」: 200 de DANO\n<color=#8079FF>\ue06c</color> Penetra <color=#8079FF>Escudo de Hume</color>.
-51~<color=#004B93>\uf72f O-207-914 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Diminui a velocidade de movimento</size>\n<color=#f57caa>✚</color> Regenera HP\n<color=#55da09>⛨</color> Fornece 75 AHP\n\n<size=75%>Vai salvar tua vida em um momento de aperto.\nNÃO MISTURE COM:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
+51~<color=#004B93>\uf72f Anti-SCP-207 \uf72f</color>~<color=#767676>🐌</color> <size=90%>Diminui a velocidade de movimento</size>\n<color=#f57caa>✚</color> Regenera HP\n<color=#55da09>⛨</color> Fornece 75 AHP\n\n<size=75%>Vai salvar tua vida em um momento de aperto.\nNÃO MISTURE COM:\n<color=red>SCP-1853</color>\n<color=red>SCP-207</color></size>
 52~<color=#003DCA>\uf05b MTF-ε-11-MG \uf05b\n<size=75%>Metralhadora de Recuperação da Instalação</size></color>
 53~<color=#ff0000>\uf05b A7 \uf05b\n<size=75%>Coronha Automática</size></color>
-54~<color=#FF8E00>🏮 Lamparina 🏮</color>~Uma clássica lâmpada a óleo, gravada com o nome "Daniel".
+54~<color=#FF8E00>🏮 Lamparina 🏮</color>~Uma clássica lâmpada a óleo.
 55~<color=red>\uf729 SCP-1344-03 \uf729</color>~<size=80%><color=#ffb4ff>\uf06e</color> Veja jogadores através das paredes.</size>\n\n<b>NÃO REMOVA</b>
 56~\uf2dc Bola de Neve \uf2dc~「Normal」: 15 de DANO\n「Carregado」: 30 de DANO\nx2 de DANO na cabeça\n<color=#8079FF>\ue06c</color> Penetra <color=#8079FF>Escudo de Hume</color>
 57~Carvão~Você está na lista de desobedientes!
 58~SCP-2536-2~Teleporta o jogador a um <color=red>SCP</color> aleatório.
 59~<color=#FF59CA>📼 Toca-Fita 📼</color>~Começar aviso sonoro em 3..2..1..\n Nasce a horda de:\n<color=#FF59CA>SCP-1507s</color>
 61~<color=#6f32b5>\uf09d Passe da Superfície \uf09d</color>~Passe de acesso de uso único para abrir portões de saída.
-62~<color=#ff0000>\uf05b SCP-127 \uf05b\n<size=75%>A arma viva…</size></color>
+62~<color=#ff0000>\uf5c9 SCP-127 \uf5c9\n<size=75%>A arma viva…</size></color>
 68~<color=#ff0000>🔪 SCP-1509 🔪</color>~<size=75%>A Lâmina do Renascimento</size>\n\n「LMB」: 50 de DANO\n<color=#8079FF>\ue06c</color> Concede ao jogador <color=#8079FF>35 de HS</color>.\n<color=red>\uf714</color>Renasce um aliado morto.
-69~<color=#ff0000>💀 SCP-021-J 💀</color>~Uma sombria, perrigosa energia irradia dessa gafarra de água. Você sente que talvez seja impossílvio de conter. Você se atreveria a tomar um gole?~Maligno :(
+69~<color=#ff0000>💀 SCP-021-J 💀</color>~Rapidamente converte tecido corporal em marshmallow.\nParte Homem, Parte Marshmallow.\nTotalmente <b>MALIGNO</b>.
