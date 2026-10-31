@@ -1,7 +1,7 @@
 💀 É o corpo de <color=#ff80bc><b>[user]</b></color> - era [class]!\n Observação: [cause]
 Recontido.
-Vaporizado pela Ogiva Alfa.\n Causado por: <color=#f5650a>Fracasso em evacuar a tempo.</color>
-Parada Cardíaca | Traumatismo por força bruta\n Causado por: <color=#e52121>SCP-049</color>/<color=#e52121>SCP-049-2</color>
+Vaporizado pela Ogiva Alfa.
+Parada Cardíaca | Traumatismo por força bruta\n Causado por: <color=#EC2222>SCP-049</color>/<color=#EC2222>SCP-049-2</color>
 Causa desconhecida da morte.\n Causado por: <color=#f5650a>Desconhecido</color>
 Queimaduras elétricas graves.
 A privação de oxigênio resultou em uma morte por asfixia.
@@ -9,28 +9,28 @@ Perda severa de sangue causada por feridas profundas.
 Você sofreu uma hemorragia.
 Pernas e pés quebrados sugerem trauma fatal causado por uma queda.
 Você afligiu-se fatalmente com a queda.
-Corrosão pode ser observada no corpo.\n Causado por: <color=#e52121>SCP-106</color>
+Corrosão pode ser observada no corpo.\n Causado por: <color=#EC2222>SCP-106</color>
 Derretido por uma substância altamente corrosiva.\n Causado por: <color=#7cf58d>Descontaminação</color>
 Pele amarela enferma e um cheiro rançoso\n Causado por: <color=#F5650A>Ingestão de Veneno.</color>
-O veneno terminou com sua vida.\n Causado por: misturar <color=#e52121>SCP-207</color> com <color=#e52121>SCP-1853</color>
-Pele pálida e sangue vazando pela boca. \n Causado por: <color=#e52121>SCP-207</color>
+O veneno terminou com sua vida.\n Causado por: misturar <color=#EC2222>SCP-207</color> com <color=#EC2222>SCP-1853</color>
+Pele pálida e sangue vazando pela boca. \n Causado por: <color=#EC2222>SCP-207</color>
 <color=#e52121>SCP-207</color> terminou com sua vida.
 Você não deveria ter pego mais de dois!\n Causado por: <color=#e52121>SCP-330</color>
 Você foi pego por um Portão de Tesla.
 Estilhaço e queimaduras graves presentes.\n Causado por: <color=orange>Explosão</color>
-Você foi morto por uma explosão próxima.\n Causado por: <color=#5180f7>Granada Explosiva</color>/<color=#ff80bc>Funny</color>
-Lacerações maciças e perda excessiva de sangue.\n Causado por: <color=#e52121>SCP-096</color>
-Fratura cervical na base do crânio.\n Causado por: <color=#e52121>SCP-173</color>
+Você foi morto por uma explosão próxima.
+Lacerações maciças e perda excessiva de sangue.\n Causado por: <color=#EC2222>SCP-096</color>
+Fratura cervical na base do crânio.\n Causado por: <color=#EC2222>SCP-173</color>
 A mordida de 87\n Causado por: <color=#e52121>SCP-939</color>
-Grande quantidade de arranhões pequenos está presente.\n Causado por: <color=#FF59CA>SCP-1507</color>/<color=#e52121>SCP-3114</color>/<color=#36a7d6>Homem Marshmallow</color>/EU NÃO SEI MAIS, P*RRAAA!!! TÊM COISAS DEMAIS QUE PODEM TE MATAR E QUE USAM ESSA RAZÃO DE MORTE - POR QUÊÊÊ, DESGRAMA??!?
-Feridas de bala de calibre [ammotype].
+Grande quantidade de arranhões pequenos está presente.\n Causado por: <color=#FF59CA>Inde</color><color=#EC2222>termi</color><color=#36a7d6>nado</color>
+Seriamente mutilado e triturado.
 Gravemente mutilado e desfigurado.\n Causado por: <color=#e52121>SCP-018</color>
 Sinais de trauma severo em ambos fêmures sugere morte por choque circulatório.
 Você foi sacrificado para reconter o SCP-106.
 Automaticamente morto devido à prática de fogo amigo.
-Pele fria e dedos congelados.\n Causado por: Hipotermia induzida pelo <color=#e52121>SCP-244</color>.
-Você congelou até a morte.\n Causado por: Passar muito tempo dentro da neblina do <color=#e52121>SCP-244</color>.
-Lacerações profundas e arranhões estão presentes no corpo.\n Causado por: <color=#e52121>SCP-939</color>
+Pele fria e dedos congelados.\n Causado por: Hipotermia induzida pelo <color=#EC2222>SCP-244</color>.
+Você congelou até a morte.
+Lacerações profundas e arranhões estão presentes no corpo.\n Causado por: <color=#EC2222>SCP-939</color>
 O Homem Marshmallow matou você!
 Feridas de bala com resíduos orgânicos.\n Causado por: <color=red>SCP-127</color>
 Múltiplas feridas abertas com insetos pequenos rastejando para fora delas.\n Causado por: <color=red>SCP-1509</color>
