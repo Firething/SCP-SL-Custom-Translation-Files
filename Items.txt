@@ -25,7 +25,7 @@
 25~<color=#0096FF>💥 Granada Explosiva 💥</color>~<color=orange>💥</color> 900 de DANO para <color=red>SCPs</color>.\n<color=#8079FF>⛨</color> 2x de DANO para <color=#8079FF>Escudo de Hume</color>.\n<color=orange>🔥</color> Queima jogadores machucados por ela.\n\uf2f2 3.5s de tempo para explodir.
 26~<color=#5B6370>💣 Granada de Luz 💣\nModelo FG02</color>~<color=#5B6370>\uf06e</color> Cega jogadores inimigos por até 5s.\n\uf2f2 2.8s de tempo para explodir.
 30~<color=#5B6370>\uf05b CSP-18 \uf05b\n<size=75%>Pistola de Segurança Compacta</size></color>
-31~<color=red>🎃 SCP-018 🎃</color>~<size=85%><color=#ffeb00>👥</color> Tolerância ao Fogo-Amigo - 10s.\n💨 Velocidade duplica a cada quicada.\n⚽ 10x de DANO para <color=red>SCPs</color>.\n<color=orange>💥</color> Explode depois de 80s.</size>
+31~<color=red>🔴 SCP-018 🔴</color>~<size=85%><color=#ffeb00>👥</color> Tolerância ao Fogo-Amigo - 10s.\n💨 Velocidade duplica a cada quicada.\n⚽ 10x de DANO para <color=red>SCPs</color>.\n<color=orange>💥</color> Explode depois de 80s.</size>
 32~<color=#ff0000>🎩 SCP-268 🎩</color>~◌ Invisibilidade - 15s.
 33~<color=#FFFF7C>💉 Adrenalina 💉</color>~<color=#55da09>⛨</color> Concede <color=#55da09>40 AHP</color> ao jogador.\n<color=#767676>🏃</color> Regenera a barra de vigor.\n<color=#767676>🏃</color> Corrida infinita - 8s.
 34~<color=#FFFF7C>\uf490 Analgésicos \uf490</color>~<color=#f57caa>✚</color> Regenera 50 HP.
